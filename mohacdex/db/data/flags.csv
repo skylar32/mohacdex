@@ -1,0 +1,21 @@
+identifier,name
+makes-contact,Makes contact
+charges,Requires a turn to charge
+recharges,Requires a turn to recharge
+blockable,Blocked by protecting moves
+reflectable,Reflectable
+snatchable,Snatchable
+mirror-move,Copied by Mirror Move
+punch,Punch-based
+sound,Sound-based
+gravity,Unusable when Gravity is in effect
+defrosts,Defrosts when used
+far-reaching,Targets opposite side in triple battles
+heals,Heals
+bypasses-substitute,Ignores Substitute
+banned-sky,Unusable during Sky Battles
+dance,Dance-based
+ballistic,Ballistics-based
+pulse,Pulse-based
+jaw,Jaw-based
+powder,Powder-based
