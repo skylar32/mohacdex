@@ -9,7 +9,7 @@ class Move(Base):
     identifier = Column(Unicode, primary_key=True)
     name = Column(Unicode, nullable=False)
     
-    type = Column(Unicode, nullable=False)
+    type = Column(Unicode, ForeignKey("types.identifier"), nullable=False)
     damage_class = Column(Unicode, nullable=False)
     
     power = Column(Integer)
