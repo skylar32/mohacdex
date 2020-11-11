@@ -9,7 +9,7 @@ limber,Limber,Its limber body protects the Pokémon from paralysis.
 sand-veil,Sand Veil,Boosts the Pokémon’s evasion in a sandstorm.
 static,Static,"The Pokémon is charged with static electricity, so contact with it may cause paralysis."
 volt-absorb,Volt Absorb,"Restores HP if hit by an [[types:Electric]]-type move, instead of taking damage."
-water-absorb,Water Absorb,"Restores HP if hit by a types:Water]]-type move, instead of taking damage."
+water-absorb,Water Absorb,"Restores HP if hit by a [[types:Water]]-type move, instead of taking damage."
 oblivious,Oblivious,"The Pokémon is oblivious, and that keeps it from being infatuated or falling for taunts."
 cloud-nine,Cloud Nine,Eliminates the effects of weather.
 compound-eyes,Compound Eyes,The Pokémon’s compound eyes boost its accuracy.
@@ -177,7 +177,7 @@ sweet-veil,Sweet Veil,Prevents itself and ally Pokémon from falling asleep.
 stance-change,Stance Change,"The Pokémon changes its form to Blade Forme when it uses an attack move, and changes to Shield Forme when it uses King’s Shield."
 gale-wings,Gale Wings,Gives priority to [[types:Flying]]-type moves when the  Pokémon’s HP is full.
 mega-launcher,Mega Launcher,Powers up aura and pulse moves.
-grass-pelt,Grass Pelt,Boosts the Pokémon’s Defense stat in Grassy Terrain.
+grass-pelt,Grass Pelt,Boosts the Pokémon’s Defense stat in [[moves:Grassy Terrain]].
 symbiosis,Symbiosis,The Pokémon passes its item to an ally that has used up an item.
 tough-claws,Tough Claws,Powers up moves that make direct contact.
 pixilate,Pixilate,[[types:Normal]]-type moves become [[types:Fairy]]-type moves. The power of those moves is boosted a little.
@@ -205,7 +205,7 @@ long-reach,Long Reach,The Pokémon uses its moves without making contact with th
 liquid-voice,Liquid Voice,All sound-based moves become [[types:Water]]-type moves.
 triage,Triage,Gives priority to a healing move.
 galvanize,Galvanize,[[types:Normal]]-type moves become [[types:Electric]]-type moves. The power of those moves is boosted a little.
-surge-surfer,Surge Surfer,Doubles the Pokémon’s Speed stat on Electric Terrain.
+surge-surfer,Surge Surfer,Doubles the Pokémon’s Speed stat on [[moves:Electric Terrain]].
 schooling,Schooling,"When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low."
 disguise,Disguise,"Once per battle, the shroud that covers the Pokémon can protect it from an attack."
 battle-bond,Battle Bond,"Defeating an opposing Pokémon strengthens the Pokémon’s bond with its Trainer, and it becomes Ash-Greninja. [[moves:Water Shuriken]] gets more powerful."
@@ -224,10 +224,10 @@ receiver,Receiver,The Pokémon copies the Ability of a defeated ally.
 power-of-alchemy,Power of Alchemy,The Pokémon copies the Ability of a defeated ally.
 beast-boost,Beast Boost,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
 rks-system,RKS System,Changes the Pokémon’s type to match the memory disc it holds.
-electric-surge,Electric Surge,Turns the ground into Electric Terrain when the Pokémon enters a battle.
-psychic-surge,Psychic Surge,Turns the ground into Psychic Terrain when the Pokémon enters a battle.
-misty-surge,Misty Surge,Turns the ground into Misty Terrain when the Pokémon enters a battle.
-grassy-surge,Grassy Surge,Turns the ground into Grassy Terrain when the Pokémon enters a battle.
+electric-surge,Electric Surge,Turns the ground into [[moves:Electric Terrain]] when the Pokémon enters a battle.
+psychic-surge,Psychic Surge,Turns the ground into [[moves:Psychic Terrain]] when the Pokémon enters a battle.
+misty-surge,Misty Surge,Turns the ground into [[moves:Misty Terrain]] when the Pokémon enters a battle.
+grassy-surge,Grassy Surge,Turns the ground into [[moves:Grassy Terrain]] when the Pokémon enters a battle.
 full-metal-body,Full Metal Body,Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.
 shadow-shield,Shadow Shield,Reduces the amount of damage the Pokémon takes while its HP is full.
 prism-armor,Prism Armor,Reduces the power of supereffective attacks taken.
