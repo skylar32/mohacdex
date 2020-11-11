@@ -1,4 +1,4 @@
-move,flag
+move,flag_name
 pound,makes-contact
 pound,blockable
 pound,mirror-move

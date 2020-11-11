@@ -1,21 +1,21 @@
-identifier,name
-makes-contact,Makes contact
-charges,Requires a turn to charge
-recharges,Requires a turn to recharge
-blockable,Blocked by protecting moves
-reflectable,Reflectable
-snatchable,Snatchable
-mirror-move,Copied by Mirror Move
-punch,Punch-based
-sound,Sound-based
-gravity,Unusable when Gravity is in effect
+identifier,name,description
+makes-contact,Makes contact,
+charges,Requires a turn to charge,The Pokémon may not move for the turn after this move is used.
+recharges,Requires a turn to recharge,This move takes a turn to charge.
+blockable,Blocked by protecting moves,This move will fail when the target uses a protecting move such as [[moves:Protect]] or [[moves:Detect]].
+reflectable,Reflectable,This move can be bounced back by [[abilities:Magic Coat]] and [[abilities:Magic Bounce]].
+snatchable,Snatchable,This move's effect can be stolen by [[moves:Snatch]].
+mirror-move,Copied by Mirror Move,A Pokémon targeted by this move can use [[moves:Mirror Move]] to copy it.
+punch,Punch-based,This move's power is boosted by [[abilities:Iron Fist]].
+sound,Sound-based,Pokémon with [[abilities:Soundproof] are immmune to this move, and it can be prevented by [[moves:Throat Chop]].
+gravity,Unusable during Gravity,This move can't be use when [[move:Gravity]] is under effect.
 defrosts,Defrosts when used
-far-reaching,Targets opposite side in triple battles
-heals,Heals
-bypasses-substitute,Ignores Substitute
+far-reaching,Targets opposite side in triple battles,This move can target any foe in a triple battle.
+heals,Heals,This move is blocked by [[moves:Heal Block]].
+bypasses-substitute,Ignores Substitute,This move hits the target even if it has a [[moves:Substitute]] active.
 banned-sky,Unusable during Sky Battles
-dance,Dance-based
-ballistic,Ballistics-based
-pulse,Pulse-based
-jaw,Jaw-based
-powder,Powder-based
+dance,Dance-based,This move triggers [[abilities:Dancer]].
+ballistic,Ballistics-based,Pokémon with [[abilities:Bulletproof]] are immune to this move.
+pulse,Pulse-based,This move's power is boosted by [[abilities:Mega Launcher]].
+jaw,Jaw-based,This move's power is boosted by [[abilities:Strong Jaw]].
+powder,Powder-based,[[types:Grass]]-type Pokémon and Pokémon with [[abilities:Overcoat]] are immune to this move.

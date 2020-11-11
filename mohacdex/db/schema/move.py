@@ -27,12 +27,15 @@ class Flag(Base):
     
     identifier = Column(Unicode, primary_key=True)
     name = Column(Unicode, nullable=False)
+    description = Column(Unicode)
     
 class MoveFlag(Base):
     __tablename__ = "move_flags"
     
-    flag = Column(Unicode, ForeignKey("flags.identifier"), primary_key=True)
     move = Column(Unicode, ForeignKey("moves.identifier"), primary_key=True)
+    
+    flag_name = Column(Unicode, ForeignKey("flags.identifier"), primary_key=True)
+    flag = relationship("Flag")
     
 class Target(Base):
     __tablename__ = "targets"
