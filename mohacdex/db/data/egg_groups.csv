@@ -1,0 +1,1527 @@
+pokemon_identifier,egg_group
+bulbasaur,Monster
+bulbasaur,Grass
+ivysaur,Monster
+ivysaur,Grass
+venusaur,Monster
+venusaur,Grass
+venusaur-mega,Monster
+venusaur-mega,Grass
+charmander,Monster
+charmander,Dragon
+charmeleon,Monster
+charmeleon,Dragon
+charizard,Monster
+charizard,Dragon
+charizard-mega-x,Monster
+charizard-mega-x,Dragon
+charizard-mega-y,Monster
+charizard-mega-y,Dragon
+squirtle,Monster
+squirtle,Water 1
+wartortle,Monster
+wartortle,Water 1
+blastoise,Monster
+blastoise,Water 1
+blastoise-mega,Monster
+blastoise-mega,Water 1
+caterpie,Bug
+metapod,Bug
+butterfree,Bug
+weedle,Bug
+kakuna,Bug
+beedrill,Bug
+beedrill-mega,Bug
+pidgey,Flying
+pidgeotto,Flying
+pidgeot,Flying
+pidgeot-mega,Flying
+rattata,Field
+rattata-alola,Field
+raticate,Field
+raticate-alola,Field
+spearow,Flying
+fearow,Flying
+ekans,Field
+ekans,Dragon
+arbok,Field
+arbok,Dragon
+pikachu,Field
+pikachu,Fairy
+pikachu-original-cap,Undiscovered
+pikachu-hoenn-cap,Undiscovered
+pikachu-sinnoh-cap,Undiscovered
+pikachu-unova-cap,Undiscovered
+pikachu-kalos-cap,Undiscovered
+pikachu-alola-cap,Undiscovered
+pikachu-partner-cap,Undiscovered
+raichu,Field
+raichu,Fairy
+raichu-alola,Field
+raichu-alola,Fairy
+sandshrew,Field
+sandshrew-alola,Field
+sandslash,Field
+sandslash-alola,Field
+nidoran-female,Monster
+nidoran-female,Field
+nidorina,Undiscovered
+nidoqueen,Undiscovered
+nidoran-male,Monster
+nidoran-male,Field
+nidorino,Monster
+nidorino,Field
+nidoking,Monster
+nidoking,Field
+clefairy,Fairy
+clefable,Fairy
+vulpix,Field
+vulpix-alola,Field
+ninetales,Field
+ninetales-alola,Field
+jigglypuff,Fairy
+wigglytuff,Fairy
+zubat,Flying
+golbat,Flying
+oddish,Grass
+gloom,Grass
+vileplume,Grass
+paras,Bug
+paras,Grass
+parasect,Bug
+parasect,Grass
+venonat,Bug
+venomoth,Bug
+diglett,Field
+diglett-alola,Field
+dugtrio,Field
+dugtrio-alola,Field
+meowth,Field
+meowth-alola,Field
+persian,Field
+persian-alola,Field
+psyduck,Water 1
+psyduck,Field
+golduck,Water 1
+golduck,Field
+mankey,Field
+primeape,Field
+growlithe,Field
+arcanine,Field
+poliwag,Water 1
+poliwhirl,Water 1
+poliwrath,Water 1
+abra,Human-like
+kadabra,Human-like
+alakazam,Human-like
+alakazam-mega,Human-like
+machop,Human-like
+machoke,Human-like
+machamp,Human-like
+bellsprout,Grass
+weepinbell,Grass
+victreebel,Grass
+tentacool,Water 3
+tentacruel,Water 3
+geodude,Mineral
+geodude-alola,Mineral
+graveler,Mineral
+graveler-alola,Mineral
+golem,Mineral
+golem-alola,Mineral
+ponyta,Field
+rapidash,Field
+slowpoke,Monster
+slowpoke,Water 1
+slowpoke-galar,Monster
+slowpoke-galar,Water 1
+slowbro,Monster
+slowbro,Water 1
+slowbro-galar,Monster
+slowbro-galar,Water 1
+slowbro-mega,Monster
+slowbro-mega,Water 1
+magnemite,Mineral
+magneton,Mineral
+farfetchd,Flying
+farfetchd,Field
+doduo,Flying
+dodrio,Flying
+seel,Water 1
+seel,Field
+dewgong,Water 1
+dewgong,Field
+grimer,Amorphous
+grimer-alola,Amorphous
+muk,Amorphous
+muk-alola,Amorphous
+shellder,Water 3
+cloyster,Water 3
+gastly,Amorphous
+haunter,Amorphous
+gengar,Amorphous
+gengar-mega,Amorphous
+onix,Mineral
+drowzee,Human-like
+hypno,Human-like
+krabby,Water 3
+kingler,Water 3
+voltorb,Mineral
+electrode,Mineral
+exeggcute,Grass
+exeggutor,Grass
+exeggutor-alola,Grass
+cubone,Monster
+marowak,Monster
+marowak-alola,Monster
+hitmonlee,Human-like
+hitmonchan,Human-like
+lickitung,Monster
+koffing,Amorphous
+weezing,Amorphous
+rhyhorn,Monster
+rhyhorn,Field
+rhydon,Monster
+rhydon,Field
+chansey,Fairy
+tangela,Grass
+kangaskhan,Monster
+kangaskhan-mega,Monster
+horsea,Water 1
+horsea,Dragon
+seadra,Water 1
+seadra,Dragon
+goldeen,Water 2
+seaking,Water 2
+staryu,Water 3
+starmie,Water 3
+mr-mime,Human-like
+scyther,Bug
+jynx,Human-like
+electabuzz,Human-like
+magmar,Human-like
+pinsir,Bug
+pinsir-mega,Bug
+tauros,Field
+magikarp,Water 2
+magikarp,Dragon
+gyarados,Water 2
+gyarados,Dragon
+gyarados-mega,Water 2
+gyarados-mega,Dragon
+lapras,Monster
+lapras,Water 1
+ditto,Ditto
+eevee,Field
+vaporeon,Field
+jolteon,Field
+flareon,Field
+porygon,Mineral
+omanyte,Water 1
+omanyte,Water 3
+omastar,Water 1
+omastar,Water 3
+kabuto,Water 1
+kabuto,Water 3
+kabutops,Water 1
+kabutops,Water 3
+aerodactyl,Flying
+aerodactyl-mega,Flying
+snorlax,Monster
+articuno,Undiscovered
+articuno-galar,Undiscovered
+zapdos,Undiscovered
+zapdos-galar,Undiscovered
+moltres,Undiscovered
+moltres-galar,Undiscovered
+dratini,Water 1
+dratini,Dragon
+dragonair,Water 1
+dragonair,Dragon
+dragonite,Water 1
+dragonite,Dragon
+mewtwo,Undiscovered
+mewtwo-mega-x,Undiscovered
+mewtwo-mega-y,Undiscovered
+mew,Undiscovered
+chikorita,Monster
+chikorita,Grass
+bayleef,Monster
+bayleef,Grass
+meganium,Monster
+meganium,Grass
+cyndaquil,Field
+quilava,Field
+typhlosion,Field
+totodile,Monster
+totodile,Water 1
+croconaw,Monster
+croconaw,Water 1
+feraligatr,Monster
+feraligatr,Water 1
+sentret,Field
+furret,Field
+hoothoot,Flying
+noctowl,Flying
+ledyba,Bug
+ledian,Bug
+spinarak,Bug
+ariados,Bug
+crobat,Flying
+chinchou,Water 2
+lanturn,Water 2
+pichu,Undiscovered
+cleffa,Undiscovered
+igglybuff,Undiscovered
+togepi,Undiscovered
+togetic,Flying
+togetic,Fairy
+natu,Flying
+xatu,Flying
+mareep,Monster
+mareep,Field
+flaaffy,Monster
+flaaffy,Field
+ampharos,Monster
+ampharos,Field
+ampharos-mega,Monster
+ampharos-mega,Field
+bellossom,Grass
+marill,Water 1
+marill,Fairy
+azumarill,Water 1
+azumarill,Fairy
+sudowoodo,Mineral
+politoed,Water 1
+hoppip,Fairy
+hoppip,Grass
+skiploom,Fairy
+skiploom,Grass
+jumpluff,Fairy
+jumpluff,Grass
+aipom,Field
+sunkern,Grass
+sunflora,Grass
+yanma,Bug
+wooper,Water 1
+wooper,Field
+quagsire,Water 1
+quagsire,Field
+espeon,Field
+umbreon,Field
+murkrow,Flying
+slowking,Monster
+slowking,Water 1
+slowking-galar,Monster
+slowking-galar,Water 1
+misdreavus,Amorphous
+unown-a,Undiscovered
+unown-b,Undiscovered
+unown-c,Undiscovered
+unown-d,Undiscovered
+unown-e,Undiscovered
+unown-f,Undiscovered
+unown-g,Undiscovered
+unown-h,Undiscovered
+unown-i,Undiscovered
+unown-j,Undiscovered
+unown-k,Undiscovered
+unown-l,Undiscovered
+unown-m,Undiscovered
+unown-n,Undiscovered
+unown-o,Undiscovered
+unown-p,Undiscovered
+unown-q,Undiscovered
+unown-r,Undiscovered
+unown-s,Undiscovered
+unown-t,Undiscovered
+unown-u,Undiscovered
+unown-v,Undiscovered
+unown-w,Undiscovered
+unown-x,Undiscovered
+unown-y,Undiscovered
+unown-z,Undiscovered
+unown-exclamation,Undiscovered
+unown-question,Undiscovered
+wobbuffet,Amorphous
+girafarig,Field
+pineco,Bug
+forretress,Bug
+dunsparce,Field
+gligar,Bug
+steelix,Mineral
+steelix-mega,Mineral
+snubbull,Field
+snubbull,Fairy
+granbull,Field
+granbull,Fairy
+qwilfish,Water 2
+scizor,Bug
+scizor-mega,Bug
+shuckle,Bug
+heracross,Bug
+heracross-mega,Bug
+sneasel,Field
+teddiursa,Field
+ursaring,Field
+slugma,Amorphous
+magcargo,Amorphous
+swinub,Field
+piloswine,Field
+corsola,Water 1
+corsola,Water 3
+remoraid,Water 1
+remoraid,Water 2
+octillery,Water 1
+octillery,Water 2
+delibird,Water 1
+delibird,Field
+mantine,Water 1
+skarmory,Flying
+houndour,Field
+houndoom,Field
+houndoom-mega,Field
+kingdra,Water 1
+kingdra,Dragon
+phanpy,Field
+donphan,Field
+porygon2,Mineral
+stantler,Field
+smeargle,Field
+tyrogue,Undiscovered
+hitmontop,Human-like
+smoochum,Undiscovered
+elekid,Undiscovered
+magby,Undiscovered
+miltank,Field
+blissey,Fairy
+raikou,Undiscovered
+entei,Undiscovered
+suicune,Undiscovered
+larvitar,Monster
+pupitar,Monster
+tyranitar,Monster
+tyranitar-mega,Monster
+lugia,Undiscovered
+ho-oh,Undiscovered
+treecko,Monster
+treecko,Dragon
+grovyle,Monster
+grovyle,Dragon
+sceptile,Monster
+sceptile,Dragon
+sceptile-mega,Monster
+sceptile-mega,Dragon
+torchic,Field
+combusken,Field
+blaziken,Field
+blaziken-mega,Field
+mudkip,Monster
+mudkip,Water 1
+marshtomp,Monster
+marshtomp,Water 1
+swampert,Monster
+swampert,Water 1
+swampert-mega,Monster
+swampert-mega,Water 1
+poochyena,Field
+mightyena,Field
+zigzagoon,Field
+linoone,Field
+wurmple,Bug
+silcoon,Bug
+beautifly,Bug
+cascoon,Bug
+dustox,Bug
+lotad,Water 1
+lotad,Grass
+lombre,Water 1
+lombre,Grass
+ludicolo,Water 1
+ludicolo,Grass
+seedot,Field
+seedot,Grass
+nuzleaf,Field
+nuzleaf,Grass
+shiftry,Field
+shiftry,Grass
+taillow,Flying
+swellow,Flying
+wingull,Water 1
+wingull,Flying
+pelipper,Water 1
+pelipper,Flying
+ralts,Amorphous
+kirlia,Amorphous
+gardevoir,Amorphous
+gardevoir-mega,Amorphous
+surskit,Water 1
+surskit,Bug
+masquerain,Water 1
+masquerain,Bug
+shroomish,Fairy
+shroomish,Grass
+breloom,Fairy
+breloom,Grass
+slakoth,Field
+vigoroth,Field
+slaking,Field
+nincada,Bug
+ninjask,Bug
+shedinja,Mineral
+whismur,Monster
+whismur,Field
+loudred,Monster
+loudred,Field
+exploud,Monster
+exploud,Field
+makuhita,Human-like
+hariyama,Human-like
+azurill,Undiscovered
+nosepass,Mineral
+skitty,Field
+skitty,Fairy
+delcatty,Field
+delcatty,Fairy
+sableye,Human-like
+sableye-mega,Human-like
+mawile,Field
+mawile,Fairy
+mawile-mega,Field
+mawile-mega,Fairy
+aron,Monster
+lairon,Monster
+aggron,Monster
+aggron-mega,Monster
+meditite,Human-like
+medicham,Human-like
+medicham-mega,Human-like
+electrike,Field
+manectric,Field
+manectric-mega,Field
+plusle,Fairy
+minun,Fairy
+volbeat,Bug
+volbeat,Human-like
+illumise,Bug
+illumise,Human-like
+roselia,Fairy
+roselia,Grass
+gulpin,Amorphous
+swalot,Amorphous
+carvanha,Water 2
+sharpedo,Water 2
+sharpedo-mega,Water 2
+wailmer,Field
+wailmer,Water 2
+wailord,Field
+wailord,Water 2
+numel,Field
+camerupt,Field
+camerupt-mega,Field
+torkoal,Field
+spoink,Field
+grumpig,Field
+spinda,Field
+spinda,Human-like
+trapinch,Bug
+vibrava,Bug
+flygon,Bug
+cacnea,Grass
+cacnea,Human-like
+cacturne,Grass
+cacturne,Human-like
+swablu,Flying
+swablu,Dragon
+altaria,Flying
+altaria,Dragon
+altaria-mega,Flying
+altaria-mega,Dragon
+zangoose,Field
+seviper,Field
+seviper,Dragon
+lunatone,Mineral
+solrock,Mineral
+barboach,Water 2
+whiscash,Water 2
+corphish,Water 1
+corphish,Water 3
+crawdaunt,Water 1
+crawdaunt,Water 3
+baltoy,Mineral
+claydol,Mineral
+lileep,Water 3
+cradily,Water 3
+anorith,Water 3
+armaldo,Water 3
+feebas,Water 1
+feebas,Dragon
+milotic,Water 1
+milotic,Dragon
+castform,Fairy
+castform,Amorphous
+castform-sunny,Fairy
+castform-sunny,Amorphous
+castform-rainy,Fairy
+castform-rainy,Amorphous
+castform-snowy,Fairy
+castform-snowy,Amorphous
+kecleon,Field
+shuppet,Amorphous
+banette,Amorphous
+banette-mega,Amorphous
+duskull,Amorphous
+dusclops,Amorphous
+tropius,Monster
+tropius,Grass
+chimecho,Amorphous
+absol,Field
+absol-mega,Field
+wynaut,Undiscovered
+snorunt,Fairy
+snorunt,Mineral
+glalie,Fairy
+glalie,Mineral
+glalie-mega,Fairy
+glalie-mega,Mineral
+spheal,Water 1
+spheal,Field
+sealeo,Water 1
+sealeo,Field
+walrein,Water 1
+walrein,Field
+clamperl,Water 1
+huntail,Water 1
+gorebyss,Water 1
+relicanth,Water 1
+relicanth,Water 2
+luvdisc,Water 2
+bagon,Dragon
+shelgon,Dragon
+salamence,Dragon
+salamence-mega,Dragon
+beldum,Mineral
+metang,Mineral
+metagross,Mineral
+metagross-mega,Mineral
+regirock,Undiscovered
+regice,Undiscovered
+registeel,Undiscovered
+latias,Undiscovered
+latias-mega,Undiscovered
+latios,Undiscovered
+latios-mega,Undiscovered
+kyogre,Undiscovered
+kyogre-primal,Undiscovered
+groudon,Undiscovered
+groudon-primal,Undiscovered
+rayquaza,Undiscovered
+rayquaza-mega,Undiscovered
+jirachi,Undiscovered
+deoxys-normal,Undiscovered
+deoxys-attack,Undiscovered
+deoxys-defense,Undiscovered
+deoxys-speed,Undiscovered
+turtwig,Monster
+turtwig,Grass
+grotle,Monster
+grotle,Grass
+torterra,Monster
+torterra,Grass
+chimchar,Field
+chimchar,Human-like
+monferno,Field
+monferno,Human-like
+infernape,Field
+infernape,Human-like
+piplup,Water 1
+piplup,Field
+prinplup,Water 1
+prinplup,Field
+empoleon,Water 1
+empoleon,Field
+starly,Flying
+staravia,Flying
+staraptor,Flying
+bidoof,Water 1
+bidoof,Field
+bibarel,Water 1
+bibarel,Field
+kricketot,Bug
+kricketune,Bug
+shinx,Field
+luxio,Field
+luxray,Field
+budew,Undiscovered
+roserade,Fairy
+roserade,Grass
+cranidos,Monster
+rampardos,Monster
+shieldon,Monster
+bastiodon,Monster
+burmy-plant,Bug
+burmy-sandy,Bug
+burmy-trash,Bug
+wormadam-plant,Bug
+wormadam-sandy,Bug
+wormadam-trash,Bug
+mothim,Bug
+combee,Bug
+vespiquen,Bug
+pachirisu,Field
+pachirisu,Fairy
+buizel,Water 1
+buizel,Field
+floatzel,Water 1
+floatzel,Field
+cherubi,Fairy
+cherubi,Grass
+cherrim-overcast,Fairy
+cherrim-overcast,Grass
+cherrim-sunshine,Fairy
+cherrim-sunshine,Grass
+shellos-west,Water 1
+shellos-west,Amorphous
+shellos-east,Water 1
+shellos-east,Amorphous
+gastrodon-west,Water 1
+gastrodon-west,Amorphous
+gastrodon-east,Water 1
+gastrodon-east,Amorphous
+ambipom,Field
+drifloon,Amorphous
+drifblim,Amorphous
+buneary,Field
+buneary,Human-like
+lopunny,Field
+lopunny,Human-like
+lopunny-mega,Field
+lopunny-mega,Human-like
+mismagius,Amorphous
+honchkrow,Flying
+glameow,Field
+purugly,Field
+chingling,Undiscovered
+stunky,Field
+skuntank,Field
+bronzor,Mineral
+bronzong,Mineral
+bonsly,Undiscovered
+mime-jr,Undiscovered
+happiny,Undiscovered
+chatot,Flying
+spiritomb,Amorphous
+gible,Monster
+gible,Dragon
+gabite,Monster
+gabite,Dragon
+garchomp,Monster
+garchomp,Dragon
+garchomp-mega,Monster
+garchomp-mega,Dragon
+munchlax,Undiscovered
+riolu,Undiscovered
+lucario,Field
+lucario,Human-like
+lucario-mega,Field
+lucario-mega,Human-like
+hippopotas,Field
+hippowdon,Field
+skorupi,Bug
+skorupi,Water 3
+drapion,Bug
+drapion,Water 3
+croagunk,Human-like
+toxicroak,Human-like
+carnivine,Grass
+finneon,Water 2
+lumineon,Water 2
+mantyke,Undiscovered
+snover,Monster
+snover,Grass
+abomasnow,Monster
+abomasnow,Grass
+abomasnow-mega,Monster
+abomasnow-mega,Grass
+weavile,Field
+magnezone,Mineral
+lickilicky,Monster
+rhyperior,Monster
+rhyperior,Field
+tangrowth,Grass
+electivire,Human-like
+magmortar,Human-like
+togekiss,Flying
+togekiss,Fairy
+yanmega,Bug
+leafeon,Field
+glaceon,Field
+gliscor,Bug
+mamoswine,Field
+porygon-z,Mineral
+gallade,Amorphous
+gallade-mega,Amorphous
+probopass,Mineral
+dusknoir,Amorphous
+froslass,Fairy
+froslass,Mineral
+rotom,Amorphous
+rotom-heat,Amorphous
+rotom-wash,Amorphous
+rotom-frost,Amorphous
+rotom-fan,Amorphous
+rotom-mow,Amorphous
+uxie,Undiscovered
+mesprit,Undiscovered
+azelf,Undiscovered
+dialga,Undiscovered
+palkia,Undiscovered
+heatran,Undiscovered
+regigigas,Undiscovered
+giratina-altered,Undiscovered
+giratina-origin,Undiscovered
+cresselia,Undiscovered
+phione,Water 1
+phione,Fairy
+manaphy,Water 1
+manaphy,Fairy
+darkrai,Undiscovered
+shaymin-land,Undiscovered
+shaymin-sky,Undiscovered
+arceus-normal,Undiscovered
+arceus-fire,Undiscovered
+arceus-water,Undiscovered
+arceus-grass,Undiscovered
+arceus-electric,Undiscovered
+arceus-ice,Undiscovered
+arceus-fighting,Undiscovered
+arceus-poison,Undiscovered
+arceus-ground,Undiscovered
+arceus-flying,Undiscovered
+arceus-psychic,Undiscovered
+arceus-bug,Undiscovered
+arceus-rock,Undiscovered
+arceus-ghost,Undiscovered
+arceus-dragon,Undiscovered
+arceus-dark,Undiscovered
+arceus-steel,Undiscovered
+arceus-fairy,Undiscovered
+victini,Undiscovered
+snivy,Field
+snivy,Grass
+servine,Field
+servine,Grass
+serperior,Field
+serperior,Grass
+tepig,Field
+pignite,Field
+emboar,Field
+oshawott,Field
+dewott,Field
+samurott,Field
+patrat,Field
+watchog,Field
+lillipup,Field
+herdier,Field
+stoutland,Field
+purrloin,Field
+liepard,Field
+pansage,Field
+simisage,Field
+pansear,Field
+simisear,Field
+panpour,Field
+simipour,Field
+munna,Field
+musharna,Field
+pidove,Flying
+tranquill,Flying
+unfezant,Flying
+blitzle,Field
+zebstrika,Field
+roggenrola,Mineral
+boldore,Mineral
+gigalith,Mineral
+woobat,Flying
+woobat,Field
+swoobat,Flying
+swoobat,Field
+drilbur,Field
+excadrill,Field
+audino,Fairy
+audino-mega,Fairy
+timburr,Human-like
+gurdurr,Human-like
+conkeldurr,Human-like
+tympole,Water 1
+palpitoad,Water 1
+seismitoad,Water 1
+throh,Human-like
+sawk,Human-like
+sewaddle,Bug
+swadloon,Bug
+leavanny,Bug
+venipede,Bug
+whirlipede,Bug
+scolipede,Bug
+cottonee,Fairy
+cottonee,Grass
+whimsicott,Fairy
+whimsicott,Grass
+petilil,Grass
+lilligant,Grass
+basculin-red-striped,Water 2
+basculin-blue-striped,Water 2
+sandile,Field
+krokorok,Field
+krookodile,Field
+darumaka,Field
+darmanitan-standard,Field
+darmanitan-zen,Field
+maractus,Grass
+dwebble,Bug
+dwebble,Mineral
+crustle,Bug
+crustle,Mineral
+scraggy,Field
+scraggy,Dragon
+scrafty,Field
+scrafty,Dragon
+sigilyph,Flying
+yamask,Mineral
+yamask,Amorphous
+cofagrigus,Mineral
+cofagrigus,Amorphous
+tirtouga,Water 1
+tirtouga,Water 3
+carracosta,Water 1
+carracosta,Water 3
+archen,Flying
+archen,Water 3
+archeops,Flying
+archeops,Water 3
+trubbish,Mineral
+garbodor,Mineral
+zorua,Field
+zoroark,Field
+minccino,Field
+cinccino,Field
+gothita,Human-like
+gothorita,Human-like
+gothitelle,Human-like
+solosis,Amorphous
+duosion,Amorphous
+reuniclus,Amorphous
+ducklett,Water 1
+ducklett,Flying
+swanna,Water 1
+swanna,Flying
+vanillite,Mineral
+vanillish,Mineral
+vanilluxe,Mineral
+deerling-spring,Field
+deerling-summer,Field
+deerling-autumn,Field
+deerling-winter,Field
+sawsbuck-spring,Field
+sawsbuck-summer,Field
+sawsbuck-autumn,Field
+sawsbuck-winter,Field
+emolga,Field
+karrablast,Bug
+escavalier,Bug
+foongus,Grass
+amoonguss,Grass
+frillish,Amorphous
+jellicent,Amorphous
+alomomola,Water 1
+alomomola,Water 2
+joltik,Bug
+galvantula,Bug
+ferroseed,Grass
+ferroseed,Mineral
+ferrothorn,Grass
+ferrothorn,Mineral
+klink,Mineral
+klang,Mineral
+klinklang,Mineral
+tynamo,Amorphous
+eelektrik,Amorphous
+eelektross,Amorphous
+elgyem,Human-like
+beheeyem,Human-like
+litwick,Amorphous
+lampent,Amorphous
+chandelure,Amorphous
+axew,Monster
+axew,Dragon
+fraxure,Monster
+fraxure,Dragon
+haxorus,Monster
+haxorus,Dragon
+cubchoo,Field
+beartic,Field
+cryogonal,Mineral
+shelmet,Bug
+accelgor,Bug
+stunfisk,Water 1
+stunfisk,Amorphous
+mienfoo,Field
+mienfoo,Human-like
+mienshao,Field
+mienshao,Human-like
+druddigon,Monster
+druddigon,Dragon
+golett,Mineral
+golurk,Mineral
+pawniard,Human-like
+bisharp,Human-like
+bouffalant,Field
+rufflet,Flying
+braviary,Flying
+vullaby,Flying
+mandibuzz,Flying
+heatmor,Field
+durant,Bug
+deino,Dragon
+zweilous,Dragon
+hydreigon,Dragon
+larvesta,Bug
+volcarona,Bug
+cobalion,Undiscovered
+terrakion,Undiscovered
+virizion,Undiscovered
+tornadus-incarnate,Undiscovered
+tornadus-therian,Undiscovered
+thundurus-incarnate,Undiscovered
+thundurus-therian,Undiscovered
+reshiram,Undiscovered
+zekrom,Undiscovered
+landorus-incarnate,Undiscovered
+landorus-therian,Undiscovered
+kyurem,Undiscovered
+kyurem-white,Undiscovered
+kyurem-black,Undiscovered
+keldeo-ordinary,Undiscovered
+keldeo-resolute,Undiscovered
+meloetta-aria,Undiscovered
+meloetta-pirouette,Undiscovered
+genesect,Undiscovered
+genesect-douse,Undiscovered
+genesect-shock,Undiscovered
+genesect-burn,Undiscovered
+genesect-chill,Undiscovered
+chespin,Field
+quilladin,Field
+chesnaught,Field
+fennekin,Field
+braixen,Field
+delphox,Field
+froakie,Water 1
+frogadier,Water 1
+greninja,Water 1
+greninja-ash,Undiscovered
+bunnelby,Field
+diggersby,Field
+fletchling,Flying
+fletchinder,Flying
+talonflame,Flying
+scatterbug,Bug
+spewpa,Bug
+vivillon-icy-snow,Bug
+vivillon-polar,Bug
+vivillon-tundra,Bug
+vivillon-continental,Bug
+vivillon-garden,Bug
+vivillon-elegant,Bug
+vivillon-meadow,Bug
+vivillon-modern,Bug
+vivillon-marine,Bug
+vivillon-archipelago,Bug
+vivillon-high-plains,Bug
+vivillon-sandstorm,Bug
+vivillon-river,Bug
+vivillon-monsoon,Bug
+vivillon-savanna,Bug
+vivillon-sun,Bug
+vivillon-ocean,Bug
+vivillon-jungle,Bug
+vivillon-fancy,Bug
+vivillon-poke-ball,Bug
+litleo,Field
+pyroar,Field
+flabebe-red,Fairy
+flabebe-yellow,Fairy
+flabebe-orange,Fairy
+flabebe-blue,Fairy
+flabebe-white,Fairy
+floette-red,Fairy
+floette-yellow,Fairy
+floette-orange,Fairy
+floette-blue,Fairy
+floette-white,Fairy
+floette-eternal,Undiscovered
+florges-red,Fairy
+florges-yellow,Fairy
+florges-orange,Fairy
+florges-blue,Fairy
+florges-white,Fairy
+skiddo,Field
+gogoat,Field
+pancham,Field
+pancham,Human-like
+pangoro,Field
+pangoro,Human-like
+furfrou-natural,Field
+furfrou-heart,Field
+furfrou-star,Field
+furfrou-diamond,Field
+furfrou-la-reine,Field
+furfrou-kabuki,Field
+furfrou-pharaoh,Field
+furfrou-debutante,Field
+furfrou-matron,Field
+furfrou-dandy,Field
+espurr,Field
+meowstic-female,Field
+meowstic-male,Field
+honedge,Mineral
+doublade,Mineral
+aegislash-shield,Mineral
+aegislash-blade,Mineral
+spritzee,Fairy
+aromatisse,Fairy
+swirlix,Fairy
+slurpuff,Fairy
+inkay,Water 1
+inkay,Water 2
+malamar,Water 1
+malamar,Water 2
+binacle,Water 3
+barbaracle,Water 3
+skrelp,Water 1
+skrelp,Dragon
+dragalge,Water 1
+dragalge,Dragon
+clauncher,Water 1
+clauncher,Water 3
+clawitzer,Water 1
+clawitzer,Water 3
+helioptile,Monster
+helioptile,Dragon
+heliolisk,Monster
+heliolisk,Dragon
+tyrunt,Monster
+tyrunt,Dragon
+tyrantrum,Monster
+tyrantrum,Dragon
+amaura,Monster
+aurorus,Monster
+sylveon,Field
+hawlucha,Human-like
+dedenne,Field
+dedenne,Fairy
+carbink,Fairy
+carbink,Mineral
+goomy,Dragon
+sliggoo,Dragon
+goodra,Dragon
+klefki,Mineral
+phantump,Grass
+phantump,Amorphous
+trevenant,Grass
+trevenant,Amorphous
+pumpkaboo-small,Amorphous
+pumpkaboo-average,Amorphous
+pumpkaboo-large,Amorphous
+pumpkaboo-super,Amorphous
+gourgeist-small,Amorphous
+gourgeist-average,Amorphous
+gourgeist-large,Amorphous
+gourgeist-super,Amorphous
+bergmite,Monster
+avalugg,Monster
+noibat,Flying
+noivern,Flying
+xerneas-neutral,Undiscovered
+xerneas-active,Undiscovered
+yveltal,Undiscovered
+zygarde-10-percent,Undiscovered
+zygarde-50-percent,Undiscovered
+zygarde-complete,Undiscovered
+diancie,Undiscovered
+diancie-mega,Undiscovered
+hoopa-confined,Undiscovered
+hoopa-unbound,Undiscovered
+volcanion,Undiscovered
+rowlet,Flying
+dartrix,Flying
+decidueye,Flying
+litten,Field
+torracat,Field
+incineroar,Field
+popplio,Water 1
+popplio,Field
+brionne,Water 1
+brionne,Field
+primarina,Water 1
+primarina,Field
+pikipek,Flying
+trumbeak,Flying
+toucannon,Flying
+yungoos,Field
+gumshoos,Field
+grubbin,Bug
+charjabug,Bug
+vikavolt,Bug
+crabrawler,Water 3
+crabominable,Water 3
+oricorio-baile,Flying
+oricorio-pom-pom,Flying
+oricorio-pau,Flying
+oricorio-sensu,Flying
+cutiefly,Bug
+cutiefly,Fairy
+ribombee,Bug
+ribombee,Fairy
+rockruff,Field
+lycanroc-midday,Field
+lycanroc-midnight,Field
+lycanroc-dusk,Field
+wishiwashi-solo,Water 2
+wishiwashi-school,Water 2
+mareanie,Water 1
+toxapex,Water 1
+mudbray,Field
+mudsdale,Field
+dewpider,Water 1
+dewpider,Bug
+araquanid,Water 1
+araquanid,Bug
+fomantis,Grass
+lurantis,Grass
+morelull,Grass
+shiinotic,Grass
+salandit,Monster
+salandit,Dragon
+salazzle,Monster
+salazzle,Dragon
+stufful,Field
+bewear,Field
+bounsweet,Grass
+steenee,Grass
+tsareena,Grass
+comfey,Grass
+oranguru,Field
+passimian,Field
+wimpod,Bug
+wimpod,Water 3
+golisopod,Bug
+golisopod,Water 3
+sandygast,Amorphous
+palossand,Amorphous
+pyukumuku,Water 1
+type-null,Undiscovered
+silvally-normal,Undiscovered
+silvally-fire,Undiscovered
+silvally-water,Undiscovered
+silvally-grass,Undiscovered
+silvally-electric,Undiscovered
+silvally-ice,Undiscovered
+silvally-fighting,Undiscovered
+silvally-poison,Undiscovered
+silvally-ground,Undiscovered
+silvally-flying,Undiscovered
+silvally-psychic,Undiscovered
+silvally-bug,Undiscovered
+silvally-rock,Undiscovered
+silvally-ghost,Undiscovered
+silvally-dragon,Undiscovered
+silvally-dark,Undiscovered
+silvally-steel,Undiscovered
+silvally-fairy,Undiscovered
+minior-meteor,Mineral
+minior-red,Mineral
+minior-orange,Mineral
+minior-yellow,Mineral
+minior-green,Mineral
+minior-blue,Mineral
+minior-indigo,Mineral
+minior-violet,Mineral
+komala,Field
+turtonator,Monster
+turtonator,Dragon
+togedemaru,Field
+togedemaru,Fairy
+mimikyu-disguised,Amorphous
+mimikyu-busted,Amorphous
+bruxish,Water 2
+drampa,Monster
+drampa,Dragon
+dhelmise,Mineral
+jangmo-o,Dragon
+hakamo-o,Dragon
+kommo-o,Dragon
+tapu-koko,Undiscovered
+tapu-lele,Undiscovered
+tapu-bulu,Undiscovered
+tapu-fini,Undiscovered
+cosmog,Undiscovered
+cosmoem,Undiscovered
+solgaleo,Undiscovered
+lunala,Undiscovered
+nihilego,Undiscovered
+buzzwole,Undiscovered
+pheromosa,Undiscovered
+xurkitree,Undiscovered
+celesteela,Undiscovered
+kartana,Undiscovered
+guzzlord,Undiscovered
+necrozma,Undiscovered
+necrozma-dusk-mane,Undiscovered
+necrozma-dawn-wings,Undiscovered
+necrozma-ultra,Undiscovered
+magearna,Undiscovered
+magearna-original,Undiscovered
+marshadow,Undiscovered
+poipole,Undiscovered
+naganadel,Undiscovered
+stakataka,Undiscovered
+blacephalon,Undiscovered
+zeraora,Undiscovered
+charizard-gigantamax,Monster
+charizard-gigantamax,Dragon
+butterfree-gigantamax,Bug
+pikachu-gigantamax,Field
+pikachu-gigantamax,Fairy
+meowth-galar,Field
+meowth-gigantamax,Field
+machamp-gigantamax,Human-like
+ponyta-galar,Field
+rapidash-galar,Field
+farfetchd-galar,Flying
+farfetchd-galar,Field
+gengar-gigantamax,Amorphous
+kingler-gigantamax,Water 3
+weezing-galar,Amorphous
+mr-mime-galar,Human-like
+lapras-gigantamax,Monster
+lapras-gigantamax,Water 1
+eevee-gigantamax,Field
+snorlax-gigantamax,Monster
+corsola-galar,Water 1
+corsola-galar,Water 3
+zigzagoon-galar,Field
+linoone-galar,Field
+ralts,Human-like
+kirlia,Human-like
+gardevoir,Human-like
+trapinch,Dragon
+vibrava,Dragon
+flygon,Dragon
+gallade,Human-like
+darumaka-galar,Field
+darmanitan-galar,Field
+darmanitan-galar-zen,Field
+yamask-galar,Mineral
+yamask-galar,Amorphous
+garbodor-gigantamax,Mineral
+stunfisk-galar,Water 1
+stunfisk-galar,Amorphous
+hawlucha,Flying
+bergmite,Mineral
+avalugg,Mineral
+noibat,Dragon
+noivern,Dragon
+meltan,Undiscovered
+melmetal,Undiscovered
+melmetal-gigantamax,Undiscovered
+grookey,Field
+grookey,Grass
+thwackey,Field
+thwackey,Grass
+rillaboom,Field
+rillaboom,Grass
+scorbunny,Field
+scorbunny,Human-like
+raboot,Field
+raboot,Human-like
+cinderace,Field
+cinderace,Human-like
+sobble,Water 1
+sobble,Field
+drizzile,Water 1
+drizzile,Field
+inteleon,Water 1
+inteleon,Field
+skwovet,Field
+greedent,Field
+rookidee,Flying
+corvisquire,Flying
+corviknight,Flying
+corviknight-gigantamax,Flying
+blipbug,Bug
+dottler,Bug
+orbeetle,Bug
+orbeetle-gigantamax,Bug
+nickit,Field
+thievul,Field
+gossifleur,Grass
+eldegoss,Grass
+wooloo,Field
+dubwool,Field
+chewtle,Monster
+chewtle,Water 1
+drednaw,Monster
+drednaw,Water 1
+drednaw-gigantamax,Monster
+drednaw-gigantamax,Water 1
+yamper,Field
+boltund,Field
+rolycoly,Mineral
+carkol,Mineral
+coalossal,Mineral
+coalossal-gigantamax,Mineral
+applin,Grass
+applin,Dragon
+flapple,Grass
+flapple,Dragon
+flapple-gigantamax,Grass
+flapple-gigantamax,Dragon
+appletun,Grass
+appletun,Dragon
+appletun-gigantamax,Grass
+appletun-gigantamax,Dragon
+silicobra,Field
+silicobra,Dragon
+sandaconda,Field
+sandaconda,Dragon
+sandaconda-gigantamax,Field
+sandaconda-gigantamax,Dragon
+cramorant,Water 1
+cramorant,Flying
+cramorant-gulping,Water 1
+cramorant-gulping,Flying
+cramorant-gorging,Water 1
+cramorant-gorging,Flying
+arrokuda,Water 2
+barraskewda,Water 2
+toxel,Undiscovered
+toxtricity-amped,Human-like
+toxtricity-low-key,Human-like
+toxtricity-gigantamax,Human-like
+sizzlipede,Bug
+centiskorch,Bug
+centiskorch-gigantamax,Bug
+clobbopus,Water 1
+clobbopus,Human-like
+grapploct,Water 1
+grapploct,Human-like
+sinistea-phony,Mineral
+sinistea-phony,Amorphous
+sinistea-antique,Mineral
+sinistea-antique,Amorphous
+polteageist-phony,Mineral
+polteageist-phony,Amorphous
+polteageist-antique,Mineral
+polteageist-antique,Amorphous
+hatenna,Fairy
+hattrem,Fairy
+hatterene,Fairy
+hatterene-gigantamax,Fairy
+impidimp,Fairy
+impidimp,Human-like
+morgrem,Fairy
+morgrem,Human-like
+grimmsnarl,Fairy
+grimmsnarl,Human-like
+grimmsnarl-gigantamax,Fairy
+grimmsnarl-gigantamax,Human-like
+obstagoon,Field
+perrserker,Field
+cursola,Water 1
+cursola,Water 3
+sirfetchd,Flying
+sirfetchd,Field
+mr-rime,Human-like
+runerigus,Mineral
+runerigus,Amorphous
+milcery,Fairy
+milcery,Amorphous
+alcremie-vanilla-cream,Fairy
+alcremie-vanilla-cream,Amorphous
+alcremie-ruby-cream,Fairy
+alcremie-ruby-cream,Amorphous
+alcremie-matcha-cream,Fairy
+alcremie-matcha-cream,Amorphous
+alcremie-mint-cream,Fairy
+alcremie-mint-cream,Amorphous
+alcremie-lemon-cream,Fairy
+alcremie-lemon-cream,Amorphous
+alcremie-salted-cream,Fairy
+alcremie-salted-cream,Amorphous
+alcremie-ruby-swirl,Fairy
+alcremie-ruby-swirl,Amorphous
+alcremie-caramel-swirl,Fairy
+alcremie-caramel-swirl,Amorphous
+alcremie-rainbow-swirl,Fairy
+alcremie-rainbow-swirl,Amorphous
+alcremie-gigantamax,Fairy
+alcremie-gigantamax,Amorphous
+falinks,Fairy
+falinks,Mineral
+pincurchin,Water 1
+pincurchin,Amorphous
+snom,Bug
+frosmoth,Bug
+stonjourner,Mineral
+eiscue-ice,Water 1
+eiscue-ice,Field
+eiscue-noice,Water 1
+eiscue-noice,Field
+indeedee-female,Fairy
+indeedee-male,Fairy
+morpeko-full-belly,Field
+morpeko-full-belly,Fairy
+morpeko-hangry,Field
+morpeko-hangry,Fairy
+cufant,Field
+cufant,Mineral
+copperajah,Field
+copperajah,Mineral
+copperajah-gigantamax,Field
+copperajah-gigantamax,Mineral
+dracozolt,Undiscovered
+arctozolt,Undiscovered
+dracovish,Undiscovered
+arctovish,Undiscovered
+duraludon,Mineral
+duraludon,Dragon
+duraludon-gigantamax,Mineral
+duraludon-gigantamax,Dragon
+dreepy,Amorphous
+dreepy,Dragon
+drakloak,Amorphous
+drakloak,Dragon
+dragapult,Amorphous
+dragapult,Dragon
+zacian-hero,Undiscovered
+zacian-crowned,Undiscovered
+zamazenta-hero,Undiscovered
+zamazenta-crowned,Undiscovered
+eternatus,Undiscovered
+eternatus-eternamax,Undiscovered
+kubfu,Undiscovered
+urshifu-single,Undiscovered
+urshifu-rapid,Undiscovered
+urshifu-single-gigantamax,Undiscovered
+urshifu-rapid-gigantamax,Undiscovered
+zarude,Undiscovered
+zarude-dada,Undiscovered
+regieleki,Undiscovered
+regidrago,Undiscovered
+glastrier,Undiscovered
+spectrier,Undiscovered
+calyrex,Undiscovered
+calyrex-ice,Undiscovered
+calyrex-shadow,Undiscovered

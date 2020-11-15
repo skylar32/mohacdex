@@ -1,4 +1,3 @@
-import csv
 from sqlalchemy import Column, ForeignKey, Integer, Unicode
 from sqlalchemy.orm import relationship
 from ..base import Base

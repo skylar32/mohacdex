@@ -7,13 +7,13 @@ reflectable,Reflectable,This move can be bounced back by [[abilities:Magic Coat]
 snatchable,Snatchable,This move's effect can be stolen by [[moves:Snatch]].
 mirror-move,Copied by Mirror Move,A Pokémon targeted by this move can use [[moves:Mirror Move]] to copy it.
 punch,Punch-based,This move's power is boosted by [[abilities:Iron Fist]].
-sound,Sound-based,Pokémon with [[abilities:Soundproof] are immmune to this move, and it can be prevented by [[moves:Throat Chop]].
+sound,Sound-based,"Pokémon with [[abilities:Soundproof] are immmune to this move, and it can be prevented by [[moves:Throat Chop]]."
 gravity,Unusable during Gravity,This move can't be use when [[move:Gravity]] is under effect.
-defrosts,Defrosts when used
+defrosts,Defrosts when used,
 far-reaching,Targets opposite side in triple battles,This move can target any foe in a triple battle.
 heals,Heals,This move is blocked by [[moves:Heal Block]].
 bypasses-substitute,Ignores Substitute,This move hits the target even if it has a [[moves:Substitute]] active.
-banned-sky,Unusable during Sky Battles
+banned-sky,Unusable during Sky Battles,
 dance,Dance-based,This move triggers [[abilities:Dancer]].
 ballistic,Ballistics-based,Pokémon with [[abilities:Bulletproof]] are immune to this move.
 pulse,Pulse-based,This move's power is boosted by [[abilities:Mega Launcher]].
