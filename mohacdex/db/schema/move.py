@@ -1,5 +1,6 @@
-from sqlalchemy import Column, ForeignKey, Integer, Unicode
-from sqlalchemy.orm import relationship
+from sqlalchemy import Column, ForeignKey, Integer, Unicode, Boolean
+from sqlalchemy.orm import relationship, backref
+from sqlalchemy.orm.collections import attribute_mapped_collection
 from ..base import Base
  
 class Move(Base):
@@ -20,6 +21,48 @@ class Move(Base):
     target = relationship("Target")
 
     flavor_text = Column(Unicode, nullable=False)
+
+class LevelUpMove(Base):
+    __tablename__ = "pokemon_moves_levelup"
+    pokemon_identifier = Column(Unicode, ForeignKey("pokemon.identifier"), primary_key=True)
+    move_identifier = Column(Unicode, ForeignKey("moves.identifier"), primary_key=True)
+    level = Column(Integer, primary_key=True)
+    move = relationship("Move")
+    pokemon = relationship("Pokemon", backref=backref(
+        "pokemon_levelup_moves",
+        cascade="all, delete-orphan"
+    ))
+
+class MachineMove(Base):
+    __tablename__ = "pokemon_moves_machine"
+    pokemon_identifier = Column(Unicode, ForeignKey("pokemon.identifier"), primary_key=True)
+    move_identifier = Column(Unicode, ForeignKey("moves.identifier"), primary_key=True)
+    move = relationship("Move")
+    pokemon = relationship("Pokemon", backref=backref(
+        "pokemon_tm_moves",
+        cascade="all, delete-orphan"
+    ))
+
+class EggMove(Base):
+    __tablename__ = "pokemon_moves_egg"
+    pokemon_identifier = Column(Unicode, ForeignKey("pokemon.identifier"), primary_key=True)
+    move_identifier = Column(Unicode, ForeignKey("moves.identifier"), primary_key=True)
+    move = relationship("Move")
+    needs_light_ball = Column(Boolean)
+    pokemon = relationship("Pokemon", backref=backref(
+        "pokemon_egg_moves",
+        cascade="all, delete-orphan"
+    ))
+
+class TutorMove(Base):
+    __tablename__ = "pokemon_moves_tutor"
+    pokemon_identifier = Column(Unicode, ForeignKey("pokemon.identifier"), primary_key=True)
+    move_identifier = Column(Unicode, ForeignKey("moves.identifier"), primary_key=True)
+    move = relationship("Move")
+    pokemon = relationship("Pokemon", backref=backref(
+        "pokemon_tutor_moves",
+        cascade="all, delete-orphan"
+    ))
     
 class Flag(Base):
     __tablename__ = "flags"
