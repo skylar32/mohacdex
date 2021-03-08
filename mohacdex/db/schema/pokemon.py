@@ -19,6 +19,14 @@ class PokemonAbility(Base):
     slot = Column(Unicode, nullable=False)
     ability = relationship("Ability", lazy="joined")
     pokemon = relationship("Pokemon", backref=backref("_ability_table", cascade="all, delete-orphan"))
+    
+class PokemonFlavor(Base):
+    __tablename__ = "pokemon_flavor"
+    
+    pokemon_identifier= Column(Unicode, ForeignKey("pokemon.identifier"), primary_key=True)
+    entry_number = Column(Integer, primary_key=True)
+    flavor_text = Column(Unicode, nullable=False)
+    pokemon = relationship("Pokemon", backref=backref("_dex_entries", cascade="all, delete-orphan"))
 
 class PokemonEggGroup(Base):
     __tablename__ = "pokemon_egg_groups"
@@ -34,6 +42,14 @@ class PokemonStat(Base):
     stat_identifier = Column(Unicode, ForeignKey("stats.identifier"), primary_key=True)
     base_stat = Column(Integer)
     stat = relationship("Stat")
+    
+class PokemonEffortYield(Base):
+    __tablename__ = "pokemon_effort_yields"
+    
+    pokemon_identifier = Column(Unicode, ForeignKey("pokemon.identifier"), primary_key=True)
+    stat_identifier = Column(Unicode, ForeignKey("stats.identifier"), primary_key=True)
+    value = Column(Integer, nullable=False)
+    stat = relationship("Stat")
 
 class Pokemon(Base):
     __tablename__ = "pokemon"
@@ -43,6 +59,9 @@ class Pokemon(Base):
     number = Column(Integer, ForeignKey("pokemon_names.number"), nullable=False)
     height_m = Column(Numeric(4,1), nullable=False)
     weight_kg = Column(Numeric(4,1))
+    gender = Column(Integer, nullable=False)
+    capture_rate = Column(Integer, nullable=False)
+    growth_rate = Column(Unicode, nullable=False)
     form = relationship("PokemonForm", uselist=False)
 
     type1 = Column(Unicode, ForeignKey("types.identifier"), nullable=False)
@@ -50,7 +69,9 @@ class Pokemon(Base):
 
     _name_table = relationship("PokemonName")
     stats = relationship("PokemonStat", collection_class=attribute_mapped_collection('stat.abbreviation'),)
+    effort_yield = relationship("PokemonEffortYield", collection_class=attribute_mapped_collection('stat.name'),)
 
+    flavor = association_proxy("_dex_entries", "flavor_text")
     egg_groups = association_proxy("_egg", "egg_group")
 
     @property

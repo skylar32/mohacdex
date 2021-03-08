@@ -7,6 +7,8 @@ venusaur,Monster
 venusaur,Grass
 venusaur-mega,Monster
 venusaur-mega,Grass
+venusaur-gigantamax,Monster
+venusaur-gigantamax,Grass
 charmander,Monster
 charmander,Dragon
 charmeleon,Monster
@@ -25,6 +27,8 @@ blastoise,Monster
 blastoise,Water 1
 blastoise-mega,Monster
 blastoise-mega,Water 1
+blastoise-gigantamax,Monster
+blastoise-gigantamax,Water 1
 caterpie,Bug
 metapod,Bug
 butterfree,Bug
@@ -1342,18 +1346,24 @@ thwackey,Field
 thwackey,Grass
 rillaboom,Field
 rillaboom,Grass
+rillaboom-gigantamax,Field
+rillaboom-gigantamax,Grass
 scorbunny,Field
 scorbunny,Human-like
 raboot,Field
 raboot,Human-like
 cinderace,Field
 cinderace,Human-like
+cinderace-gigantamax,Field
+cinderace-gigantamax,Human-like
 sobble,Water 1
 sobble,Field
 drizzile,Water 1
 drizzile,Field
 inteleon,Water 1
 inteleon,Field
+inteleon-gigantamax,Water 1
+inteleon-gigantamax,Field
 skwovet,Field
 greedent,Field
 rookidee,Flying

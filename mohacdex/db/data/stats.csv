@@ -2,6 +2,6 @@ identifier,name,abbreviation
 hp,HP,HP
 atk,Attack,Atk
 def,Defense,Def
-spatk,Special Attack,Sp.Atk
-spdef,Special Defense,Sp.Def
+spatk,Special Attack,SpA
+spdef,Special Defense,SpD
 spe,Speed,Spe

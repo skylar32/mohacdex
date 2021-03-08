@@ -2,7 +2,7 @@ import argparse
 import csv
 import pkg_resources
 import mohacdex.db
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, exc
 
 def load(connection):
     print("Creating tables...")
@@ -21,6 +21,7 @@ def load_table(table, connection):
             reader = csv.DictReader(infile)
             rows = list(validate_rows(table, reader))
             connection.execute(table.insert(), rows)
+
     except FileNotFoundError:
         print("File not found: {}.csv".format(table.name))
 
