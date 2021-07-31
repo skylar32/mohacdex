@@ -1,7 +1,8 @@
 from sqlalchemy import Column, ForeignKey, Integer, Unicode, Numeric, Boolean
-from sqlalchemy.orm import relationship, backref
+from sqlalchemy.orm import relationship, backref, configure_mappers
 from sqlalchemy.ext.associationproxy import association_proxy
-from sqlalchemy.orm.collections import attribute_mapped_collection
+from sqlalchemy.orm.collections import attribute_mapped_collection, collection
+from sqlalchemy.orm.relationships import foreign
 from ..base import Base
 
 class PokemonName(Base):
@@ -23,10 +24,31 @@ class PokemonAbility(Base):
 class PokemonFlavor(Base):
     __tablename__ = "pokemon_flavor"
     
-    pokemon_identifier= Column(Unicode, ForeignKey("pokemon.identifier"), primary_key=True)
+    pokemon_identifier = Column(Unicode, ForeignKey("pokemon.identifier"), primary_key=True)
     entry_number = Column(Integer, primary_key=True)
     flavor_text = Column(Unicode, nullable=False)
     pokemon = relationship("Pokemon", backref=backref("_dex_entries", cascade="all, delete-orphan"))
+
+class EvolutionChain(Base):
+    __tablename__ = "evolution_chains"
+    base_form_identifier = Column(Unicode, ForeignKey("pokemon.identifier"), primary_key=True)
+    stages = relationship("PokemonEvolution", backref="evolution_chain")
+
+class PokemonEvolution(Base):
+    __tablename__ = "pokemon_evolutions"
+
+    base_form_identifier = Column(Integer, ForeignKey("evolution_chains.base_form_identifier"), nullable=False)
+    pokemon_identifier = Column(Unicode, ForeignKey("pokemon.identifier"), primary_key=True)
+    evolution_identifier = Column(Unicode, ForeignKey("pokemon.identifier"), primary_key=True)
+    method = Column(Unicode, nullable=False)
+    quantity = Column(Integer)
+    item_identifier = Column(Unicode)
+    move_identifier = Column(Unicode, ForeignKey("moves.identifier"))
+    gender = Column(Unicode)
+    region = Column(Unicode)
+    time = Column(Unicode)
+    pokemon = relationship("Pokemon", backref=backref("evolution", cascade="all, delete-orphan"), foreign_keys=[pokemon_identifier])
+    evolution = relationship("Pokemon", foreign_keys=[evolution_identifier])
 
 class PokemonEggGroup(Base):
     __tablename__ = "pokemon_egg_groups"
@@ -55,8 +77,8 @@ class Pokemon(Base):
     __tablename__ = "pokemon"
     
     order = Column(Integer, unique=True, nullable=False)
-    identifier = Column(Unicode, primary_key=True)
     number = Column(Integer, ForeignKey("pokemon_names.number"), nullable=False)
+    identifier = Column(Unicode, primary_key=True)
     height_m = Column(Numeric(4,1), nullable=False)
     weight_kg = Column(Numeric(4,1))
     gender = Column(Integer, nullable=False)
@@ -107,6 +129,7 @@ class Pokemon(Base):
             moves[move.level].append(move.move)
         return {key: moves[key] for key in sorted(moves.keys())}
 
+
     egg_moves = association_proxy("pokemon_egg_moves", "move")
     tutor_moves = association_proxy("pokemon_tutor_moves", "move")
     machine_moves = association_proxy("pokemon_tm_moves", "move")
@@ -118,3 +141,12 @@ class PokemonForm(Base):
     name = Column(Unicode, nullable=False)
     display_separately = Column(Boolean, nullable=False)
     species = Column(Unicode)
+
+Pokemon.evolutions = relationship(PokemonEvolution, primaryjoin=Pokemon.identifier==PokemonEvolution.pokemon_identifier)
+Pokemon.evolution_chain = relationship(
+    EvolutionChain,
+    secondary=PokemonEvolution.__table__,
+    primaryjoin="or_(Pokemon.identifier==PokemonEvolution.pokemon_identifier, Pokemon.identifier==PokemonEvolution.evolution_identifier)",
+    secondaryjoin="PokemonEvolution.base_form_identifier==EvolutionChain.base_form_identifier",
+    uselist=False
+)

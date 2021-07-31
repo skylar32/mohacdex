@@ -9,9 +9,10 @@ def load(connection):
     mohacdex.db.Base.metadata.create_all(connection)
     print("Loading tables...")
     for table in mohacdex.db.Base.metadata.sorted_tables:
-        print("\tLoading {}.csv ... ".format(table.name), end='', flush=True)
-        load_table(table, connection)
-        print("OK", flush=True)
+        if table.name != "pokemon_families": # this table is entirely backfilled
+            print("\tLoading {}.csv ... ".format(table.name), end='', flush=True)
+            load_table(table, connection)
+            print("OK", flush=True)
 
 def load_table(table, connection):
     csv_path = "data/{}.csv".format(table.name)
