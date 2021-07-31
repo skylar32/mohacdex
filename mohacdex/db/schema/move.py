@@ -14,7 +14,7 @@ class Move(Base):
     
     power = Column(Integer)
     accuracy = Column(Integer)
-    pp = Column(Integer, nullable=False)
+    pp = Column(Integer)
     priority = Column(Integer, nullable=False)
 
     target_identifier = Column(Unicode, ForeignKey("targets.identifier"), nullable=False)

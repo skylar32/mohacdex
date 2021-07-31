@@ -33,6 +33,7 @@ class EvolutionChain(Base):
     __tablename__ = "evolution_chains"
     base_form_identifier = Column(Unicode, ForeignKey("pokemon.identifier"), primary_key=True)
     stages = relationship("PokemonEvolution", backref="evolution_chain")
+    base_form = relationship("Pokemon")
 
 class PokemonEvolution(Base):
     __tablename__ = "pokemon_evolutions"
@@ -44,9 +45,21 @@ class PokemonEvolution(Base):
     quantity = Column(Integer)
     item_identifier = Column(Unicode)
     move_identifier = Column(Unicode, ForeignKey("moves.identifier"))
+    ability_identifier = Column(Unicode, ForeignKey("abilities.identifier"))
     gender = Column(Unicode)
     region = Column(Unicode)
     time = Column(Unicode)
+    knows_move_type = Column(Unicode, ForeignKey("types.identifier"))
+    location = Column(Unicode)
+    needed_pokemon_identifier = Column(Unicode, ForeignKey("pokemon.identifier"))
+    party_type_identifier = Column(Unicode, ForeignKey("types.identifier"))
+    direction = Column(Unicode)
+    weather = Column(Unicode)
+
+    move = relationship("Move")
+    ability = relationship("Ability")
+    needed_pokemon = relationship("Pokemon", foreign_keys=[needed_pokemon_identifier])
+
     pokemon = relationship("Pokemon", backref=backref("evolution", cascade="all, delete-orphan"), foreign_keys=[pokemon_identifier])
     evolution = relationship("Pokemon", foreign_keys=[evolution_identifier])
 
@@ -75,6 +88,9 @@ class PokemonEffortYield(Base):
 
 class Pokemon(Base):
     __tablename__ = "pokemon"
+    
+    def __repr__(self):
+        return f"Pokemon<{self.identifier}>"
     
     order = Column(Integer, unique=True, nullable=False)
     number = Column(Integer, ForeignKey("pokemon_names.number"), nullable=False)

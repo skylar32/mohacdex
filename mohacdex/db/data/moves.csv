@@ -670,6 +670,9 @@ moongeist-beam,Moongeist Beam,ghost,special,100,100,5,0,chosen,The user emits a 
 tearful-look,Tearful Look,normal,status,,,20,0,chosen,The user gets teary eyed to make the target lose its combative spirit. This lowers the target’s Attack and Sp. Atk stats.
 zing-zap,Zing Zap,electric,physical,80,100,10,0,chosen,"A strong electric blast crashes down on the target, giving it an electric shock. This may also make the target flinch."
 natures-madness,Nature's Madness,fairy,special,,90,10,0,chosen,The user hits the target with the force of nature. It halves the target’s HP.
+mind-blown,Mind Blown,fire,special,150,100,5,0,all-others,The user attacks everything around it by causing its own head to explode. This also damages the user. 
+plasma-fists,Plasma Fists,electric,physical,100,100,15,0,chosen,The user attacks with electrically charged fists. This move changes Normal-type moves to Electric-type moves. 
+photon-geyser,Photon Geyser,psychic,special,100,100,5,0,chosen,The user attacks a target with a pillar of light. This move inflicts Attack or Sp. Atk damage—whichever stat is higher for the user. 
 multi-attack,Multi-Attack,normal,physical,120,100,10,0,chosen,"Cloaking itself in high energy, the user slams into the target. The memory held determines the move’s type."
 double-iron-bash,Double Iron Bash,steel,physical,60,100,5,0,chosen,"The user rotates, centering the hex nut in its chest, and then strikes with its arms twice in a row. This may also make the target flinch."
 dynamax-cannon,Dynamax Cannon,dragon,special,100,100,5,0,chosen,The user unleashes a strong beam from its core. This move deals twice the damage if the target is Dynamaxed.
@@ -737,3 +740,55 @@ thunderous-kick,Thunderous Kick,fighting,physical,90,100,10,0,chosen,The user ov
 fiery-wrath,Fiery Wrath,dark,special,90,100,10,0,all-opponents,The user transforms its wrath into a fire-like aura to attack. This may also make opposing Pokémon flinch.
 glacial-lance,Glacial Lance,ice,physical,130,100,5,0,all-opponents,The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pokémon.
 astral-barrage,Astral Barrage,ghost,special,120,100,5,0,all-opponents, The user attacks by sending a frightful amount of small ghosts at opposing Pokémon.
+max-flare,Max Flare,fire,varies,,,,0,chosen,This is a Fire-type attack Dynamax Pokémon use. The user intensifies the sun for five turns. 
+max-flutterby,Max Flutterby,bug,varies,,,,0,chosen,This is a Bug-type attack Dynamax Pokémon use. This lowers the target's Sp. Atk stat. 
+max-lightning,Max Lightning,electric,varies,,,,0,chosen,This is an Electric-type attack Dynamax Pokémon use. The user turns the ground into Electric Terrain for five turns. 
+max-strike,Max Strike,normal,varies,,,,0,chosen,This is a Normal-type attack Dynamax Pokémon use. This lowers the target's Speed stat.
+max-knuckle,Max Knuckle,fighting,varies,,,,0,chosen,This is a Fighting-type attack Dynamax Pokémon use. This raises ally Pokémon's Attack stats. 
+max-phantasm,Max Phantasm,ghost,varies,,,,0,chosen,This is a Ghost-type attack Dynamax Pokémon use. This lowers the target's Defense stat. 
+max-hailstorm,Max Hailstorm,ice,varies,,,,0,chosen,This is an Ice-type attack Dynamax Pokémon use. The user summons a hailstorm lasting five turns. 
+max-ooze,Max Ooze,poison,varies,,,,0,chosen,This is a Poison-type attack Dynamax Pokémon use. This raises ally Pokémon's Sp. Atk stats. 
+max-geyser,Max Geyser,water,varies,,,,0,chosen,This is a Water-type attack Dynamax Pokémon use. The user summons a heavy rain that falls for five turns. 
+max-airstream,Max Airstream,flying,varies,,,,0,chosen,This is a Flying-type attack Dynamax Pokémon use. This raises ally Pokémon's Speed stats. 
+max-starfall,Max Starfall,fairy,varies,,,,0,chosen,This is a Fairy-type attack Dynamax Pokémon use. The user turns the ground into Misty Terrain for five turns. 
+max-wyrmwind,Max Wyrmwind,dragon,varies,,,,0,chosen,This is a Dragon-type attack Dynamax Pokémon use. This lowers the target's Attack stat. 
+max-mindstorm,Max Mindstorm,psychic,varies,,,,0,chosen,This is a Psychic-type attack Dynamax Pokémon use. The user turns the ground into Psychic Terrain for five turns. 
+max-rockfall,Max Rockfall,rock,varies,,,,0,chosen,This is a Rock-type attack Dynamax Pokémon use. The user summons a sandstorm lasting five turns. 
+max-quake,Max Quake,ground,varies,,,,0,chosen,This is a Ground-type attack Dynamax Pokémon use. This raises ally Pokémon's Sp. Def stats. 
+max-darkness,Max Darkness,dark,varies,,,,0,chosen,This is a Dark-type attack Dynamax Pokémon use. This lowers the target's Sp. Def stat. 
+max-overgrowth,Max Overgrowth,grass,varies,,,,0,chosen,This is a Grass-type attack Dynamax Pokémon use. The user turns the ground into Grassy Terrain for five turns. 
+max-steelspike,Max Steelspike,steel,varies,,,,0,chosen,This is a Steel-type attack Dynamax Pokémon use. This raises ally Pokémon's Defense stats. 
+max-guard,Max Guard,normal,varies,,,,0,chosen,This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.
+gmax-vine-lash,G-Max Vine Lash,grass,varies,,,,0,chosen,A Grass-type attack that Gigantamax Venusaur use. This move continues to deal damage to opponents for four turns. 
+gmax-wildfire,G-Max Wildifre,fire,varies,,,,0,chosen,A Fire-type attack that Gigantamax Charizard use. This move continues to deal damage to opponents for four turns. 
+gmax-cannonade,G-Max Cannonade,water,varies,,,,0,chosen,A Water-type attack that Gigantamax Blastoise use. This move continues to deal damage to opponents for four turns. 
+gmax-befuddle,G-Max Befuddle,bug,varies,,,,0,chosen,"A Bug-type attack that Gigantamax Butterfree use. This move inflicts the poisoned, paralyzed, or asleep status condition on opponents. "
+gmax-volt-crash,G-Max Volt Crash,electric,varies,,,,0,chosen,An Electric-type attack that Gigantamax Pikachu use. This move paralyzes opponents.
+gmax-gold-rush,G-Max Gold Rush,normal,varies,,,,0,chosen,A Normal-type attack that Gigantamax Meowth use. This move confuses opponents and also earns extra money. 
+gmax-chi-strike,G-Max Chi Strike,fighting,varies,,,,0,chosen,A Fighting-type attack that Gigantamax Machamp use. This move raises the chance of critical hits. 
+gmax-terror,G-Max Terror,ghost,varies,,,,0,chosen,A Ghost-type attack that Gigantamax Gengar use. This Pokémon steps on the opposing Pokémon's shadow to prevent them from escaping.
+gmax-foam-burst,G-Max Foam Burst,water,varies,,,,0,chosen,A Water-type attack that Gigantamax Kingler use. This move harshly lowers the Speed of opponents.
+gmax-resonance,G-Max Resonance,ice,varies,,,,0,chosen,An Ice-type attack that Gigantamax Lapras use. This move reduces the damage received for five turns. 
+gmax-cuddle,G-Max Cuddle,normal,varies,,,,0,chosen,A Normal-type attack that Gigantamax Eevee use. This move infatuates opponents.
+gmax-replenish,G-Max Replenish,normal,varies,,,,0,chosen,A Normal-type attack that Gigantamax Snorlax use. This move restores Berries that have been eaten. 
+gmax-malodor,G-Max Malodor,poison,varies,,,,0,chosen,A Poison-type attack that Gigantamax Garbodor use. This move poisons opponents. 
+gmax-meltdown,G-Max Meltdown,steel,varies,,,,0,chosen,A Steel-type attack that Gigantamax Melmetal use. This move makes opponents incapable of using the same move twice in a row.
+gmax-drum-solo,G-Max Drum Solo,grass,varies,160,,,0,chosen,A Grass-type attack that Gigantamax Rillaboom use. This move can be used on the target regardless of its Abilities. 
+gmax-fireball,G-Max Fireball,fire,varies,160,,,0,chosen,A Fire-type attack that Gigantamax Cinderace use. This move can be used on the target regardless of its Abilities. 
+gmax-hydrosnipe,G-Max Hydrosnipe,water,varies,160,,,0,chosen,A Water-type attack that Gigantamax Inteleon use. This move can be used on the target regardless of its Abilities. 
+gmax-wind-rage,G-Max Wind Rage,flying,varies,,,,0,chosen,A Flying-type attack that Gigantamax Corviknight use. This move removes the effects of moves like Reflect and Light Screen. 
+gmax-gravitas,G-Max Gravitas,psychic,varies,,,,0,chosen,A Psychic-type attack that Gigantamax Orbeetle use. This move changes gravity for five turns. 
+gmax-stonesurge,G-Max Stonesurge,water,varies,,,,0,chosen,A Water-type attack that Gigantamax Drednaw use. This move scatters sharp rocks around the field. 
+gmax-volcalith,G-Max Volcalith,rock,varies,,,,0,chosen,A Rock-type attack that Gigantamax Coalossal use. This move continues to deal damage to opponents for four turns. 
+gmax-tartness,G-Max Tartness,grass,varies,,,,0,chosen,A Grass-type attack that Gigantamax Flapple use. This move reduces the opponents' evasiveness. 
+gmax-sweetness,G-Max Sweetness,grass,varies,,,,0,chosen,A Grass-type attack that Gigantamax Appletun use. This move heals the status conditions of allies. 
+gmax-sandblast,G-Max Sandblast,ground,varies,,,,0,chosen,A Ground-type attack that Gigantamax Sandaconda use. Opponents are trapped in a raging sandstorm for four to five turns. 
+gmax-stun-shock,G-Max Stun Shock,electric,varies,,,,0,chosen,An Electric-type attack that Gigantamax Toxtricity use. This move poisons or paralyzes opponents. 
+gmax-centiferno,G-Max Centiferno,fire,varies,,,,0,chosen,A Fire-type attack that Gigantamax Centiskorch use. This move traps opponents in flames for four to five turns. 
+gmax-smite,G-Max Smite,fairy,varies,,,,0,chosen,A Fairy-type attack that Gigantamax Hatterene use. This move confuses opponents. 
+gmax-snooze,G-Max Snooze,dark,varies,,,,0,chosen,A Dark-type attack that Gigantamax Grimmsnarl use. The user lets loose a huge yawn that lulls the targets into falling asleep on the next turn. 
+gmax-finale,G-Maze Finale,fairy,varies,,,,0,chosen,A Fairy-type attack that Gigantamax Alcremie use. This move heals the HP of allies. 
+gmax-steelsurge,G-Max Steelsurge,steel,varies,,,,0,chosen,A Steel-type attack that Gigantamax Copperajah use. This move scatters sharp spikes around the field. 
+gmax-depletion,G-Max Depletion,dragon,varies,,,,0,chosen,A Dragon-type attack that Gigantamax Duraludon use. Reduces the PP of the last move used. 
+gmax-one-blow,G-Max One Blow,dark,varies,,,,0,chosen,A Dark-type attack that Gigantamax Urshifu use. This single-strike move can ignore Max Guard. 
+gmax-rapid-flow,G-Max Rapid Flow,water,varies,,,,0,chosen,A Water-type attack that Gigantamax Urshifu use. This rapid-strike move can ignore Max Guard. 
