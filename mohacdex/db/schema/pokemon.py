@@ -106,15 +106,12 @@ class Pokemon(Base):
     type2 = Column(Unicode, ForeignKey("types.identifier"))
 
     _name_table = relationship("PokemonName")
+    name = association_proxy("_name_table", "name")
     stats = relationship("PokemonStat", collection_class=attribute_mapped_collection('stat.abbreviation'))
     effort_yield = relationship("PokemonEffortYield", collection_class=attribute_mapped_collection('stat.name'),)
 
     flavor = association_proxy("_dex_entries", "flavor_text")
     egg_groups = association_proxy("_egg", "egg_group")
-
-    @property
-    def name(self):
-        return self._name_table.name
     
     @property
     def species(self):
