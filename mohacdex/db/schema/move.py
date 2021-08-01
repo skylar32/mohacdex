@@ -63,6 +63,16 @@ class TutorMove(Base):
         "pokemon_tutor_moves",
         cascade="all, delete-orphan"
     ))
+
+class MaxMove(Base):
+    __tablename__ = "pokemon_moves_max"
+    pokemon_identifier = Column(Unicode, ForeignKey("pokemon.identifier"), primary_key=True)
+    move_identifier = Column(Unicode, ForeignKey("moves.identifier"), primary_key=True)
+    move = relationship("Move")
+    pokemon = relationship("Pokemon", backref=backref(
+        "pokemon_max_moves",
+        cascade="all, delete-orphan"
+    ))
     
 class Flag(Base):
     __tablename__ = "flags"

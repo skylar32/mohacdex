@@ -106,7 +106,7 @@ class Pokemon(Base):
     type2 = Column(Unicode, ForeignKey("types.identifier"))
 
     _name_table = relationship("PokemonName")
-    stats = relationship("PokemonStat", collection_class=attribute_mapped_collection('stat.abbreviation'),)
+    stats = relationship("PokemonStat", collection_class=attribute_mapped_collection('stat.abbreviation'))
     effort_yield = relationship("PokemonEffortYield", collection_class=attribute_mapped_collection('stat.name'),)
 
     flavor = association_proxy("_dex_entries", "flavor_text")
@@ -149,6 +149,7 @@ class Pokemon(Base):
     egg_moves = association_proxy("pokemon_egg_moves", "move")
     tutor_moves = association_proxy("pokemon_tutor_moves", "move")
     machine_moves = association_proxy("pokemon_tm_moves", "move")
+    max_moves = association_proxy("pokemon_max_moves", "move")
 
 class PokemonForm(Base):
     __tablename__ = "pokemon_forms"
@@ -157,6 +158,8 @@ class PokemonForm(Base):
     name = Column(Unicode, nullable=False)
     display_separately = Column(Boolean, nullable=False)
     species = Column(Unicode)
+    evolution_chain_identifier = Column(Unicode, ForeignKey("evolution_chains.base_form_identifier"))
+    evolution_chain = relationship(EvolutionChain)
 
 Pokemon.evolutions = relationship(PokemonEvolution, primaryjoin=Pokemon.identifier==PokemonEvolution.pokemon_identifier)
 Pokemon.evolution_chain = relationship(

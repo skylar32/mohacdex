@@ -249,7 +249,7 @@ ripen,Ripen,Ripens Berries and doubles their effect.
 ice-face,Ice Face,"The Pokémon's ice head can take a physical attack as a substitute, but the attack also changes the Pokémon's appearance. The ice will be restored when it hails. "
 power-spot,Power Spot,Just being next to the Pokémon powers up moves. 
 mimicry,Mimicry,Changes the Pokémon's type depending on the terrain. 
-screen-cleaner,Screen Cleaner,"When the Pokémon enters a battle, the effects of [[moves:Light Screen], [[moves:Reflect]], and [[moves:Aurora Veil]] are nullified for both opposing and ally Pokémon. "
+screen-cleaner,Screen Cleaner,"When the Pokémon enters a battle, the effects of [[moves:Light Screen]], [[moves:Reflect]], and [[moves:Aurora Veil]] are nullified for both opposing and ally Pokémon. "
 steely-spirit,Steely Spirit,Powers up ally Pokémon's [[types:Steel]]-type moves. 
 perish-body,Perish Body,"When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle. "
 wandering-spirit,Wandering Spirit,The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact. 
@@ -257,6 +257,7 @@ gorilla-tactics,Gorilla Tactics,Boosts the Pokémon's Attack stat but only allow
 neutralizing-gas,Neutralizing Gas,"If the Pokémon with Neutralizing Gas is in the battle, the effects of all Pokémon's Abilities will be nullified or will not be triggered. "
 pastel-veil,Pastel Veil,Protects the Pokémon and its ally Pokémon from being poisoned. 
 hunger-switch,Hunger Switch,"The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of each turn. "
+quick-draw,quick-draw,Enables the Pokémon to move first occasionally.
 curious-medicine,Curious Medicine,"When the Pokémon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies."
 unseen-fist,Unseen Fist,"If the Pokémon uses moves that make direct contact, it can attack the target even if the target protects itself. "
 transistor,Transistor,Powers up [[types:Electric-type]] moves.

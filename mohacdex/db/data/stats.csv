@@ -1,7 +1,7 @@
-identifier,name,abbreviation
-hp,HP,HP
-atk,Attack,Atk
-def,Defense,Def
-spatk,Special Attack,SpA
-spdef,Special Defense,SpD
-spe,Speed,Spe
+order,identifier,name,abbreviation
+1,hp,HP,HP
+2,atk,Attack,Atk
+3,def,Defense,Def
+4,spatk,Special Attack,SpA
+5,spdef,Special Defense,SpD
+6,spe,Speed,Spe
