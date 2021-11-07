@@ -43,7 +43,7 @@ class PokemonEvolution(Base):
     evolution_identifier = Column(Unicode, ForeignKey("pokemon.identifier"), primary_key=True)
     method = Column(Unicode, nullable=False)
     quantity = Column(Integer)
-    item_identifier = Column(Unicode)
+    item_identifier = Column(Unicode, ForeignKey("items.identifier"))
     move_identifier = Column(Unicode, ForeignKey("moves.identifier"))
     ability_identifier = Column(Unicode, ForeignKey("abilities.identifier"))
     gender = Column(Unicode)
@@ -59,6 +59,7 @@ class PokemonEvolution(Base):
     move = relationship("Move")
     ability = relationship("Ability")
     needed_pokemon = relationship("Pokemon", foreign_keys=[needed_pokemon_identifier])
+    item = relationship("Item")
 
     pokemon = relationship("Pokemon", backref=backref("evolution", cascade="all, delete-orphan"), foreign_keys=[pokemon_identifier])
     evolution = relationship("Pokemon", foreign_keys=[evolution_identifier])

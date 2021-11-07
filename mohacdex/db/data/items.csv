@@ -1,0 +1,1085 @@
+identifier,name,value,pocket,flavor_text
+master-ball,Master Ball,0,Poké Balls,"The best Poké Ball with the ultimate level of performance. With it, you will catch any wild Pokémon without fail."
+ultra-ball,Ultra Ball,800,Poké Balls,An ultra-high-performance Poké Ball that provides a higher success rate for catching Pokémon than a Great Ball.
+great-ball,Great Ball,600,Poké Balls,"A good, high-performance Poké Ball that provides a higher Pokémon catch rate than a standard Poké Ball."
+poke-ball,Poké Ball,200,Poké Balls,"A device for catching wild Pokémon. It’s thrown like a ball at a Pokémon, comfortably encapsulating its target."
+safari-ball,Safari Ball,0,Poké Balls,A special Poké Ball that is used only in the Great Marsh. It is recognizable by the camouflage pattern decorating it.
+net-ball,Net Ball,1000,Poké Balls,A somewhat different Poké Ball that is more effective when attempting to catch Water- or Bug-type Pokémon.
+dive-ball,Dive Ball,1000,Poké Balls,A somewhat different Poké Ball that works especially well when catching Pokémon that live underwater.
+nest-ball,Nest Ball,1000,Poké Balls,A somewhat different Poké Ball that becomes more effective the lower the level of the wild Pokémon.
+repeat-ball,Repeat Ball,1000,Poké Balls,A somewhat different Poké Ball that works especially well on a Pokémon species that has been caught before.
+timer-ball,Timer Ball,1000,Poké Balls,A somewhat different Poké Ball that becomes progressively more effective the more turns that are taken in battle.
+luxury-ball,Luxury Ball,1000,Poké Balls,A particularly comfortable Poké Ball that makes a wild Pokémon quickly grow friendlier after being caught.
+premier-ball,Premier Ball,20,Poké Balls,A somewhat rare Poké Ball that was made as a commemorative item used to celebrate an event of some sort.
+dusk-ball,Dusk Ball,1000,Poké Balls,A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places like caves.
+heal-ball,Heal Ball,300,Poké Balls,A remedial Poké Ball that restores the HP of a Pokémon caught with it and eliminates any status conditions.
+quick-ball,Quick Ball,1000,Poké Balls,A somewhat different Poké Ball that has a more successful catch rate if used at the start of a wild encounter.
+cherish-ball,Cherish Ball,0,Poké Balls,A quite rare Poké Ball that has been crafted in order to commemorate a special occasion of some sort.
+potion,Potion,200,Medicine,A spray-type medicine for treating wounds. It can be used to restore 20 HP to an injured Pokémon.
+antidote,Antidote,200,Medicine,A spray-type medicine for poisoning. It can be used once to lift the effects of being poisoned from a Pokémon.
+burn-heal,Burn Heal,300,Medicine,A spray-type medicine for treating burns. It can be used once to heal a Pokémon suffering from a burn.
+ice-heal,Ice Heal,100,Medicine,A spray-type medicine for freezing. It can be used once to defrost a Pokémon that has been frozen solid.
+awakening,Awakening,100,Medicine,A spray-type medicine used against sleep. It can be used once to rouse a Pokémon from the clutches of sleep.
+paralyze-heal,Paralyze Heal,300,Medicine,A spray-type medicine for paralysis. It can be used once to free a Pokémon that has been paralyzed.
+full-restore,Full Restore,3000,Medicine,A medicine that can be used to fully restore the HP of a single Pokémon and heal any status conditions it has.
+max-potion,Max Potion,2500,Medicine,A spray-type medicine for treating wounds. It will completely restore the max HP of a single Pokémon.
+hyper-potion,Hyper Potion,1500,Medicine,A spray-type medicine for treating wounds. It can be used to restore 120 HP to an injured Pokémon.
+super-potion,Super Potion,700,Medicine,A spray-type medicine for treating wounds. It can be used to restore 60 HP to an injured Pokémon.
+full-heal,Full Heal,400,Medicine,A spray-type medicine that is broadly effective. It can be used once to heal all the status conditions of a Pokémon.
+revive,Revive,2000,Medicine,A medicine that can revive fainted Pokémon. It also restores half of a fainted Pokémon’s maximum HP.
+max-revive,Max Revive,4000,Medicine,A medicine that can revive fainted Pokémon. It also fully restores a fainted Pokémon’s maximum HP.
+fresh-water,Fresh Water,200,Medicine,"Water with a high mineral content. When consumed, it restores up to 30 HP to an injured Pokémon."
+soda-pop,Soda Pop,300,Medicine,"A highly carbonated soda drink. When consumed, it restores up to 50 HP to an injured Pokémon."
+lemonade,Lemonade,400,Medicine,"A very sweet and refreshing drink. When consumed, it restores up to 70 HP to an injured Pokémon."
+moomoo-milk,Moomoo Milk,600,Medicine,"A bottle of highly nutritious milk. When consumed, it restores up to 100 HP to an injured Pokémon."
+energy-powder,Energy Powder,500,Medicine,"A very bitter medicinal powder. When consumed, it restores up to 60 HP to an injured Pokémon."
+energy-root,Energy Root,1200,Medicine,"An extremely bitter medicinal root. When consumed, it restores up to 120 HP to an injured Pokémon."
+heal-powder,Heal Powder,300,Medicine,A very bitter medicinal powder. It can be used once to heal all the status conditions of a Pokémon.
+revival-herb,Revival Herb,2800,Medicine,A terribly bitter medicinal herb. It revives a fainted Pokémon and fully restores its maximum HP.
+ether,Ether,1200,Medicine,This medicine can restore 10 PP to a single selected move that has been learned by a Pokémon.
+max-ether,Max Ether,2000,Medicine,This medicine can fully restore the PP of a single selected move that has been learned by a Pokémon.
+elixir,Elixir,3000,Medicine,This medicine can restore 10 PP to each of the moves that have been learned by a Pokémon.
+max-elixir,Max Elixir,4500,Medicine,This medicine can fully restore the PP of all of the moves that have been learned by a Pokémon.
+lava-cookie,Lava Cookie,350,Medicine,Lavaridge Town’s local specialty. It can be used once to heal all the status conditions of a Pokémon.
+berry-juice,Berry Juice,200,Medicine,"A 100 percent pure juice made of Berries. When consumed, it restores 20 HP to an injured Pokémon."
+sacred-ash,Sacred Ash,50000,Medicine,"This rare ash can revive all fainted Pokémon in a party. In doing so, it also fully restores their maximum HP."
+hp-up,HP Up,10000,Medicine,"A nutritious drink for Pokémon. When consumed, it raises the base HP of a single Pokémon."
+protein,Protein,10000,Medicine,"A nutritious drink for Pokémon. When consumed, it raises the base Attack stat of a single Pokémon."
+iron,Iron,10000,Medicine,"A nutritious drink for Pokémon. When consumed, it raises the base Defense stat of a single Pokémon."
+carbos,Carbos,10000,Medicine,"A nutritious drink for Pokémon. When consumed, it raises the base Speed stat of a single Pokémon."
+calcium,Calcium,10000,Medicine,"A nutritious drink for Pokémon. When consumed, it raises the base Sp. Atk stat of a single Pokémon."
+rare-candy,Rare Candy,10000,Medicine,"A candy that is packed with energy. When consumed, it will instantly raise the level of a single Pokémon by one."
+pp-up,PP Up,10000,Medicine,A medicine that can slightly raise the maximum PP of a single move that has been learned by the target Pokémon.
+zinc,Zinc,10000,Medicine,"A nutritious drink for Pokémon. When consumed, it raises the base Sp. Def stat of a single Pokémon."
+pp-max,PP Max,10000,Medicine,A medicine that can optimally raise the maximum PP of a single move that has been learned by the target Pokémon.
+old-gateau,Old Gateau,350,Medicine,The Old Chateau’s hidden specialty. It can be used once to heal all the status conditions of a Pokémon.
+guard-spec,Guard Spec.,1500,Battle Items,An item that prevents stat reduction among the Trainer’s party Pokémon for five turns after it is used in battle.
+dire-hit,Dire Hit,1000,Battle Items,An item that raises the critical-hit ratio greatly. It can be used only once and wears off if the Pokémon is withdrawn.
+x-attack,X Attack,1000,Battle Items,An item that sharply boosts the Attack stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.
+x-defense,X Defense,2000,Battle Items,An item that sharply boosts the Defense stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.
+x-speed,X Speed,1000,Battle Items,An item that sharply boosts the Speed stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.
+x-accuracy,X Accuracy,1000,Battle Items,An item that sharply boosts the accuracy of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.
+x-sp-atk,X Sp. Atk,1000,Battle Items,An item that sharply boosts the Sp. Atk stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.
+x-sp-def,X Sp. Def,2000,Battle Items,An item that sharply boosts the Sp. Def stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.
+poke-doll,Poké Doll,100,Items,A doll that attracts the attention of a Pokémon. It guarantees escape from any battle with wild Pokémon.
+fluffy-tail,Fluffy Tail,100,Items,A toy that attracts the attention of a Pokémon. It guarantees escape from any battle with wild Pokémon.
+blue-flute,Blue Flute,20,Battle Items,A flute made from blue glass that awakens sleeping Pokémon.
+yellow-flute,Yellow Flute,20,Battle Items,A flute made from yellow glass that snaps Pokémon out of confusion.
+red-flute,Red Flute,20,Battle Items,A flute made from red glass that snaps Pokémon out of infatuation.
+black-flute,Black Flute,20,Items,A flute made from black glass. It makes it easier to encounter strong Pokémon in the place you use it.
+white-flute,White Flute,20,Items,A flute made from white glass. It makes it easier to encounter weak Pokémon in the place you use it.
+shoal-salt,Shoal Salt,20,Items,Salt that you found inside Shoal Cave.
+shoal-shell,Shoal Shell,20,Items,A seashell that you found inside Shoal Cave.
+red-shard,Red Shard,1000,Items,A small red shard. It appears to be a fragment of some sort of implement made long ago.
+blue-shard,Blue Shard,1000,Items,A small blue shard. It appears to be a fragment of some sort of implement made long ago.
+yellow-shard,Yellow Shard,1000,Items,A small yellow shard. It appears to be a fragment of some sort of implement made long ago.
+green-shard,Green Shard,1000,Items,A small green shard. It appears to be a fragment of some sort of implement made long ago.
+super-repel,Super Repel,700,Items,An item that prevents any low-level wild Pokémon from jumping out at you for a while. It lasts longer than Repel.
+max-repel,Max Repel,900,Items,An item that prevents any low-level wild Pokémon from jumping out at you for a while. It lasts longer than Super Repel.
+escape-rope,Escape Rope,1000,Items,A long and durable rope. Use it to escape instantly from a cave or a dungeon.
+repel,Repel,400,Items,An item that prevents any low-level wild Pokémon from jumping out at you for a while.
+sun-stone,Sun Stone,3000,Items,A peculiar stone that can make certain species of Pokémon evolve. It burns as red as the evening sun.
+moon-stone,Moon Stone,3000,Items,A peculiar stone that can make certain species of Pokémon evolve. It is as black as the night sky.
+fire-stone,Fire Stone,3000,Items,A peculiar stone that can make certain species of Pokémon evolve. The stone has a fiery orange heart.
+thunder-stone,Thunder Stone,3000,Items,A peculiar stone that can make certain species of Pokémon evolve. It has a distinct thunderbolt pattern.
+water-stone,Water Stone,3000,Items,A peculiar stone that can make certain species of Pokémon evolve. It is the blue of a pool of clear water.
+leaf-stone,Leaf Stone,3000,Items,A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable leaf pattern.
+tiny-mushroom,Tiny Mushroom,500,Items,A very small and rare mushroom. It’s popular with a certain class of collectors and sought out by them.
+big-mushroom,Big Mushroom,5000,Items,A very large and rare mushroom. It’s popular with a certain class of collectors and sought out by them.
+pearl,Pearl,2000,Items,A rather small pearl that has a very nice silvery sheen to it. It can be sold cheaply to shops.
+big-pearl,Big Pearl,8000,Items,A rather large pearl that has a very nice silvery sheen. It can be sold to shops for a high price.
+stardust,Stardust,3000,Items,"Lovely red sand that flows between the fingers with a loose, silky feel. It can be sold at a low price to shops."
+star-piece,Star Piece,12000,Items,A small shard of a beautiful gem that demonstrates a distinctly red sparkle. It can be sold at a high price to shops.
+nugget,Nugget,10000,Items,A nugget of the purest gold that gives off a lustrous gleam in direct light. It can be sold at a high price to shops.
+heart-scale,Heart Scale,100,Items,"A pretty, heart-shaped scale that is extremely rare. Some people are happy to receive one."
+honey,Honey,300,Items,"A sweet honey with a lush aroma that attracts wild Pokémon when it is used in tall grass, in caves, or on special trees."
+growth-mulch,Growth Mulch,200,Items,"A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect."
+damp-mulch,Damp Mulch,200,Items,"A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect."
+stable-mulch,Stable Mulch,200,Items,"A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect."
+gooey-mulch,Gooey Mulch,200,Items,"A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect."
+root-fossil,Root Fossil,7000,Items,A fossil from a prehistoric Pokémon that once lived in the sea. It looks as if it could be part of a plant’s root.
+claw-fossil,Claw Fossil,7000,Items,A fossil from a prehistoric Pokémon that once lived in the sea. It appears to be a fragment of a claw.
+helix-fossil,Helix Fossil,7000,Items,A fossil from a prehistoric Pokémon that once lived in the sea. It might be a piece of a seashell.
+dome-fossil,Dome Fossil,7000,Items,A fossil from a prehistoric Pokémon that once lived in the sea. It could be a shell or carapace.
+old-amber,Old Amber,10000,Items,"A piece of amber that still contains the genetic material of an ancient Pokémon. It’s clear with a tawny, reddish tint."
+armor-fossil,Armor Fossil,7000,Items,A fossil from a prehistoric Pokémon that once lived on the land. It looks to be from some kind of protective collar.
+skull-fossil,Skull Fossil,7000,Items,A fossil from a prehistoric Pokémon that once lived on the land. It appears as though it’s part of a head.
+rare-bone,Rare Bone,5000,Items,A rare bone that is extremely valuable for the study of Pokémon archeology. It can be sold for a high price to shops.
+shiny-stone,Shiny Stone,3000,Items,A peculiar stone that can make certain species of Pokémon evolve. It shines with a dazzling light.
+dusk-stone,Dusk Stone,3000,Items,A peculiar stone that can make certain species of Pokémon evolve. It holds shadows as dark as can be.
+dawn-stone,Dawn Stone,3000,Items,A peculiar stone that can make certain species of Pokémon evolve. It sparkles like a glittering eye.
+oval-stone,Oval Stone,2000,Items,A peculiar stone that can make certain species of Pokémon evolve. It’s as round as a Pokémon Egg.
+odd-keystone,Odd Keystone,2100,Items,A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally.
+adamant-orb,Adamant Orb,0,Items,A brightly gleaming orb to be held by Dialga. It boosts the power of Dragon- and Steel-type moves when it is held.
+lustrous-orb,Lustrous Orb,0,Items,A beautifully glowing orb to be held by Palkia. It boosts the power of Dragon- and Water-type moves when it is held.
+grass-mail,Grass Mail,50,Mail,Stationery featuring a print of a refreshingly green field. Let a Pokémon hold it for delivery.
+flame-mail,Flame Mail,50,Mail,Stationery featuring a print of flames in blazing red. Let a Pokémon hold it for delivery.
+bubble-mail,Bubble Mail,50,Mail,Stationery featuring a print of a blue world underwater. Let a Pokémon hold it for delivery.
+bloom-mail,Bloom Mail,50,Mail,Stationery featuring a print of pretty floral patterns. Let a Pokémon hold it for delivery.
+tunnel-mail,Tunnel Mail,50,Mail,Stationery featuring a print of a dimly lit coal mine. Let a Pokémon hold it for delivery.
+steel-mail,Steel Mail,50,Mail,Stationery featuring a print of cool mechanical designs. Let a Pokémon hold it for delivery.
+heart-mail,Heart Mail,50,Mail,Stationery featuring a print of giant heart patterns. Let a Pokémon hold it for delivery.
+snow-mail,Snow Mail,50,Mail,"Stationery featuring a print of a chilly, snow-covered world. Let a Pokémon hold it for delivery."
+space-mail,Space Mail,50,Mail,Stationery featuring a print depicting the huge expanse of space. Let a Pokémon hold it for delivery.
+air-mail,Air Mail,50,Mail,Stationery featuring a print of colorful letter sets. Let a Pokémon hold it for delivery.
+mosaic-mail,Mosaic Mail,50,Mail,Stationery featuring a print of a vivid rainbow pattern. Let a Pokémon hold it for delivery.
+brick-mail,Brick Mail,50,Mail,Stationery featuring a print of a tough-looking brick pattern. Let a Pokémon hold it for delivery.
+cheri-berry,Cheri Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, it can recover from paralysis on its own in battle."
+chesto-berry,Chesto Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, it can recover from sleep on its own in battle."
+pecha-berry,Pecha Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, it can recover from poisoning on its own in battle."
+rawst-berry,Rawst Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, it can recover from a burn on its own in battle."
+aspear-berry,Aspear Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, it can recover from being frozen on its own in battle."
+leppa-berry,Leppa Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, it can restore 10 PP to a depleted move during battle."
+oran-berry,Oran Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, it can restore its own HP by 10 points during battle."
+persim-berry,Persim Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, it can recover from confusion on its own in battle."
+lum-berry,Lum Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, it can recover from any status condition during battle."
+sitrus-berry,Sitrus Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, it can restore its own HP by a small amount during battle."
+figy-berry,Figy Berry,20,Berries,"If held by a Pokémon, it restores the user’s HP in a pinch, but it will cause confusion if the user hates the taste."
+wiki-berry,Wiki Berry,20,Berries,"If held by a Pokémon, it restores the user’s HP in a pinch, but it will cause confusion if the user hates the taste."
+mago-berry,Mago Berry,20,Berries,"If held by a Pokémon, it restores the user’s HP in a pinch, but it will cause confusion if the user hates the taste."
+aguav-berry,Aguav Berry,20,Berries,"If held by a Pokémon, it restores the user’s HP in a pinch, but it will cause confusion if the user hates the taste."
+iapapa-berry,Iapapa Berry,20,Berries,"If held by a Pokémon, it restores the user’s HP in a pinch, but it will cause confusion if the user hates the taste."
+razz-berry,Razz Berry,20,Berries,Used to make Pokéblocks that will enhance your Coolness. Its red flesh is spicy when eaten.
+bluk-berry,Bluk Berry,20,Berries,Used to make Pokéblocks that will enhance your Beauty. Its blue flesh is sour when eaten.
+nanab-berry,Nanab Berry,20,Berries,Used to make Pokéblocks that will enhance your Cuteness. Its pink flesh is sweet when eaten.
+wepear-berry,Wepear Berry,20,Berries,Used to make Pokéblocks that will enhance your Cleverness. Its green flesh is bitter when eaten.
+pinap-berry,Pinap Berry,20,Berries,Used to make Pokéblocks that will enhance your Toughness. Its yellow flesh is sour when eaten.
+pomeg-berry,Pomeg Berry,20,Berries,A Berry to be consumed by Pokémon. Using it on a Pokémon makes it more friendly but lowers its base HP.
+kelpsy-berry,Kelpsy Berry,20,Berries,A Berry to be consumed by Pokémon. Using it on a Pokémon makes it more friendly but lowers its base Attack.
+qualot-berry,Qualot Berry,20,Berries,A Berry to be consumed by Pokémon. Using it on a Pokémon makes it more friendly but lowers its base Defense.
+hondew-berry,Hondew Berry,20,Berries,A Berry to be consumed by Pokémon. Using it on a Pokémon makes it more friendly but lowers its base Sp. Atk.
+grepa-berry,Grepa Berry,20,Berries,A Berry to be consumed by Pokémon. Using it on a Pokémon makes it more friendly but lowers its base Sp. Def.
+tamato-berry,Tamato Berry,20,Berries,A Berry to be consumed by Pokémon. Using it on a Pokémon makes it more friendly but lowers its base Speed.
+cornn-berry,Cornn Berry,20,Berries,"Used to make Pokéblocks that will enhance your Beauty, this Berry is rare in other regions."
+magost-berry,Magost Berry,20,Berries,"Used to make Pokéblocks that will enhance your Cuteness, this Berry is rare in other regions."
+rabuta-berry,Rabuta Berry,20,Berries,"Used to make Pokéblocks that will enhance your Cleverness, this Berry is rare in other regions."
+nomel-berry,Nomel Berry,20,Berries,"Used to make Pokéblocks that will enhance your Toughness, this Berry is rare in other regions."
+spelon-berry,Spelon Berry,20,Berries,"Used to make Pokéblocks that will enhance your Cuteness, this Berry is rare in other regions."
+pamtre-berry,Pamtre Berry,20,Berries,"Used to make Pokéblocks that will enhance your Beauty, this Berry is rare in other regions."
+watmel-berry,Watmel Berry,20,Berries,"Used to make Pokéblocks that will enhance your Cleverness, this Berry is rare in other regions."
+durin-berry,Durin Berry,20,Berries,"Used to make Pokéblocks that will enhance your Cleverness, this Berry is rare in other regions."
+belue-berry,Belue Berry,20,Berries,"Used to make Pokéblocks that will enhance your Beauty, this Berry is rare in other regions."
+occa-berry,Occa Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Fire-type attack."
+passho-berry,Passho Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Water-type attack."
+wacan-berry,Wacan Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Electric-type attack."
+rindo-berry,Rindo Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Grass-type attack."
+yache-berry,Yache Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Ice-type attack."
+chople-berry,Chople Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Fighting-type attack."
+kebia-berry,Kebia Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Poison-type attack."
+shuca-berry,Shuca Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Ground-type attack."
+coba-berry,Coba Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Flying-type attack."
+payapa-berry,Payapa Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Psychic-type attack."
+tanga-berry,Tanga Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Bug-type attack."
+charti-berry,Charti Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Rock-type attack."
+kasib-berry,Kasib Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Ghost-type attack."
+haban-berry,Haban Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Dragon-type attack."
+colbur-berry,Colbur Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Dark-type attack."
+babiri-berry,Babiri Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Steel-type attack."
+chilan-berry,Chilan Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one Normal-type attack."
+liechi-berry,Liechi Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, its Attack stat will increase when it’s in a pinch."
+ganlon-berry,Ganlon Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, its Defense stat will increase when it’s in a pinch."
+salac-berry,Salac Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, its Speed stat will increase when it’s in a pinch."
+petaya-berry,Petaya Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, its Sp. Atk stat will increase when it’s in a pinch."
+apicot-berry,Apicot Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, its Sp. Def stat will increase when it’s in a pinch."
+lansat-berry,Lansat Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, its critical-hit ratio will increase when it’s in a pinch."
+starf-berry,Starf Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, one of its stats will sharply increase when it’s in a pinch."
+enigma-berry,Enigma Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, being hit by a supereffective attack will restore its HP."
+micle-berry,Micle Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, its accuracy will increase just once when it’s in a pinch."
+custap-berry,Custap Berry,20,Berries,"A Berry to be consumed by Pokémon. If a Pokémon holds one, it will be able to move first just once when it’s in a pinch."
+jaboca-berry,Jaboca Berry,20,Berries,"A Berry to be consumed by Pokémon. If a physical attack hits the Pokémon holding it, the attacker will also be hurt."
+rowap-berry,Rowap Berry,20,Berries,"A Berry to be consumed by Pokémon. If a special attack hits the Pokémon holding it, the attacker will also be hurt."
+bright-powder,Bright Powder,4000,Items,An item to be held by a Pokémon. It casts a tricky glare that lowers the opposing Pokémon’s accuracy.
+white-herb,White Herb,4000,Items,An item to be held by a Pokémon. It will restore any lowered stat in battle. It can be used only once.
+macho-brace,Macho Brace,3000,Items,"An item to be held by a Pokémon. This stiff, heavy brace helps Pokémon grow strong but cuts Speed in battle."
+exp-share,Exp. Share,0,Items,Turning on this special device will allow all the Pokémon on your team to receive Exp. Points from battles.
+quick-claw,Quick Claw,4000,Items,"An item to be held by a Pokémon. This light, sharp claw lets the bearer move first occasionally."
+soothe-bell,Soothe Bell,4000,Items,"An item to be held by a Pokémon. The comforting chime of this bell calms the holder, making it friendly."
+mental-herb,Mental Herb,4000,Items,An item to be held by a Pokémon. The holder shakes off move-binding effects to move freely. It can be used only once.
+choice-band,Choice Band,4000,Items,An item to be held by a Pokémon. This curious headband boosts Attack but only allows the use of one move.
+kings-rock,King’s Rock,5000,Items,"An item to be held by a Pokémon. When the holder successfully inflicts damage, the target may also flinch."
+silver-powder,Silver Powder,1000,Items,An item to be held by a Pokémon. It’s a shiny silver powder that will boost the power of Bug-type moves.
+amulet-coin,Amulet Coin,10000,Items,An item to be held by a Pokémon. It doubles any prize money received if the holding Pokémon joins a battle.
+cleanse-tag,Cleanse Tag,5000,Items,An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the head of the party.
+soul-dew,Soul Dew,0,Items,A wondrous orb to be held by either Latios or Latias. It raises the power of Psychic- and Dragon-type moves.
+deep-sea-tooth,Deep Sea Tooth,2000,Items,An item to be held by Clamperl. This fang gleams a sharp silver and raises the holder’s Sp. Atk stat.
+deep-sea-scale,Deep Sea Scale,2000,Items,An item to be held by Clamperl. This scale shines with a faint pink and raises the holder’s Sp. Def stat.
+smoke-ball,Smoke Ball,4000,Items,An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon encounter without fail.
+everstone,Everstone,3000,Items,An item to be held by a Pokémon. A Pokémon holding this peculiar stone is prevented from evolving.
+focus-band,Focus Band,4000,Items,"An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP."
+lucky-egg,Lucky Egg,10000,Items,An item to be held by a Pokémon. It’s an egg filled with happiness that earns extra Exp. Points in battle.
+scope-lens,Scope Lens,4000,Items,An item to be held by a Pokémon. It’s a lens for scoping out weak points. It boosts the holder’s critical-hit ratio.
+metal-coat,Metal Coat,2000,Items,An item to be held by a Pokémon. It’s a special metallic film that can boost the power of Steel-type moves.
+leftovers,Leftovers,4000,Items,An item to be held by a Pokémon. The holder’s HP is slowly but steadily restored throughout every battle.
+dragon-scale,Dragon Scale,2000,Items,A very tough and inflexible scale. Dragon-type Pokémon may be holding this item when caught.
+light-ball,Light Ball,1000,Items,An item to be held by Pikachu. It’s a puzzling orb that boosts its Attack and Sp. Atk stats.
+soft-sand,Soft Sand,1000,Items,"An item to be held by a Pokémon. It’s a loose, silky sand that boosts the power of Ground-type moves."
+hard-stone,Hard Stone,1000,Items,An item to be held by a Pokémon. It’s a durable stone that boosts the power of Rock-type moves.
+miracle-seed,Miracle Seed,1000,Items,An item to be held by a Pokémon. It’s a seed imbued with life force that boosts the power of Grass-type moves.
+black-glasses,Black Glasses,1000,Items,An item to be held by a Pokémon. A pair of shady-looking glasses that boost the power of Dark-type moves.
+black-belt,Black Belt,1000,Items,An item to be held by a Pokémon. This belt helps the wearer to focus and boosts the power of Fighting-type moves.
+magnet,Magnet,1000,Items,An item to be held by a Pokémon. It’s a powerful magnet that boosts the power of Electric-type moves.
+mystic-water,Mystic Water,1000,Items,An item to be held by a Pokémon. This teardrop-shaped gem boosts the power of Water-type moves.
+sharp-beak,Sharp Beak,1000,Items,"An item to be held by a Pokémon. It’s a long, sharp beak that boosts the power of Flying-type moves."
+poison-barb,Poison Barb,1000,Items,"An item to be held by a Pokémon. This small, poisonous barb boosts the power of Poison-type moves."
+never-melt-ice,Never-Melt Ice,1000,Items,An item to be held by a Pokémon. It’s a heat- repelling piece of ice that boosts the power of  Ice-type moves.
+spell-tag,Spell Tag,1000,Items,"An item to be held by a Pokémon. It’s a sinister, eerie tag that boosts the power of Ghost-type moves."
+twisted-spoon,Twisted Spoon,1000,Items,An item to be held by a Pokémon. This spoon is imbued with telekinetic power and boosts Psychic-type moves.
+charcoal,Charcoal,1000,Items,An item to be held by a Pokémon. It’s a combustible fuel that boosts the power of Fire-type moves.
+dragon-fang,Dragon Fang,1000,Items,An item to be held by a Pokémon. This hard and sharp fang boosts the power of Dragon-type moves.
+silk-scarf,Silk Scarf,1000,Items,An item to be held by a Pokémon. It’s a sumptuous scarf that boosts the power of Normal-type moves.
+up-grade,Up-Grade,2000,Items,A transparent device somehow filled with all sorts of data. It was produced by Silph Co.
+shell-bell,Shell Bell,4000,Items,An item to be held by a Pokémon. The holder regains a little HP every time it inflicts damage on others.
+sea-incense,Sea Incense,2000,Items,An item to be held by a Pokémon. This incense has a curious aroma that boosts the power of Water-type moves.
+lax-incense,Lax Incense,5000,Items,An item to be held by a Pokémon. The beguiling aroma of this incense may cause attacks to miss its holder.
+lucky-punch,Lucky Punch,1000,Items,An item to be held by Chansey. This pair of lucky boxing gloves will boost Chansey’s critical-hit ratio.
+metal-powder,Metal Powder,1000,Items,"An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Defense stat."
+thick-club,Thick Club,1000,Items,An item to be held by Cubone or Marowak. It’s a hard bone of some sort that boosts the Attack stat.
+leek,Leek,1000,Items,An item to be held by Farfetch’d. This very long and stiff stalk of leek boosts its critical-hit ratio.
+red-scarf,Red Scarf,100,Items,"An item to be held by a Pokémon. During a contest, it raises the Cool aspect of the Pokémon holding it."
+blue-scarf,Blue Scarf,100,Items,"An item to be held by a Pokémon. During a contest, it raises the Beauty aspect of the Pokémon holding it."
+pink-scarf,Pink Scarf,100,Items,"An item to be held by a Pokémon. During a contest, it raises the Cute aspect of the Pokémon holding it."
+green-scarf,Green Scarf,100,Items,"An item to be held by a Pokémon. During a contest, it raises the Clever aspect of the Pokémon holding it."
+yellow-scarf,Yellow Scarf,100,Items,"An item to be held by a Pokémon. During a contest, it raises the Tough aspect of the Pokémon holding it."
+wide-lens,Wide Lens,4000,Items,An item to be held by a Pokémon. It’s a magnifying lens that slightly boosts the accuracy of moves.
+muscle-band,Muscle Band,4000,Items,"An item to be held by a Pokémon. This headband exudes strength, slightly boosting the power of physical moves."
+wise-glasses,Wise Glasses,4000,Items,An item to be held by a Pokémon. This thick pair of glasses slightly boosts the power of special moves.
+expert-belt,Expert Belt,4000,Items,An item to be held by a Pokémon. It’s a well-worn belt that slightly boosts the power of supereffective moves.
+light-clay,Light Clay,4000,Items,An item to be held by a Pokémon. Protective moves like Light Screen and Reflect will be effective longer.
+life-orb,Life Orb,4000,Items,"An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit."
+power-herb,Power Herb,4000,Items,A single-use item to be held by a Pokémon. It allows the holder to immediately use a move that normally requires a turn to charge.
+toxic-orb,Toxic Orb,4000,Items,An item to be held by a Pokémon. It’s a bizarre orb that will badly poison the holder during battle.
+flame-orb,Flame Orb,4000,Items,An item to be held by a Pokémon. It’s a bizarre orb that will afflict the holder with a burn during battle.
+quick-powder,Quick Powder,1000,Items,"An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Speed stat."
+focus-sash,Focus Sash,4000,Items,"An item to be held by a Pokémon. If the holder has full HP, it will endure a potential KO attack with 1 HP. The item then disappears."
+zoom-lens,Zoom Lens,4000,Items,"An item to be held by a Pokémon. If the holder moves after its target moves, its accuracy will be boosted."
+metronome,Metronome,4000,Items,"An item to be held by a Pokémon. It boosts moves used consecutively, but only until a different move is used."
+iron-ball,Iron Ball,4000,Items,An item to be held by a Pokémon. It lowers Speed and allows Ground-type moves to hit Flying-type and levitating holders.
+lagging-tail,Lagging Tail,4000,Items,An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.
+destiny-knot,Destiny Knot,4000,Items,"An item to be held by a Pokémon. If the holder becomes infatuated, the opposing Pokémon will be, too."
+black-sludge,Black Sludge,4000,Items,An item to be held by a Pokémon. It gradually restores HP to Poison-type Pokémon. It damages any other type.
+icy-rock,Icy Rock,4000,Items,An item to be held by a Pokémon. It extends the duration of the move Hail when used by the holder.
+smooth-rock,Smooth Rock,4000,Items,An item to be held by a Pokémon. It extends the duration of the move Sandstorm when used by the holder.
+heat-rock,Heat Rock,4000,Items,An item to be held by a Pokémon. It extends the duration of the move Sunny Day when used by the holder.
+damp-rock,Damp Rock,4000,Items,An item to be held by a Pokémon. It extends the duration of the move Rain Dance when used by the holder.
+grip-claw,Grip Claw,4000,Items,An item to be held by a Pokémon. It extends the duration of multi-turn attacks like Bind and Wrap.
+choice-scarf,Choice Scarf,4000,Items,An item to be held by a Pokémon. This curious scarf boosts Speed but only allows the use of one move.
+sticky-barb,Sticky Barb,4000,Items,An item to be held by a Pokémon. It damages the holder every turn and may latch on to Pokémon that touch the holder.
+power-bracer,Power Bracer,3000,Items,An item to be held by a Pokémon. It reduces Speed but allows the holder’s Attack stat to grow more after battling.
+power-belt,Power Belt,3000,Items,An item to be held by a Pokémon. It reduces Speed but allows the holder’s Defense stat to grow more after battling.
+power-lens,Power Lens,3000,Items,An item to be held by a Pokémon. It reduces Speed but allows the holder’s Sp. Atk stat to grow more after battling.
+power-band,Power Band,3000,Items,An item to be held by a Pokémon. It reduces Speed but allows the holder’s Sp. Def stat to grow more after battling.
+power-anklet,Power Anklet,3000,Items,An item to be held by a Pokémon. It reduces Speed but allows the holder’s Speed stat to grow more after battling.
+power-weight,Power Weight,3000,Items,An item to be held by a Pokémon. It reduces Speed but allows the holder’s maximum HP to grow more after battling.
+shed-shell,Shed Shell,4000,Items,An item to be held by a Pokémon. This discarded carapace enables the holder to switch out of battle without fail.
+big-root,Big Root,4000,Items,An item to be held by a Pokémon. It boosts the amount of HP the holder recovers from  HP-stealing moves.
+choice-specs,Choice Specs,4000,Items,An item to be held by a Pokémon. These curious glasses boost Sp. Atk but only allow the use of one move.
+flame-plate,Flame Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Fire-type moves.
+splash-plate,Splash Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Water-type moves.
+zap-plate,Zap Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Electric-type moves.
+meadow-plate,Meadow Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Grass-type moves.
+icicle-plate,Icicle Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Ice-type moves.
+fist-plate,Fist Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Fighting-type moves.
+toxic-plate,Toxic Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Poison-type moves.
+earth-plate,Earth Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Ground-type moves.
+sky-plate,Sky Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Flying-type moves.
+mind-plate,Mind Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Psychic-type moves.
+insect-plate,Insect Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Bug-type moves.
+stone-plate,Stone Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Rock-type moves.
+spooky-plate,Spooky Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Ghost-type moves.
+draco-plate,Draco Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Dragon-type moves.
+dread-plate,Dread Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Dark-type moves.
+iron-plate,Iron Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Steel-type moves.
+odd-incense,Odd Incense,2000,Items,An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Psychic-type moves.
+rock-incense,Rock Incense,2000,Items,An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Rock-type moves.
+full-incense,Full Incense,5000,Items,An item to be held by a Pokémon. This exotic-smelling incense makes the holder bloated and slow moving.
+wave-incense,Wave Incense,2000,Items,An item to be held by a Pokémon. This incense has a curious aroma that boosts the power of Water-type moves.
+rose-incense,Rose Incense,2000,Items,An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Grass-type moves.
+luck-incense,Luck Incense,11000,Items,An item to be held by a Pokémon. It doubles any prize money received if the holding Pokémon joins a battle.
+pure-incense,Pure Incense,6000,Items,An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the head of the party.
+protector,Protector,2000,Items,A protective item of some sort. It is extremely stiff and heavy. It’s loved by a certain Pokémon.
+electirizer,Electirizer,2000,Items,A box packed with a tremendous amount of electric energy. It’s loved by a certain Pokémon.
+magmarizer,Magmarizer,2000,Items,A box packed with a tremendous amount of magma energy. It’s loved by a certain Pokémon.
+dubious-disc,Dubious Disc,2000,Items,A transparent device overflowing with dubious data. Its producer is unknown.
+reaper-cloth,Reaper Cloth,2000,Items,A cloth imbued with horrifyingly strong spiritual energy. It’s loved by a certain Pokémon.
+razor-claw,Razor Claw,5000,Items,An item to be held by a Pokémon. This sharply hooked claw increases the holder’s critical-hit ratio.
+razor-fang,Razor Fang,5000,Items,"An item to be held by a Pokémon. When the holder successfully inflicts damage, the target may also flinch."
+hm01,HM01,0,TMs and HMs,The target is cut with a scythe or claw. This can also be used to cut down thin trees.
+hm02,HM02,0,TMs and HMs,The user soars and then strikes its target on the next turn. This can also be used to fly to any familiar town.
+hm03,HM03,0,TMs and HMs,The user attacks everything around it by swamping its surroundings with a giant wave.
+hm04,HM04,0,TMs and HMs,The target is slugged with a punch thrown at maximum power. This can also be used to move heavy boulders.
+hm05,HM05,0,TMs and HMs,The user charges at the target and may make it flinch. This can also be used to climb a waterfall.
+hm06,HM06,0,TMs and HMs,The user attacks with a punch. This may also lower the target’s Defense stat. This move can also shatter rocks in the field.
+hm07,HM07,0,TMs and HMs,"Diving on the first turn, the user floats up and attacks on the next turn."
+hm08,HM08,0,TMs and HMs,A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.
+explorer-kit,Explorer Kit,0,Key Items,A bag filled with convenient tools for exploring. It provides access to the Underground in the Sinnoh region.
+loot-sack,Loot Sack,0,Key Items,"A sturdy, spacious bag that is used to carry any treasures or loot obtained in the coal mine."
+rule-book,Rule Book,0,Key Items,"It lists the rules for holding battles. For Link Battles, you may choose which set of rules you wish to use."
+poke-radar,Poké Radar,0,Key Items,A tool that can search out Pokémon that are hiding in the tall grass. Its battery is recharged as you walk.
+point-card,Point Card,0,Key Items,A card that lists how many Battle Points you have earned.
+journal,Journal,0,Key Items,A notebook that keeps a day-to-day record of your adventure so far.
+seal-case,Seal Case,0,Key Items,A case for storing Seals that can be applied to the exteriors of Poké Balls.
+fashion-case,Fashion Case,0,Key Items,A lovely case to store colorful Props for your Pokémon to wear in a musical.
+seal-bag,Seal Bag,0,Key Items,A tiny bag that can hold 10 Seals for decorating Poké Balls.
+pal-pad,Pal Pad,0,Key Items,A convenient notepad that is used to register your Friends and friend codes and keep a record of your gameplay.
+works-key,Works Key,0,Key Items,A large key for operating the doors of the Valley Windworks in the canyon. It was held by a Team Galactic Grunt.
+old-charm,Old Charm,0,Key Items,An ancient good-luck charm made of Pokémon bones to be taken to the elder of Celestic Town.
+galactic-key,Galactic Key,0,Key Items,"A card key for disengaging the security systems in the Galactic HQ. Losing it can result in punishment, apparently."
+red-chain,Red Chain,0,Key Items,A mythical chain that is said to link the Legendary Pokémon that created the Sinnoh region.
+town-map,Town Map,0,Key Items,A very convenient map that can be viewed anytime. It even shows you your present location in the region.
+vs-seeker,Vs. Seeker,0,Key Items,A device that indicates Trainers who want to battle. Its battery charges while you walk.
+coin-case,Coin Case,0,Key Items,"A case for holding coins obtained at the Game Corner. It can hold up to 50,000 coins."
+old-rod,Old Rod,0,Key Items,An old and beat-up fishing rod. Use it at any body of water to fish for wild aquatic Pokémon.
+good-rod,Good Rod,0,Key Items,"A new, good-quality fishing rod. Use it at any body of water to fish for wild aquatic Pokémon."
+super-rod,Super Rod,0,Key Items,"An awesome, high-tech fishing rod. Use it at any body of water to fish for wild aquatic Pokémon."
+sprayduck,Sprayduck,0,Key Items,"A watering can shaped like a Psyduck. It helps promote the healthy growth of any Berries planted in good, soft soil."
+poffin-case,Poffin Case,0,Key Items,A case for storing Poffins cooked from Berries.
+bicycle,Bicycle,0,Key Items,A folding Bicycle that enables a rider to get around much faster than a pair of Running Shoes will allow.
+suite-key,Suite Key,0,Key Items,"A key to one of the suites at a certain luxury hotel by a lake. For some odd reason, it often disappears."
+oaks-letter,Oak’s Letter,0,Key Items,A letter from Professor Oak. Written in it is a request for you to go to Route 224.
+lunar-wing,Lunar Wing,0,Key Items,A feather that glows like the moon. It’s said to possess the power to dispel nightmares.
+member-card,Member Card,0,Key Items,"A card needed for entering the inn in Canalave City. Oddly, the last date marked on it was 50 years ago."
+azure-flute,Azure Flute,0,Key Items,A flute that puts out echoing sounds that do not seem to be of this world. No one knows who made it.
+ss-ticket,S.S. Ticket,0,Key Items,A ticket required for sailing on the ferry S.S. Aqua. It has a drawing of a ship on its front.
+contest-pass,Contest Pass,0,Key Items,A pass required for entering Pokémon Contests. It has a drawing of an award ribbon on its front.
+magma-stone,Magma Stone,0,Key Items,"A stone formed by boulders melting in intensely hot magma, then hardening. Magma remains sealed inside it."
+parcel,Parcel,0,Key Items,A parcel entrusted into your care. You’re supposed to deliver it to your childhood friend who left Twinleaf Town.
+coupon-1,Coupon 1,0,Key Items,A coupon to be exchanged for a Pokémon Watch— Pokétch for short. Three coupons are needed.
+coupon-2,Coupon 2,0,Key Items,A coupon to be exchanged for a Pokémon Watch— Pokétch for short. Three coupons are needed.
+coupon-3,Coupon 3,0,Key Items,A coupon to be exchanged for a Pokémon Watch— Pokétch for short. Three coupons are needed.
+storage-key,Storage Key,0,Key Items,The key to Team Galactic’s sinister warehouse located at the edge of Veilstone City.
+secret-potion,Secret Potion,0,Key Items,A fantastic medicine dispensed by the pharmacy in Cianwood City. It fully heals a Pokémon of any ailment.
+griseous-orb,Griseous Orb,0,Items,A glowing orb to be held by Giratina. It boosts the power of Dragon- and Ghost-type moves when it is held.
+vs-recorder,Vs. Recorder,0,Key Items,An amazing device that can record a battle between friends or the battles at certain special battle facilities.
+gracidea,Gracidea,0,Key Items,A flower sometimes bundled in bouquets to convey gratitude on special occasions like birthdays.
+secret-key,Secret Key,0,Key Items,A high-tech key that has to be used at a specific location. It emits a special electronic signal to open a door.
+apricorn-box,Apricorn Box,0,Key Items,A handy box where you can store up to 99 of each kind of Apricorn.
+berry-pots,Berry Pots,0,Key Items,Handy containers for cultivating Berries wherever you go.
+squirt-bottle,Squirt Bottle,0,Key Items,A bottle used for watering plants in the Berry Pots.
+lure-ball,Lure Ball,0,Poké Balls,A Poké Ball that is good for catching Pokémon that you reel in with a rod while out fishing.
+level-ball,Level Ball,0,Poké Balls,A Poké Ball that makes it easier to catch Pokémon that are at a lower level than your own Pokémon.
+moon-ball,Moon Ball,0,Poké Balls,A Poké Ball that will make it easier to catch Pokémon that can evolve using a Moon Stone.
+heavy-ball,Heavy Ball,0,Poké Balls,A Poké Ball that is better than usual at catching very heavy Pokémon.
+fast-ball,Fast Ball,0,Poké Balls,A Poké Ball that makes it easier to catch Pokémon that are usually very quick to run away.
+friend-ball,Friend Ball,0,Poké Balls,A strange Poké Ball that will make the wild Pokémon caught with it more friendly toward you immediately.
+love-ball,Love Ball,0,Poké Balls,A Poké Ball that works best when catching a Pokémon that is of the opposite gender of your Pokémon.
+park-ball,Park Ball,0,Poké Balls,A special Poké Ball for the Pal Park.
+sport-ball,Sport Ball,300,Poké Balls,A special Poké Ball that is used during the Bug-Catching Contest.
+red-apricorn,Red Apricorn,20,Key Items,A red Apricorn. It assails your nostrils.
+blue-apricorn,Blue Apricorn,20,Key Items,A blue Apricorn. It smells a bit like grass.
+yellow-apricorn,Yellow Apricorn,20,Key Items,A yellow Apricorn. It has an invigorating scent.
+green-apricorn,Green Apricorn,20,Key Items,"A green Apricorn. It has a mysterious, aromatic scent."
+pink-apricorn,Pink Apricorn,20,Key Items,"A pink Apricorn. It has a nice, sweet scent."
+white-apricorn,White Apricorn,20,Key Items,A white Apricorn. It doesn’t smell like anything.
+black-apricorn,Black Apricorn,20,Key Items,A black Apricorn. It has a scent beyond one’s experience.
+dowsing-machine,Dowsing Machine,0,Key Items,This high-tech machine shows the location of invisible items. It’s attached to the head when in use.
+rage-candy-bar,Rage Candy Bar,350,Key Items,Mahogany Town’s famous candy. It can be used once to heal all the status conditions of a Pokémon.
+red-orb,Red Orb,0,Key Items,A shiny red orb that is said to have a legend tied to it. It’s known to have a deep connection with the Hoenn region.
+blue-orb,Blue Orb,0,Key Items,A shiny blue orb that is said to have a legend tied to it. It’s known to have a deep connection with the Hoenn region.
+jade-orb,Jade Orb,0,Key Items,A shiny green orb that is said to have a legend tied to it. It’s known to have a deep connection with the Hoenn region.
+enigma-stone,Enigma Stone,0,Key Items,A crystal ball that was excavated from the ground. It’s a very beautiful stone that is covered with bits of rock and earth.
+unown-report,Unown Report,0,Key Items,A report of all the discovered kinds of Unown.
+blue-card,Blue Card,0,Key Items,A card to save points for the Buena’s Password show.
+slowpoke-tail,Slowpoke Tail,0,Key Items,A very tasty tail of something. It can be sold at a high price to shops.
+clear-bell,Clear Bell,0,Key Items,A very old-fashioned bell that makes a gentle ringing sound.
+card-key,Card Key,0,Key Items,A card key that opens a shutter in the Radio Tower.
+basement-key,Basement Key,0,Key Items,A key that opens a door in the Goldenrod Tunnel.
+red-scale,Red Scale,0,Key Items,A scale from a red Gyarados. It glows red like a flame.
+lost-item,Lost Item,0,Key Items,The Mime Jr. doll that was lost by the Copycat.
+pass,Pass,0,Key Items,A pass required for riding the Magnet Train. It allows you to ride whenever and however much you’d like.
+machine-part,Machine Part,0,Key Items,An important part of a machine that was stolen from the Power Plant.
+silver-wing,Silver Wing,0,Key Items,"A strange, silvery feather that sparkles."
+rainbow-wing,Rainbow Wing,0,Key Items,A mystical rainbow feather that sparkles.
+mystery-egg,Mystery Egg,0,Key Items,A mysterious Egg obtained from Mr. Pokémon. What is in the Egg is unknown.
+gb-sounds,GB Sounds,0,Key Items,A music player that allows you to listen to nostalgic songs. It’s operated with the flip of a single switch.
+tidal-bell,Tidal Bell,0,Key Items,A very old-fashioned bell that makes a gentle ringing sound.
+data-card-01,Data Card 01,0,Key Items,It holds Pokéathlon records. It is a card that shows how many victories you have had in the Pokéathlon.
+data-card-02,Data Card 02,0,Key Items,It holds Pokéathlon records. It is a card that shows how many losses you have had in the Pokéathlon.
+data-card-03,Data Card 03,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times your Pokémon dashed in the Pokéathlon.
+data-card-04,Data Card 04,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times your Pokémon jumped in the Pokéathlon.
+data-card-05,Data Card 05,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Hurdle Dash.
+data-card-06,Data Card 06,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Relay Run.
+data-card-07,Data Card 07,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Pennant Capture.
+data-card-08,Data Card 08,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Block Smash.
+data-card-09,Data Card 09,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Disc Catch.
+data-card-10,Data Card 10,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Snow Throw.
+data-card-11,Data Card 11,0,Key Items,It holds Pokéathlon records. It is a card that shows how many points your Pokémon scored in the Pokéathlon.
+data-card-12,Data Card 12,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times your Pokémon failed in the Pokéathlon.
+data-card-13,Data Card 13,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times your Pokémon impeded themselves.
+data-card-14,Data Card 14,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times your Pokémon tackled in the Pokéathlon.
+data-card-15,Data Card 15,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times your Pokémon fell down in the Pokéathlon.
+data-card-16,Data Card 16,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Ring Drop.
+data-card-17,Data Card 17,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Lamp Jump.
+data-card-18,Data Card 18,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Circle Push.
+data-card-19,Data Card 19,0,Key Items,It holds Pokéathlon records. It is a card that shows how many Link Pokéathlon wins you have had.
+data-card-20,Data Card 20,0,Key Items,It holds Pokéathlon records. It is a card that shows how many Link Pokéathlon losses you have had.
+data-card-21,Data Card 21,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times you have won a Pokéathlon event.
+data-card-22,Data Card 22,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times you have lost a Pokéathlon event.
+data-card-23,Data Card 23,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times you switched Pokémon in the Pokéathlon.
+data-card-24,Data Card 24,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Goal Roll.
+data-card-25,Data Card 25,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times your Pokémon won individual prizes.
+data-card-26,Data Card 26,0,Key Items,It holds Pokéathlon records. It is a card that shows how many times you instructed your Pokémon.
+data-card-27,Data Card 27,0,Key Items,It holds Pokéathlon records. It is a card that shows how much time you spent participating in the Pokéathlon.
+lock-capsule,Lock Capsule,0,Key Items,A sturdy Capsule that can only be opened with a special key.
+photo-album,Photo Album,0,Key Items,A nice photo album for storing all the photos taken along your adventure.
+orange-mail,Orange Mail,50,Mail,A piece of MAIL featuring a cute ZIGZAGOON print. It is to be held by a POKéMON.
+harbor-mail,Harbor Mail,50,Mail,A piece of MAIL featuring a cute WINGULL print. It is to be held by a POKéMON.
+glitter-mail,Glitter Mail,50,Mail,A piece of MAIL featuring a cute PIKACHU print. It is to be held by a POKéMON.
+mech-mail,Mech Mail,50,Mail,A piece of MAIL featuring a cute MAGNEMITE print. It is to be held by a POKéMON.
+wood-mail,Wood Mail,50,Mail,A piece of MAIL featuring a cute SLAKOTH print. It is to be held by a POKéMON.
+wave-mail,Wave Mail,50,Mail,A piece of MAIL featuring a cute WAILMER print. It is to be held by a POKéMON.
+bead-mail,Bead Mail,50,Mail,A piece of MAIL to be held by a POKéMON. It will bear the print of the POKéMON holding it.
+shadow-mail,Shadow Mail,50,Mail,A piece of MAIL featuring a cute DUSKULL print. It is to be held by a POKéMON.
+tropic-mail,Tropic Mail,50,Mail,A piece of MAIL featuring a cute BELLOSSOM print. It is to be held by a POKéMON.
+dream-mail,Dream Mail,50,Mail,A piece of MAIL to be held by a POKéMON. It will bear the print of the POKéMON holding it.
+fab-mail,Fab Mail,50,Mail,"A piece of MAIL featuring a gorgeous, extravagant print. It is to be held by a POKéMON."
+retro-mail,Retro Mail,0,Mail,A piece of MAIL featuring a print of three cute POKéMON. It is to be held by a POKéMON.
+mach-bike,Mach Bike,0,Key Items,This folding Bike more than doubles your movement speed.
+acro-bike,Acro Bike,0,Key Items,This folding Bike allows you to perform actions such as wheelies and bunny hops.
+wailmer-pail,Wailmer Pail,0,Key Items,This is a tool for watering Berries you planted to make them grow more quickly.
+devon-goods,Devon Goods,0,Key Items,A package that contains mechanical parts of some sort made by the DEVON CORPORATION.
+soot-sack,Soot Sack,0,Key Items,A sack used to gather and hold volcanic ash.
+pokeblock-case,Pokéblock Case,0,Key Items,A case for holding POKéBLOCKS made with a BERRY BLENDER. It releases one POKéBLOCK when shaken.
+letter,Letter,0,Key Items,An extremely important letter to Steven from the President of Devon Corporation.
+eon-ticket,Eon Ticket,0,Key Items,"The ticket required for sailing on a ferry to the Southern Island. Does Norman, the Petalburg Gym Leader, know a secret?!"
+scanner,Scanner,0,Key Items,A device found inside Sea Mauville.
+go-goggles,Go-Goggles,0,Key Items,Nifty goggles to protect eyes from desert sandstorms.
+meteorite,Meteorite,0,Key Items,A Meteorite originally found at Meteor Falls. You got it at Mt. Chimney.
+rm-1-key,Rm. 1 Key,0,Key Items,A key that opens the door to Room 1 inside the ABANDONED SHIP. It is old and looks easily broken.
+rm-2-key,Rm. 2 Key,0,Key Items,A key that opens the door to Room 2 inside the ABANDONED SHIP. It is old and looks easily broken.
+rm-4-key,Rm. 4 Key,0,Key Items,A key that opens the door to Room 4 inside the ABANDONED SHIP. It is old and looks easily broken.
+rm-6-key,Rm. 6 Key,0,Key Items,A key that opens the door to Room 6 inside the ABANDONED SHIP. It is old and looks easily broken.
+devon-scope,Devon Scope,0,Key Items,A special device made by Devon Corporation that signals the presence of any unseen Pokémon.
+oaks-parcel,Oak's Parcel,0,Key Items,A parcel to be delivered to PROF. OAK from VIRIDIAN CITY’s POKéMON MART.
+poke-flute,Poké Flute,0,Key Items,A flute that can play with such a beautiful tone that even sleeping Pokémon find themselves roused.
+bike-voucher,Bike Voucher,0,Key Items,Take this voucher to the BIKE SHOP in CERULEAN CITY and exchange it for a bicycle.
+gold-teeth,Gold Teeth,0,Key Items,A set of false teeth lost by the SAFARI ZONE’S WARDEN. It makes his smile sparkle.
+lift-key,Lift Key,0,Key Items,A key that operates the elevator in TEAM ROCKET’s HIDEOUT. It bears the TEAM ROCKET logo.
+silph-scope,Silph Scope,0,Key Items,A scope that makes unseeable POKéMON visible. It is made by SILPH CO.
+fame-checker,Fame Checker,0,Key Items,A device that enables you to recall what you’ve heard and seen about famous people.
+tm-case,TM Case,0,Key Items,A case that holds TMs and HMs. It is attached to the BAG’s compartment for important items.
+berry-pouch,Berry Pouch,0,Key Items,A pouch for carrying BERRIES. It is attached to the BAG’s compartment for important items.
+teachy-tv,Teachy TV,0,Key Items,A television set that is tuned to a program with useful tips for novice TRAINERS.
+tri-pass,Tri-Pass,0,Key Items,"A pass for ferries between ONE, TWO, and THREE ISLAND. It has a drawing of three islands."
+rainbow-pass,Rainbow Pass,0,Key Items,A pass for ferries between VERMILION and the SEVII ISLANDS. It features a drawing of a rainbow.
+tea,Tea,0,Key Items,An aromatic tea prepared by an old lady. It will slake even the worst thirst.
+mysticticket,MysticTicket,0,Key Items,A ticket required to board the ship to NAVEL ROCK. It glows with a mystic light.
+auroraticket,AuroraTicket,0,Key Items,A ticket required to board the ship to BIRTH ISLAND. It glows beautifully.
+powder-jar,Powder Jar,0,Key Items,A jar for storing BERRY POWDER made using a BERRY CRUSHER.
+ruby,Ruby,0,Key Items,An exquisitely beautiful gem that has a red glow. It symbolizes passion.
+sapphire,Sapphire,0,Key Items,An exquisitely beautiful gem that has a blue glow. It symbolizes honesty.
+magma-emblem,Magma Emblem,0,Key Items,A medal-like item in the same shape as TEAM MAGMA’s mark.
+old-sea-map,Old Sea Map,0,Key Items,A faded sea chart that shows the way to a certain island.
+douse-drive,Douse Drive,0,Items,A cassette to be held by Genesect. It changes Genesect’s Techno Blast move so it becomes Water type.
+shock-drive,Shock Drive,0,Items,A cassette to be held by Genesect. It changes Genesect’s Techno Blast move so it becomes Electric type.
+burn-drive,Burn Drive,0,Items,A cassette to be held by Genesect. It changes Genesect’s Techno Blast move so it becomes Fire type.
+chill-drive,Chill Drive,0,Items,A cassette to be held by Genesect. It changes Genesect’s Techno Blast move so it becomes Ice type.
+sweet-heart,Sweet Heart,3000,Medicine,"A piece of cloyingly sweet chocolate. When consumed, it restores 20 HP to an injured Pokémon."
+greet-mail,Greet Mail,50,Mail,Stationery designed to be easy to use when writing someone for the first time. Have a Pokémon hold it for delivery.
+favored-mail,Favored Mail,50,Mail,Stationery designed to make it easier to write about your favorite things. Have a Pokémon hold it for delivery.
+rsvp-mail,RSVP Mail,50,Mail,Stationery designed to allow you to extend an invitation to the recipient. Have a Pokémon hold it for delivery.
+thanks-mail,Thanks Mail,50,Mail,Stationery designed to make it easy for you to express thanks. Have a Pokémon hold it for delivery.
+inquiry-mail,Inquiry Mail,50,Mail,Stationery designed to make it easier to pose a question about something. Have a Pokémon hold it for delivery.
+like-mail,Like Mail,50,Mail,Stationery designed to allow you to recommend something to the reader. Have a Pokémon hold it for delivery.
+reply-mail,Reply Mail,50,Mail,Stationery designed to make it easy to respond to a letter you received. Have a Pokémon hold it for delivery.
+bridge-mail-s,Bridge Mail S,50,Mail,Stationery featuring an illustration of a bridge that seems to pierce the sky. Have a Pokémon hold it for delivery.
+bridge-mail-d,Bridge Mail D,50,Mail,Stationery featuring an illustration of a bright-red drawbridge. Have a Pokémon hold it for delivery.
+bridge-mail-t,Bridge Mail T,50,Mail,Stationery featuring an illustration of a high-tension steel suspension bridge. Have a Pokémon hold it for delivery.
+bridge-mail-v,Bridge Mail V,50,Mail,Stationery featuring an illustration of a vintage-looking brick bridge. Have a Pokémon hold it for delivery.
+bridge-mail-m,Bridge Mail M,50,Mail,Stationery featuring an illustration of a majestically arched bridge. Have a Pokémon hold it for delivery.
+prism-scale,Prism Scale,2000,Items,A mysterious scale that causes a certain Pokémon to evolve. It shines in rainbow colors.
+eviolite,Eviolite,4000,Items,"A mysterious Evolutionary lump. When held by a Pokémon that can still evolve, it raises both Defense and Sp. Def."
+float-stone,Float Stone,4000,Items,An item to be held by a Pokémon. This very light stone reduces the weight of a Pokémon when held.
+rocky-helmet,Rocky Helmet,4000,Items,"An item to be held by a Pokémon. If the holder is hit, the attacker will also be damaged upon contact."
+air-balloon,Air Balloon,4000,Items,"An item to be held by a Pokémon. The holder will float in the air until hit. Once hit, this item will burst."
+red-card,Red Card,4000,Items,"An item to be held by a Pokémon. When the holder is hit by an attack, the attacker is removed from battle."
+ring-target,Ring Target,4000,Items,An item to be held by a Pokémon. Moves that normally have no effect will land on a Pokémon holding it.
+binding-band,Binding Band,4000,Items,An item to be held by a Pokémon. A band that increases the power of binding moves used by the holder.
+absorb-bulb,Absorb Bulb,4000,Items,An item to be held by a Pokémon. It boosts Sp. Atk if hit with a Water-type attack. It can only be used once.
+cell-battery,Cell Battery,4000,Items,An item to be held by a Pokémon. It boosts Attack if hit with an Electric-type attack. It can only be used once.
+eject-button,Eject Button,4000,Items,"An item to be held by a Pokémon. If the holder is hit by an attack, it will be switched out of battle."
+fire-gem,Fire Gem,200,Items,"A gem with an essence of fire. When held, it strengthens the power of a Fire-type move one time."
+water-gem,Water Gem,200,Items,"A gem with an essence of water. When held, it strengthens the power of a Water-type move one time."
+electric-gem,Electric Gem,200,Items,"A gem with an essence of electricity. When held, it strengthens the power of an Electric-type move one time."
+grass-gem,Grass Gem,200,Items,"A gem with an essence of nature. When held, it strengthens the power of a Grass-type move one time."
+ice-gem,Ice Gem,200,Items,"A gem with an essence of ice. When held, it strengthens the power of an Ice-type move one time."
+fighting-gem,Fighting Gem,200,Items,"A gem with an essence of combat. When held, it strengthens the power of a Fighting-type move one time."
+poison-gem,Poison Gem,200,Items,"A gem with an essence of poison. When held, it strengthens the power of a Poison-type move one time."
+ground-gem,Ground Gem,200,Items,"A gem with an essence of land. When held, it strengthens the power of a Ground-type move one time."
+flying-gem,Flying Gem,200,Items,"A gem with an essence of air. When held, it strengthens the power of a Flying-type move one time."
+psychic-gem,Psychic Gem,200,Items,"A gem with an essence of the mind. When held, it strengthens the power of a Psychic-type move one time."
+bug-gem,Bug Gem,200,Items,"A gem with an insect-like essence. When held, it strengthens the power of a Bug-type move one time."
+rock-gem,Rock Gem,200,Items,"A gem with an essence of rock. When held, it strengthens the power of a Rock-type move one time."
+ghost-gem,Ghost Gem,200,Items,"A gem with a spectral essence. When held, it strengthens the power of a Ghost-type move one time."
+dark-gem,Dark Gem,200,Items,"A gem with an essence of darkness. When held, it strengthens the power of a Dark-type move one time."
+steel-gem,Steel Gem,200,Items,"A gem with an essence of steel. When held, it strengthens the power of a Steel-type move one time."
+health-wing,Health Wing,300,Medicine,An item for use on a Pokémon. It slightly increases the base HP of a single Pokémon.
+muscle-wing,Muscle Wing,300,Medicine,An item for use on a Pokémon. It slightly increases the base Attack stat of a single Pokémon.
+resist-wing,Resist Wing,300,Medicine,An item for use on a Pokémon. It slightly increases the base Defense stat of a single Pokémon.
+genius-wing,Genius Wing,300,Medicine,An item for use on a Pokémon. It slightly increases the base Sp. Atk stat of a single Pokémon.
+clever-wing,Clever Wing,300,Medicine,An item for use on a Pokémon. It slightly increases the base Sp. Def stat of a single Pokémon.
+swift-wing,Swift Wing,300,Medicine,An item for use on a Pokémon. It slightly increases the base Speed stat of a single Pokémon.
+pretty-wing,Pretty Wing,1000,Items,"Though this feather is beautiful, it’s just a regular feather and has no effect on Pokémon."
+cover-fossil,Cover Fossil,7000,Items,A fossil from a prehistoric Pokémon that once lived in the sea. It appears as though it could be part of its back.
+plume-fossil,Plume Fossil,7000,Items,A fossil from a prehistoric Pokémon that once lived in the sky. It looks as if it could come from part of its wing.
+liberty-pass,Liberty Pass,0,Key Items,A special pass to go to Liberty Garden. Board the ship in Castelia City.
+pass-orb,Pass Orb,200,Items,"A mysterious orb containing the power of the Unova region, to be used when generating Pass Power."
+dream-ball,Dream Ball,0,Poké Balls,A special Poké Ball that appears in your Bag out of nowhere in the Entree Forest. It can catch any Pokémon.
+poke-toy,Poké Toy,100,Items,A toy that attracts the attention of a Pokémon. It guarantees escape from any battle with wild Pokémon.
+prop-case,Prop Case,0,Key Items,A lovely case to store colorful Props for your Pokémon to wear in a musical.
+dragon-skull,Dragon Skull,0,Key Items,A skull of a Pokémon that was said to have braved the angry waters to fly around the world.
+balm-mushroom,Balm Mushroom,15000,Items,A rare mushroom that gives off a nice fragrance. It can be sold at a high price to shops.
+big-nugget,Big Nugget,40000,Items,A big nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.
+pearl-string,Pearl String,30000,Items,Very large pearls that sparkle in a pretty silver color. They can be sold at a high price to shops.
+comet-shard,Comet Shard,60000,Items,A shard that fell to the ground when a comet approached. It can be sold at a high price to shops.
+relic-copper,Relic Copper,0,Items,"A copper coin used by an ancient civilization about 3,000 years ago."
+relic-silver,Relic Silver,0,Items,"A silver coin used by an ancient civilization about 3,000 years ago."
+relic-gold,Relic Gold,60000,Items,"A gold coin used by an ancient civilization about 3,000 years ago."
+relic-vase,Relic Vase,0,Items,"A fragile vase made by an ancient civilization about 3,000 years ago."
+relic-band,Relic Band,0,Items,"A heavy bracelet made by an ancient civilization about 3,000 years ago."
+relic-statue,Relic Statue,0,Items,"A stone figurine made by an ancient civilization about 3,000 years ago."
+relic-crown,Relic Crown,0,Items,"A heavy crown made by an ancient civilization about 3,000 years ago."
+casteliacone,Casteliacone,350,Medicine,"Castelia City’s specialty, soft-serve ice cream. It can be used once to heal all the status conditions of a Pokémon."
+dire-hit-2,Dire Hit 2,0,Battle Items,It can be used many times to raise the critical-hit ratio of one Pokémon. It wears off if the Pokémon is withdrawn.
+x-speed-2,X Speed 2,0,Battle Items,It sharply raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+x-sp-atk-2,X Sp. Atk 2,0,Battle Items,It sharply raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+x-sp-def-2,X Sp. Def 2,0,Battle Items,It sharply raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+x-defense-2,X Defense 2,0,Battle Items,It sharply raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+x-attack-2,X Attack 2,0,Battle Items,It sharply raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+x-accuracy-2,X Accuracy 2,0,Battle Items,It sharply raises the accuracy of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+x-speed-3,X Speed 3,0,Battle Items,It drastically raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+x-sp-atk-3,X Sp. Atk 3,0,Battle Items,It drastically raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+x-sp-def-3,X Sp. Def 3,0,Battle Items,It drastically raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+x-defense-3,X Defense 3,0,Battle Items,It drastically raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+x-attack-3,X Attack 3,0,Battle Items,It drastically raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+x-accuracy-3,X Accuracy 3,0,Battle Items,It drastically raises the accuracy of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+x-speed-6,X Speed 6,0,Battle Items,It raises the Speed stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+x-sp-atk-6,X Sp. Atk 6,0,Battle Items,It raises the Sp. Atk stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+x-sp-def-6,X Sp. Def 6,0,Battle Items,It raises the Sp. Def stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+x-defense-6,X Defense 6,0,Battle Items,It raises the Defense stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+x-attack-6,X Attack 6,0,Battle Items,It raises the Attack stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+x-accuracy-6,X Accuracy 6,0,Battle Items,It raises the accuracy of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+ability-urge,Ability Urge,0,Battle Items,"When used, it activates the Ability of an ally Pokémon."
+item-drop,Item Drop,0,Battle Items,"When used, it causes an ally Pokémon to drop a held item."
+item-urge,Item Urge,0,Battle Items,"When used, it causes an ally Pokémon to use its held item."
+reset-urge,Reset Urge,0,Battle Items,"When used, it restores any stat changes of an ally Pokémon."
+dire-hit-3,Dire Hit 3,0,Battle Items,It can be used many times to greatly raise a Pokémon’s critical-hit ratio. It wears off if the Pokémon is withdrawn.
+light-stone,Light Stone,0,Key Items,Reshiram’s body was destroyed and changed into this stone. It is said to be waiting for the emergence of a hero.
+dark-stone,Dark Stone,0,Key Items,Zekrom’s body was destroyed and changed into this stone. It is said to be waiting for the emergence of a hero.
+xtransceiver,Xtransceiver,0,Key Items,A high-tech transceiver with a camera function. It allows up to four-way calls.
+gram-1,Gram 1,0,Key Items,An important letter that Wingull delivers.
+gram-2,Gram 2,0,Key Items,An important letter that Wingull delivers.
+gram-3,Gram 3,0,Key Items,An important letter that Wingull delivers.
+normal-gem,Normal Gem,4000,Items,"A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move one time."
+medal-box,Medal Box,0,Key Items,A box-shaped machine that stores Medals and Medal information.
+dna-splicers,DNA Splicers,0,Key Items,A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning.
+permit,Permit,0,Key Items,A permit that is needed to enter the Nature Preserve. Not many know about it.
+oval-charm,Oval Charm,0,Key Items,An oval charm said to increase the chance of Pokémon Eggs being found at the Nursery.
+shiny-charm,Shiny Charm,0,Key Items,A shiny charm said to increase the chance of finding a Shiny Pokémon in the wild.
+plasma-card,Plasma Card,0,Key Items,A card key needed to enter the password inside the Plasma Frigate.
+grubby-hanky,Grubby Hanky,0,Key Items,A handkerchief dropped by a regular at Café Warehouse. It smells faintly like a Pokémon.
+colress-machine,Colress Machine,0,Key Items,A special device that wrings out the potential of Pokémon. It’s an imperfect prototype.
+dropped-item,Dropped Item,0,Key Items,The Xtransceiver found at the Nimbasa City amusement park. It seems it belongs to a boy.
+reveal-glass,Reveal Glass,0,Key Items,A looking glass that reveals the truth. It’s a mysterious glass that returns a Pokémon to its original shape.
+weakness-policy,Weakness Policy,1000,Items,An item to be held by a Pokémon. Attack and Sp. Atk sharply increase if the holder is hit with a move it’s weak to.
+assault-vest,Assault Vest,1000,Items,An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves.
+pixie-plate,Pixie Plate,1000,Items,An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Fairy-type moves.
+ability-capsule,Ability Capsule,10000,Medicine,A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used.
+whipped-dream,Whipped Dream,2000,Items,"A soft and sweet treat made of fluffy, puffy, whipped, and whirled cream. It’s loved by a certain Pokémon."
+sachet,Sachet,2000,Items,A sachet filled with fragrant perfumes that are just slightly too overwhelming. Yet it’s loved by a certain Pokémon.
+luminous-moss,Luminous Moss,4000,Items,An item to be held by a Pokémon. It boosts Sp. Def if hit with a Water-type attack. It can only be used once.
+snowball,Snowball,4000,Items,An item to be held by a Pokémon. It boosts Attack if hit with an Ice-type attack. It can only be used once.
+safety-goggles,Safety Goggles,4000,Items,An item to be held by a Pokémon. These goggles protect the holder from both weather-related damage and powder.
+rich-mulch,Rich Mulch,200,Items,"A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect."
+surprise-mulch,Surprise Mulch,200,Items,"A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect."
+boost-mulch,Boost Mulch,200,Items,"A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect."
+amaze-mulch,Amaze Mulch,200,Items,"A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect."
+gengarite,Gengarite,0,Items,"One of a variety of mysterious Mega Stones. Have Gengar hold it, and this stone will enable it to Mega Evolve during battle."
+gardevoirite,Gardevoirite,0,Items,"One of a variety of mysterious Mega Stones. Have Gardevoir hold it, and this stone will enable it to Mega Evolve during battle."
+ampharosite,Ampharosite,0,Items,"One of a variety of mysterious Mega Stones. Have Ampharos hold it, and this stone will enable it to Mega Evolve during battle."
+venusaurite,Venusaurite,0,Items,"One of a variety of mysterious Mega Stones. Have Venusaur hold it, and this stone will enable it to Mega Evolve during battle."
+charizardite-x,Charizardite X,0,Items,"One of a variety of mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle."
+blastoisinite,Blastoisinite,0,Items,"One of a variety of mysterious Mega Stones. Have Blastoise hold it, and this stone will enable it to Mega Evolve during battle."
+mewtwonite-x,Mewtwonite X,0,Items,"One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle."
+mewtwonite-y,Mewtwonite Y,0,Items,"One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle."
+blazikenite,Blazikenite,0,Items,"One of a variety of mysterious Mega Stones. Have Blaziken hold it, and this stone will enable it to Mega Evolve during battle."
+medichamite,Medichamite,0,Items,"One of a variety of mysterious Mega Stones. Have Medicham hold it, and this stone will enable it to Mega Evolve during battle."
+houndoominite,Houndoominite,0,Items,"One of a variety of mysterious Mega Stones. Have Houndoom hold it, and this stone will enable it to Mega Evolve during battle."
+aggronite,Aggronite,0,Items,"One of a variety of mysterious Mega Stones. Have Aggron hold it, and this stone will enable it to Mega Evolve during battle."
+banettite,Banettite,0,Items,"One of a variety of mysterious Mega Stones. Have Banette hold it, and this stone will enable it to Mega Evolve during battle."
+tyranitarite,Tyranitarite,0,Items,"One of a variety of mysterious Mega Stones. Have Tyranitar hold it, and this stone will enable it to Mega Evolve during battle."
+scizorite,Scizorite,0,Items,"One of a variety of mysterious Mega Stones. Have Scizor hold it, and this stone will enable it to Mega Evolve during battle."
+pinsirite,Pinsirite,0,Items,"One of a variety of mysterious Mega Stones. Have Pinsir hold it, and this stone will enable it to Mega Evolve during battle."
+aerodactylite,Aerodactylite,0,Items,"One of a variety of mysterious Mega Stones. Have Aerodactyl hold it, and this stone will enable it to Mega Evolve during battle."
+lucarionite,Lucarionite,0,Items,"One of a variety of mysterious Mega Stones. Have Lucario hold it, and this stone will enable it to Mega Evolve during battle."
+abomasite,Abomasite,0,Items,"One of a variety of mysterious Mega Stones. Have Abomasnow hold it, and this stone will enable it to Mega Evolve during battle."
+kangaskhanite,Kangaskhanite,0,Items,"One of a variety of mysterious Mega Stones. Have Kangaskhan hold it, and this stone will enable it to Mega Evolve during battle."
+gyaradosite,Gyaradosite,0,Items,"One of a variety of mysterious Mega Stones. Have Gyarados hold it, and this stone will enable it to Mega Evolve during battle."
+absolite,Absolite,0,Items,"One of a variety of mysterious Mega Stones. Have Absol hold it, and this stone will enable it to Mega Evolve during battle."
+charizardite-y,Charizardite Y,0,Items,"One of a variety of mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle."
+alakazite,Alakazite,0,Items,"One of a variety of mysterious Mega Stones. Have Alakazam hold it, and this stone will enable it to Mega Evolve during battle."
+heracronite,Heracronite,0,Items,"One of a variety of mysterious Mega Stones. Have Heracross hold it, and this stone will enable it to Mega Evolve during battle."
+mawilite,Mawilite,0,Items,"One of a variety of mysterious Mega Stones. Have Mawile hold it, and this stone will enable it to Mega Evolve during battle."
+manectite,Manectite,0,Items,"One of a variety of mysterious Mega Stones. Have Manectric hold it, and this stone will enable it to Mega Evolve during battle."
+garchompite,Garchompite,0,Items,"One of a variety of mysterious Mega Stones. Have Garchomp hold it, and this stone will enable it to Mega Evolve during battle."
+roseli-berry,Roseli Berry,20,Berries,"If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Fairy-type attack."
+kee-berry,Kee Berry,20,Berries,"If held by a Pokémon, this Berry will increase the holder’s Defense if it’s hit with a physical move."
+maranga-berry,Maranga Berry,20,Berries,"If held by a Pokémon, this Berry will increase the holder’s Sp. Def if it’s hit with a special move."
+discount-coupon,Discount Coupon,20,Items,This special coupon allows you to buy items at a discount when you are shopping at a boutique.
+strange-souvenir,Strange Souvenir,3000,Items,An ornament depicting a mysterious Pokémon that has been venerated as a guardian deity for an extremely long time in the Alola region.
+lumiose-galette,Lumiose Galette,350,Medicine,A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon.
+jaw-fossil,Jaw Fossil,7000,Items,A fossil from a prehistoric Pokémon that once lived on the land. It looks as if it could be a piece of a large jaw.
+sail-fossil,Sail Fossil,7000,Items,A fossil from a prehistoric Pokémon that once lived on the land. It looks like the impression from a skin sail.
+fairy-gem,Fairy Gem,200,Items,"A gem with an essence of the fey. When held, it strengthens the power of a Fairy-type move one time."
+adventure-rules,Adventure Rules,0,Key Items,This book contains all the points a new Trainer needs to know on a journey. It was handmade by a kind friend.
+elevator-key,Elevator Key,0,Key Items,A card key that activates the elevator in Lysandre Labs. It is emblazoned with Team Flare’s logo.
+holo-caster,Holo Caster,0,Key Items,A device that allows users to receive and view hologram clips at any time. It is also used to chat with others.
+honor-of-kalos,Honor of Kalos,0,Key Items,A precious symbol that is awarded only to an individual who has done great things for the Kalos region.
+intriguing-stone,Intriguing Stone,0,Key Items,A rather curious stone that might appear valuable to some. It’s all in the eye of the beholder.
+lens-case,Lens Case,0,Key Items,A rather chic-looking case for carrying contact lenses.
+looker-ticket,Looker Ticket,0,Key Items,A ticket that was handmade by Looker. It’s decorated with a liberal amount of glittery paint.
+mega-ring,Mega Ring,0,Key Items,This ring contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve in battle.
+power-plant-pass,Power Plant Pass,0,Key Items,This pass serves as an ID card for gaining access to the power plant that lies along Route 13.
+profs-letter,Prof’s Letter,0,Key Items,A letter that Professor Sycamore wrote to your mother. A faint but pleasant perfume seems to cling to the paper.
+roller-skates,Roller Skates,0,Key Items,"Attaches roller skates to the bottom of your shoes, allowing you to glide quickly around and perform tricks."
+sprinklotad,Sprinklotad,0,Key Items,"A watering can shaped like a Lotad. It helps promote the healthy growth of any Berries planted in good, soft soil."
+tmv-pass,TMV Pass,0,Key Items,A commuter pass that allows the holder to ride the TMV between Lumiose City and Kiloude City at any time.
+latiasite,Latiasite,0,Items,"One of a variety of mysterious Mega Stones. Have Latias hold it, and this stone will enable it to Mega Evolve during battle."
+latiosite,Latiosite,0,Items,"One of a variety of mysterious Mega Stones. Have Latios hold it, and this stone will enable it to Mega Evolve during battle."
+common-stone,Common Stone,0,Key Items,A perfectly normal stone that might appear to be valuable to some. It’s all in the eye of the beholder.
+makeup-bag,Makeup Bag,0,Key Items,A rather chic-looking case for carrying lipsticks.
+travel-trunk,Travel Trunk,0,Key Items,"A light and yet incredibly effective trunk, which can contain every last piece of clothing that can be bought."
+shalour-sable,Shalour Sable,350,Medicine,Shalour City’s famous shortbread. It can be used once to heal all the status conditions of a Pokémon.
+mega-charm,Mega Charm,0,Key Items,This charm contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve in battle.
+devon-parts,Devon Parts,0,Key Items,A case that contains mechanical parts of some sort made by the Devon Corporation.
+pokeblock-kit,Pokéblock Kit,0,Key Items,A set containing a Berry Blender for making Pokéblocks and a Pokéblock Case for storing Pokéblocks.
+key-to-room-1,Key to Room 1,0,Key Items,A key that opens a door inside Sea Mauville.
+key-to-room-2,Key to Room 2,0,Key Items,A key that opens a door inside Sea Mauville.
+key-to-room-4,Key to Room 4,0,Key Items,A key that opens a door inside Sea Mauville.
+key-to-room-6,Key to Room 6,0,Key Items,A key that opens a door inside Sea Mauville.
+devon-scuba-gear,Devon Scuba Gear,0,Key Items,A device made by Devon Corporation that provides oxygen to users during the use of Dive.
+contest-costume--jacket,Contest Costume,0,Key Items,A very cool suit to be worn during the Contest Spectacular.
+magma-suit,Magma Suit,0,Key Items,A suit made with the collective technological know-how of Team Magma. It can withstand any impact.
+aqua-suit,Aqua Suit,0,Key Items,A suit made with the collective technological know-how of Team Aqua. It can withstand any impact.
+pair-of-tickets,Pair of Tickets,0,Key Items,Tickets for two to the astronomical show being held at the Mossdeep Space Center.
+swampertite,Swampertite,0,Items,"One of a variety of mysterious Mega Stones. Have Swampert hold it, and this stone will enable it to Mega Evolve during battle."
+sceptilite,Sceptilite,0,Items,"One of a variety of mysterious Mega Stones. Have Sceptile hold it, and this stone will enable it to Mega Evolve during battle."
+sablenite,Sablenite,0,Items,"One of a variety of mysterious Mega Stones. Have Sableye hold it, and this stone will enable it to Mega Evolve during battle."
+altarianite,Altarianite,0,Items,"One of a variety of mysterious Mega Stones. Have Altaria hold it, and this stone will enable it to Mega Evolve during battle."
+galladite,Galladite,0,Items,"One of a variety of mysterious Mega Stones. Have Gallade hold it, and this stone will enable it to Mega Evolve during battle."
+audinite,Audinite,0,Items,"One of a variety of mysterious Mega Stones. Have Audino hold it, and this stone will enable it to Mega Evolve during battle."
+metagrossite,Metagrossite,0,Items,"One of a variety of mysterious Mega Stones. Have Metagross hold it, and this stone will enable it to Mega Evolve during battle."
+sharpedonite,Sharpedonite,0,Items,"One of a variety of mysterious Mega Stones. Have Sharpedo hold it, and this stone will enable it to Mega Evolve during battle."
+slowbronite,Slowbronite,0,Items,"One of a variety of mysterious Mega Stones. Have Slowbro hold it, and this stone will enable it to Mega Evolve during battle."
+steelixite,Steelixite,0,Items,"One of a variety of mysterious Mega Stones. Have Steelix hold it, and this stone will enable it to Mega Evolve during battle."
+pidgeotite,Pidgeotite,0,Items,"One of a variety of mysterious Mega Stones. Have Pidgeot hold it, and this stone will enable it to Mega Evolve during battle."
+glalitite,Glalitite,0,Items,"One of a variety of mysterious Mega Stones. Have Glalie hold it, and this stone will enable it to Mega Evolve during battle."
+diancite,Diancite,0,Items,"One of a variety of mysterious Mega Stones. Have Diancie hold it, and this stone will enable it to Mega Evolve during battle."
+prison-bottle,Prison Bottle,0,Key Items,"A bottle believed to have been used to seal away the power of a certain Pokémon long, long ago."
+mega-cuff,Mega Cuff,0,Key Items,This bracelet contains an untold power that somehow enables Pokémon carrying a Mega Stone to Mega Evolve in battle.
+cameruptite,Cameruptite,0,Items,"One of a variety of mysterious Mega Stones. Have Camerupt hold it, and this stone will enable it to Mega Evolve during battle."
+lopunnite,Lopunnite,0,Items,"One of a variety of mysterious Mega Stones. Have Lopunny hold it, and this stone will enable it to Mega Evolve during battle."
+salamencite,Salamencite,0,Items,"One of a variety of mysterious Mega Stones. Have Salamence hold it, and this stone will enable it to Mega Evolve during battle."
+beedrillite,Beedrillite,0,Items,"One of a variety of mysterious Mega Stones. Have Beedrill hold it, and this stone will enable it to Mega Evolve during battle."
+key-stone,Key Stone,0,Key Items,A stone filled with an unexplained power. It makes Pokémon that battle with a Mega Stone Mega Evolve.
+meteorite-shard,Meteorite Shard,0,Key Items,One of the fragments of a Meteorite from Granite Cave. It’s faintly warm to the touch.
+eon-flute,Eon Flute,0,Key Items,A flute that can be used to summon Latios or Latias no matter where you are.
+normalium-z,Normalium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Normal-type moves to Z-Moves.
+firium-z,Firium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Fire-type moves to Z-Moves.
+waterium-z,Waterium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Water-type moves to Z-Moves.
+electrium-z,Electrium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Electric-type moves to Z-Moves.
+grassium-z,Grassium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Grass-type moves to Z-Moves.
+icium-z,Icium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Ice-type moves to Z-Moves.
+fightinium-z,Fightinium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Fighting-type moves to Z-Moves.
+poisonium-z,Poisonium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Poison-type moves to Z-Moves.
+groundium-z,Groundium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Ground-type moves to Z-Moves.
+flyinium-z,Flyinium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Flying-type moves to Z-Moves.
+psychium-z,Psychium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Psychic-type moves to Z-Moves.
+buginium-z,Buginium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Bug-type moves to Z-Moves.
+rockium-z,Rockium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Rock-type moves to Z-Moves.
+ghostium-z,Ghostium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Ghost-type moves to Z-Moves.
+dragonium-z,Dragonium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Dragon-type moves to Z-Moves.
+darkinium-z,Darkinium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Dark-type moves to Z-Moves.
+steelium-z,Steelium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Steel-type moves to Z-Moves.
+fairium-z,Fairium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Fairy-type moves to Z-Moves.
+pikanium-z,Pikanium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Pikachu’s Volt Tackle to a Z-Move.
+bottle-cap,Bottle Cap,5000,Items,A beautiful bottle cap that gives off a silver gleam. Some people are happy to receive one.
+gold-bottle-cap,Gold Bottle Cap,10000,Items,A beautiful bottle cap that gives off a golden gleam. Some people are happy to receive one.
+z-ring,Z-Ring,0,Key Items,A mysterious ring that enables Pokémon to use Z-Power. It requires both the willpower and the physical power of the Trainer wearing it.
+decidium-z,Decidium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Decidueye’s Spirit Shackle to a Z-Move.
+incinium-z,Incinium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Incineroar’s Darkest Lariat to a Z-Move.
+primarium-z,Primarium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Primarina’s Sparkling Aria to a Z-Move.
+tapunium-z,Tapunium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades the tapu’s Nature’s Madness to a Z-Move.
+marshadium-z,Marshadium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Marshadow’s Spectral Thief to a Z-Move.
+aloraichium-z,Aloraichium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Alolan Raichu’s Thunderbolt to a Z-Move.
+snorlium-z,Snorlium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Snorlax’s Giga Impact to a Z-Move.
+eevium-z,Eevium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Eevee’s Last Resort to a Z-Move.
+mewnium-z,Mewnium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades Mew’s Psychic to a Z-Move.
+pikashunium-z,Pikashunium Z,0,Key Items,This is a crystallized form of Z-Power. It upgrades a Thunderbolt by Pikachu in a cap to a Z-Move.
+forage-bag,Forage Bag,0,Key Items,A bag to carry ingredients gathered during Mallow’s trial in the jungle.
+fishing-rod,Fishing Rod,0,Key Items,A fishing rod made by Captain Lana. Cast a line over piles of underwater rocks to fish for wild aquatic Pokémon.
+professors-mask,Professor’s Mask,0,Key Items,The mask that belongs to The Masked Royal.  This pro wrestler apparently sews his mask on a machine himself.
+festival-ticket,Festival Ticket,10,Key Items,A ticket that allows you to host a mission in Festival Plaza.
+sparkling-stone,Sparkling Stone,0,Key Items,A stone entrusted by a Pokémon that has been venerated as a guardian deity in the Alola region. There is said to be some secret in how it sparkles.
+adrenaline-orb,Adrenaline Orb,300,Items,"Using it makes wild Pokémon call for help a number of times. If held by a Pokémon, it boosts Speed when intimidated. It can be used only once."
+zygarde-cube,Zygarde Cube,0,Key Items,An item to store Zygarde Cores and Cells. You can also use it to teach Zygarde moves.
+ice-stone,Ice Stone,3000,Items,A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable snowflake pattern.
+ride-pager,Ride Pager,0,Key Items,"By entering certain numbers on this pager, you can summon Ride Pokémon in an instant."
+beast-ball,Beast Ball,0,Poké Balls,A special Poké Ball designed to catch Ultra Beasts. It has a low success rate for catching others.
+big-malasada,Big Malasada,350,Medicine,The Alola region’s local specialty—fried bread. It can be used once to heal all the status conditions of a Pokémon.
+red-nectar,Red Nectar,300,Items,A flower nectar obtained at Ula’ula Meadow. It changes the form of certain species of Pokémon.
+yellow-nectar,Yellow Nectar,300,Items,A flower nectar obtained at Melemele Meadow. It changes the form of certain species of Pokémon.
+pink-nectar,Pink Nectar,300,Items,The flower nectar obtained at the flowering shrubs on Royal Avenue. It changes the form of certain species of Pokémon.
+purple-nectar,Purple Nectar,300,Items,A flower nectar obtained at Poni Meadow. It changes the form of certain species of Pokémon.
+sun-flute,Sun Flute,0,Key Items,It is said that the tones it produces were offered up as an expression of gratitude to the Legendary Pokémon of the sun.
+moon-flute,Moon Flute,0,Key Items,It is said that the tones it produces were offered up as an expression of gratitude to the Legendary Pokémon of the moon.
+enigmatic-card,Enigmatic Card,0,Key Items,A mysterious card. Written on it is a request for you to go to a guest room in an Akala motel on Route 8.
+terrain-extender,Terrain Extender,4000,Items,An item to be held by a Pokémon. It extends the duration of the terrain caused by the holder’s move or Ability.
+protective-pads,Protective Pads,4000,Items,An item to be held by a Pokémon. These pads protect the holder from effects caused by making direct contact with the target.
+electric-seed,Electric Seed,4000,Items,An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once.
+psychic-seed,Psychic Seed,4000,Items,An item to be held by a Pokémon. It boosts Sp. Def on Psychic Terrain. It can only be used once.
+misty-seed,Misty Seed,4000,Items,An item to be held by a Pokémon. It boosts Sp. Def on Misty Terrain. It can only be used once.
+grassy-seed,Grassy Seed,4000,Items,An item to be held by a Pokémon. It boosts Defense on Grassy Terrain. It can only be used once.
+fighting-memory,Fighting Memory,1000,Items,A memory disc that contains Fighting-type data. It changes the type of the holder if held by a certain species of Pokémon.
+flying-memory,Flying Memory,1000,Items,A memory disc that contains Flying-type data. It changes the type of the holder if held by a certain species of Pokémon.
+poison-memory,Poison Memory,1000,Items,A memory disc that contains Poison-type data. It changes the type of the holder if held by a certain species of Pokémon.
+ground-memory,Ground Memory,1000,Items,A memory disc that contains Ground-type data. It changes the type of the holder if held by a certain species of Pokémon.
+rock-memory,Rock Memory,1000,Items,A memory disc that contains Rock-type data. It changes the type of the holder if held by a certain species of Pokémon.
+bug-memory,Bug Memory,1000,Items,A memory disc that contains Bug-type data. It changes the type of the holder if held by a certain species of Pokémon.
+ghost-memory,Ghost Memory,1000,Items,A memory disc that contains Ghost-type data. It changes the type of the holder if held by a certain species of Pokémon.
+steel-memory,Steel Memory,1000,Items,A memory disc that contains Steel-type data. It changes the type of the holder if held by a certain species of Pokémon.
+fire-memory,Fire Memory,1000,Items,A memory disc that contains Fire-type data. It changes the type of the holder if held by a certain species of Pokémon.
+water-memory,Water Memory,1000,Items,A memory disc that contains Water-type data. It changes the type of the holder if held by a certain species of Pokémon.
+grass-memory,Grass Memory,1000,Items,A memory disc that contains Grass-type data. It changes the type of the holder if held by a certain species of Pokémon.
+electric-memory,Electric Memory,1000,Items,A memory disc that contains Electric-type data. It changes the type of the holder if held by a certain species of Pokémon.
+psychic-memory,Psychic Memory,1000,Items,A memory disc that contains Psychic-type data. It changes the type of the holder if held by a certain species of Pokémon.
+ice-memory,Ice Memory,1000,Items,A memory disc that contains Ice-type data. It changes the type of the holder if held by a certain species of Pokémon.
+dragon-memory,Dragon Memory,1000,Items,A memory disc that contains Dragon-type data. It changes the type of the holder if held by a certain species of Pokémon.
+dark-memory,Dark Memory,1000,Items,A memory disc that contains Dark-type data. It changes the type of the holder if held by a certain species of Pokémon.
+fairy-memory,Fairy Memory,1000,Items,A memory disc that contains Fairy-type data. It changes the type of the holder if held by a certain species of Pokémon.
+bike--green,Bike,0,Key Items,A folding Bike that enables a rider to get around much faster than with Running Shoes.
+storage-key--galactic-warehouse,Storage Key,0,Key Items,The key to Team Galactic’s sinister warehouse located at the edge of Veilstone City.
+basement-key--goldenrod,Basement Key,0,Key Items,A key that opens a door in the Goldenrod Tunnel.
+dropped-item--red,Dropped Item,0,Key Items,The Xtransceiver found at the Nimbasa City amusement park. It seems it belongs to a boy.
+dropped-item--yellow,Dropped Item,0,Key Items,The Xtransceiver found at the Nimbasa City amusement park. It seems it belongs to a girl.
+holo-caster--green,Holo Caster,0,Key Items,A device that allows users to receive and view hologram clips at any time. It’s also used to chat with others.
+bike--yellow,Bike,0,Key Items,A folding Bike that enables a rider to get around much faster than with Running Shoes.
+holo-caster--red,Holo Caster,0,Key Items,A device that allows users to receive and view hologram clips at any time. It’s also used to chat with others.
+basement-key--new-mauville,Basement Key,0,Key Items,"The key to New Mauville, which was constructed beneath Mauville City."
+storage-key--sea-mauville,Storage Key,0,Key Items,A key that opens the storage hold inside Sea Mauville.
+ss-ticket--hoenn,S.S. Ticket,0,Key Items,Ticket required for sailing on a ferry.
+contest-costume--dress,Contest Costume,0,Key Items,A very cute dress to be worn during the Contest Spectacular.
+meteorite--2,Meteorite,0,Key Items,A Meteorite that you got at Mt. Chimney. It gives off a faint glow.
+meteorite--3,Meteorite,0,Key Items,A Meteorite that you got at Mt. Chimney. It continues to give off a faint glow and is slightly warm to the touch.
+meteorite--4,Meteorite,0,Key Items,"A Meteorite that you got at Mt. Chimney. Some sort of pattern has risen to the surface, and it’s shining with seven colors of light."
+ability-patch,Ability Patch,0,Items,A patch that allows a Pokémon with a regular Ability to have a rare Ability. 
+adamant-mint,Adamant Mint,10,Items,"When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Atk will grow more slowly. "
+armor-pass,Armor Pass,0,Key Items,A pass to go to the Isle of Armor. Show it to the rail staff at Wedgehurst Station. 
+armorite-ore,Armorite Ore,20,Items,Rare ore that can be obtained on the Isle of Armor. Something good will happen if you give it to a collector on the Isle of Armor. 
+bachs-food-tin,Bach’s Food Tin,950,Ingredients,One of the many ingredients that can be used for cooking at your camp. The tinned food that Bach sells is curiously popular in Galar. 
+band-autograph,Band Autograph,0,Key Items,"It's signed by all members of the Galar region's most charismatic band, the Maximizers. "
+berry-sweet,Berry Sweet,250,Items,"A berry-shaped sweet. When a Milcery holds this, it spins around happily. "
+black-mane-hair,Black Mane Hair,0,Key Items,"Mane hair that belonged to the King of Bountiful Harvests' beloved steed, Spectrier. The hair is very smooth to the touch. "
+blunder-policy,Blunder Policy,2000,Items,Raises Speed sharply when a Pokémon misses with a move because of accuracy. 
+bobs-food-tin,Bob’s Food Tin,950,Ingredients,One of the many ingredients that can be used for cooking at your camp. The tinned food that Bob sells is curiously popular in Galar. 
+boiled-egg,Boiled Egg,2200,Ingredients,One of the many ingredients that can be used for cooking at your camp. Even just one boiled egg can really enhance a dish. 
+bold-mint,Bold Mint,10,Items,"When a Pokémon smells this mint, its Defense will grow more easily, but its Attack will grow more slowly. "
+brave-mint,Brave Mint,10,Items,"When a Pokémon smells this mint, its Attack will grow more easily, but its Speed will grow more slowly. "
+bread,Bread,150,Ingredients,One of the many ingredients that can be used for cooking at your camp. An indispensable tool for mopping up that extra curry left on your plate. 
+brittle-bones,Brittle Bones,950,Ingredients,One of the many ingredients that can be used for cooking at your camp. The taste boiled off from the bones is sure to give a dish a light umami taste. 
+calm-mint,Calm Mint,10,Items,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Attack will grow more slowly. "
+camping-gear,Camping Gear,0,Key Items,Everything you need to set up a tent and get cooking in a Wild Area or at a camping spot. 
+careful-mint,Careful Mint,10,Items,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Sp. Atk will grow more slowly. "
+carrot-seeds,Carrot Seeds,0,Key Items,Seeds to plant in a field. The kind of carrot you'll get is determined by which field you plant the seeds in. 
+catching-charm,Catching Charm,0,Key Items,"Holding it is said to increase the chance of getting a critical catch. Curiously, the charm doesn't shake much. "
+chipped-pot,Chipped Pot,3000,Items,"A peculiar teapot that can make a certain species of Pokémon evolve. It may be chipped, but tea poured from it is delicious. "
+clover-sweet,Clover Sweet,250,Items,"A clover-shaped sweet. When a Milcery holds this, it spins around happily. "
+coconut-milk,Coconut Milk,950,Ingredients,One of the many ingredients that can be used for cooking at your camp. The refined sweetness of this coconut milk makes it quite popular. 
+cracked-pot,Cracked Pot,3000,Items,"A peculiar teapot that can make a certain species of Pokémon evolve. It may be cracked, but tea poured from it is delicious. "
+crown-pass,Crown Pass,0,Key Items,A pass to go to the Crown Tundra. Show it to the rail staff at Wedgehurst Station. 
+dynamax-band,Dynamax Band,0,Key Items,A Wishing Star has been affixed to it. It lets out a light that allows Pokémon to Dynamax when at a Power Spot. 
+dynamax-candy,Dynamax Candy,0,Items,"A candy that is packed with energy. When consumed, it will raise the Dynamax Level of a single Pokémon by one. A higher level means higher HP when Dynamaxed. "
+dynite-ore,Dynite Ore,10,Items,Mysterious ore that can be obtained in the Max Lair. Something good will happen if you give it to a collector in the Crown Tundra. 
+eject-pack,Eject Pack,2000,items,"An item to be held by a Pokémon. When the holder's stats are lowered, it will be switched out of battle. "
+endorsement,Endorsement,0,Key Items,A letter of recommendation that you'll need in order to participate in the Gym Challenge. 
+exp-candy-l,Exp. Candy L,1500,Items,"A candy that is packed with energy. When consumed, it will grant a single Pokémon a large amount of Exp. Points. "
+exp-candy-m,Exp. Candy M,500,Items,"A candy that is packed with energy. When consumed, it will grant a single Pokémon a moderate amount of Exp. Points. "
+exp-candy-s,Exp. Candy S,120,Items,"A candy that is packed with energy. When consumed, it will grant a single Pokémon a small amount of Exp. Points. "
+exp-candy-xl,Exp. Candy XL,5000,Items,"A candy that is packed with energy. When consumed, it will grant a single Pokémon a very large amount of Exp. Points. "
+exp-candy-xs,Exp. Candy XS,10,Items,"A candy that is packed with energy. When consumed, it will grant a single Pokémon a very small amount of Exp. Points. "
+exp-charm,Exp. Charm,0,Key Items,A charm that increases the Exp. Points that Pokémon can get. A machine-like object is inside the charm. 
+fancy-apple,Fancy Apple,2200,Ingredients,One of the many ingredients that can be used for cooking at your camp. An apple chosen above others. It has spectacular form and a brilliant sheen. 
+flower-sweet,Flower Sweet,250,Items,"A flower-shaped sweet. When a Milcery holds this, it spins around happily. "
+fossilized-bird,Fossilized Bird,2500,Treasures,The fossil of an ancient Pokémon that once soared through the sky. What it looked like is a mystery. 
+fossilized-dino,Fossilized Dino,2500,Treasures,The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery. 
+fossilized-drake,Fossilized Drake,2500,Treasures,The fossil of an ancient Pokémon that once roamed the land. What it looked like is a mystery. 
+fossilized-fish,Fossilized Fish,2500,Treasures,The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery. 
+fresh-cream,Fresh Cream,950,Ingredients,One of the many ingredients that can be used for cooking at your camp. Add some whipped cream to a spicy curry to give it some sweetness. 
+fried-food,Fried Food,150,Ingredients,"One of the many ingredients that can be used for cooking at your camp. It's been a while since it was fried, so it's gotten greasy. "
+fruit-bunch,Fruit Bunch,2200,Ingredients,One of the many ingredients that can be used for cooking at your camp. The syrupy fruits give off a strong tropical feel. 
+galarica-cuff,Galarica Cuff,3000,Items,A cuff made from woven-together Galarica Twigs. Giving it to Galarian Slowpoke makes the Pokémon very happy. 
+galarica-twig,Galarica Twig,20,Items,A twig from a species of tree called Galarica that grows in certain areas around the Galar region. It's a material for an accessory for a certain Pokémon. 
+galarica-wreath,Galarica Wreath,3000,Items,A wreath made from woven-together Galarica Twigs. Placing it on the head of a Galarian Slowpoke makes the Pokémon very happy. 
+gentle-mint,Gentle Mint,10,Items,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Defense will grow more slowly. "
+gigantamix,Gigantamix,7500,Ingredients,One of the many ingredients that can be used for cooking at your camp. A mysterious spice. Even a tiny sprinkle is sure to make a curry gigantic. 
+hasty-mint,Hasty Mint,10,Items,"When a Pokémon smells this mint, its Speed will grow more easily, but its Defense will grow more slowly. "
+heavy-duty-boots,Heavy-Duty Boots,2000,Items,These boots prevent the effects of traps set on the battlefield. 
+hi-tech-earbuds,Hi-Tech Earbuds,0,Items,Strange earbuds that allow you to freely control the volume of various sounds. 
+iceroot-carrot,Iceroot Carrot,0,Key Items,Produce that the King of Bountiful Harvests' beloved steed likes to eat. It grew in a field covered in snow. 
+impish-mint,Impish Mint,10,Items,"When a Pokémon smells this mint, its Defense will grow more easily, but its Sp. Atk will grow more slowly. "
+instant-noodles,Instant Noodles,150,Ingredients,"One of the many ingredients that can be used for cooking at your camp. It has a junk-food sort of taste, but it goes well with curry. "
+jolly-mint,Jolly Mint,10,Items,"When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Atk will grow more slowly. "
+large-leek,Large Leek,2200,Ingredients,One of the many ingredients that can be used for cooking at your camp. Whether this is the kind of vegetable stalk that Farfetch'd like is unknown. 
+lax-mint,Lax Mint,10,Ingredients,"When a Pokémon smells this mint, its Defense will grow more easily, but its Sp. Def will grow more slowly. "
+legendary-clue-1,Legendary Clue 1,0,Key Items,"A clue about the King of Bountiful Harvests. It's written by Peony, and an old photo is attached to it. "
+legendary-clue-2,Legendary Clue 2,0,Key Items,A clue about the legend of giants. It's written by Peony and has unique drawings. 
+legendary-clue-3,Legendary Clue 3,0,Key Items,A clue about the legend of Bird Pokémon. It's written by Peony and has a unique drawing. 
+legendary-clue,Legendary Clue?,0,Key Items,A mysterious clue that Peony seems to have dropped. There's a photo attached to it showing a shining hole opening above the Max Lair. 
+lonely-mint,Lonely Mint,10,Items,"When a Pokémon smells this mint, its Attack will grow more easily, but its Defense will grow more slowly. "
+love-sweet,Love Sweet,250,Items,"A heart-shaped sweet. When a Milcery holds this, it spins around happily. "
+mark-charm,Mark Charm,0,Key Items,A mysterious and unique charm that increases the chance of finding a Pokémon with a mark. 
+max-honey,Max Honey,4000,Medicine,Honey that Dynamax Vespiquen produces. Adding this honey to Max Soup makes the taste very smooth. It also has the same effect as a Max Revive. 
+max-mushrooms,Max Mushrooms,4000,Battle Items,Mushrooms that have the power of changing Dynamax forms. They boost all stats of a Pokémon during battle. 
+mild-mint,Mild Mint,10,Items,"When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Defense will grow more slowly. "
+mixed-mushrooms,Mixed Mushrooms,400,Ingredients,One of the many ingredients that can be used for cooking at your camp. The chewy texture of the mushrooms transforms any dish they're added to. 
+modest-mint,Modest Mint,10,Ingredients,"When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Attack will grow more slowly. "
+moomoo-cheese,Moomoo Cheese,2200,Ingredients,One of the many ingredients that can be used for cooking at your camp. Melted cheese can really give a curry some richness. 
+naive-mint,Naive Mint,10,Items,"When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Def will grow more slowly. "
+naughty-mint,Naughty Mint,10,Items,"When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Def will grow more slowly. "
+old-letter,Old Letter,0,Key Items,"A letter entrusted to you by a girl, to be delivered to a boy. Strangely, it looks old to you. "
+pack-of-potatoes,Pack of Potatoes,400,Ingredients,"One of the many ingredients that can be used for cooking at your camp. Potatoes help mellow out a spicy taste, to make a dish more mild. "
+packaged-curry,Packaged Curry,950,Ingredients,One of the many ingredients that can be used for cooking at your camp. Using packaged curry helps make sure there are no slipups when cooking. 
+pasta,Pasta,150,Ingredients,One of the many ingredients that can be used for cooking at your camp. These flour noodles make for a surprisingly good match with curry. 
+precooked-burger,Precooked Burger,150,Ingredients,"One of the many ingredients that can be used for cooking at your camp. If you're unsure about what to cook, you can't go wrong with some burger. "
+pungent-root,Pungent Root,950,Ingredients,"One of the many ingredients that can be used for cooking at your camp. Though carelessly picked, these herbs can add a fragrant accent to a dish. "
+quiet-mint,Quiet Mint,10,Items,"When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Speed will grow more slowly. "
+radiant-petal,Radiant Petal,0,Key Items,A single petal that the King of Bountiful Harvests gave you. It radiates faint light. 
+rash-mint,Rash Mint,10,Items,"When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Sp. Def will grow more slowly. "
+reins-of-unity,Reins of Unity,0,Key Items,Reins that people presented to the king. They enhance Calyrex’s power over bountiful harvests and unite Calyrex with its beloved steed. 
+relaxed-mint,Relaxed Mint,10,Items,"When a Pokémon smells this mint, its Defense will grow more easily, but its Speed will grow more slowly. "
+ribbon-sweet,Ribbon Sweet,250,Items,"A ribbon-shaped sweet. When a Milcery holds this, it spins around happily. "
+room-service,Room Service,2000,Items,An item to be held by a Pokémon. Lowers Speed when Trick Room takes effect. 
+rotom-bike,Rotom Bike,0,Key Items,This bike can be combined with the Pokémon Rotom to not only do a turbo boost but also run on the water.
+rotom-catalog,Rotom Catalog,0,Key Items,A catalog of devices that Rotom like. Use the catalog to have Rotom hop in and out of the various devices listed within. 
+rusted-shield,Rusted Shield,0,Items,It is said that a hero used this shield to halt a terrible disaster in ancient times. But it's grown rusty and worn. 
+rusted-sword,Rusted Sword,0,Items,It is said that a hero used this sword to halt a terrible disaster in ancient times. But it's grown rusty and worn. 
+salad-mix,Salad Mix,400,Ingredients,One of the many ingredients that can be used for cooking at your camp. The assortment of vegetables looks quite appealing and healthy. 
+sassy-mint,Sassy Mint,10,Items,"When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Speed will grow more slowly. "
+sausages,Sausages,400,Ingredients,One of the many ingredients that can be used for cooking at your camp. These sausages should be boiled before eating. 
+serious-mint,Serious Mint,10,Items,"When a Pokémon smells this mint, all of its stats will grow at an equal rate. "
+shaderoot-carrot,Shaderoot Carrot,0,Key Items,Produce that the King of Bountiful Harvests' beloved steed likes to eat. It grew in a gloomy field. 
+smoke-poke-tail,Smoke-Poke Tail,2200,Ingredients,"One of the many ingredients that can be used for cooking at your camp. When a Slowpoke's tail falls off, it grows back quickly. "
+sonias-book,Sonia’s Book,0,Key Items,Professor Sonia's published writings. Her new discoveries about the Galar region's legends are recorded in this enjoyable read. 
+spice-mix,Spice Mix,400,Ingredients,One of the many ingredients that can be used for cooking at your camp. There are over fifty spices contained within this ingredient's hot flavor. 
+star-sweet,Star Sweet,250,Items,"A star-shaped sweet. When a Milcery holds this, it spins around happily. "
+strawberry-sweet,Strawberry Sweet,250,Items,"A strawberry-shaped sweet. When a Milcery holds this, it will spin around happily. "
+style-card,Style Card,0,Key Items,A card that increases the selection in boutiques and hair salons. 
+sweet-apple,Sweet Apple,1100,Items,A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally sweet. 
+tart-apple,Tart Apple,1100,Items,A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally tart. 
+throat-spray,Throat Spray,2000,Items,Raises Sp. Atk when a Pokémon uses a sound-based move. 
+timid-mint,Timid Mint,10,Items,"When a Pokémon smells this mint, its Speed will grow more easily, but its Attack will grow more slowly. "
+tin-of-beans,Tin of Beans,400,Ingredients,"One of the many ingredients that can be used for cooking at your camp. When simmered, the beans suffuse a dish with their mild flavor. "
+utility-umbrella,Utility Umbrella,2000,Items,An item to be held by a Pokémon. This sturdy umbrella protects the holder from the effects of rain and harsh sunlight. 
+white-mane-hair,White Mane Hair,0,Key Items,"Mane hair that belonged to the King of Bountiful Harvests' beloved steed, Glastrier. The hair is strong and very flexible. "
+wishing-piece,Wishing Piece,10,Items,Throw one into a Pokémon Den to attract a wild Dynamax Pokémon. 
+wishing-star,Wishing Star,0,Key Items,A stone found in the Galar region with a mysterious power. It's said that your dreams come true if you find one. 
+wooden-crown,Wooden Crown,0,Key Items,A mysterious object made of wood. Part of it seems to be chipped. Maybe it's meant to be part of something. 
+tm00,TM00,10000,TMs and HMs,
+tm01,TM01,40000,TMs and HMs,
+tm02,TM02,0,TMs and HMs,
+tm03,TM03,50000,TMs and HMs,
+tm04,TM04,50000,TMs and HMs,
+tm05,TM05,50000,TMs and HMs,
+tm06,TM06,0,TMs and HMs,
+tm07,TM07,0,TMs and HMs,
+tm08,TM08,50000,TMs and HMs,
+tm09,TM09,50000,TMs and HMs,
+tm10,TM10,0,TMs and HMs,
+tm11,TM11,0,TMs and HMs,
+tm12,TM12,50000,TMs and HMs,
+tm13,TM13,10000,TMs and HMs,
+tm14,TM14,0,TMs and HMs,
+tm15,TM15,0,TMs and HMs,
+tm16,TM16,0,TMs and HMs,
+tm17,TM17,10000,TMs and HMs,
+tm18,TM18,10000,TMs and HMs,
+tm19,TM19,10000,TMs and HMs,
+tm20,TM20,100000,TMs and HMs,
+tm21,TM21,0,TMs and HMs,
+tm22,TM22,0,TMs and HMs,
+tm23,TM23,10000,TMs and HMs,
+tm24,TM24,0,TMs and HMs,
+tm25,TM25,10000,TMs and HMs,
+tm26,TM26,0,TMs and HMs,
+tm27,TM27,0,TMs and HMs,
+tm28,TM28,100000,TMs and HMs,
+tm29,TM29,0,TMs and HMs,
+tm30,TM30,0,TMs and HMs,
+tm31,TM31,0,TMs and HMs,
+tm32,TM32,10000,TMs and HMs,
+tm33,TM33,10000,TMs and HMs,
+tm34,TM34,10000,TMs and HMs,
+tm35,TM35,10000,TMs and HMs,
+tm36,TM36,0,TMs and HMs,
+tm37,TM37,0,TMs and HMs,
+tm38,TM38,0,TMs and HMs,
+tm39,TM39,0,TMs and HMs,
+tm40,TM40,0,TMs and HMs,
+tm41,TM41,10000,TMs and HMs,
+tm42,TM42,0,TMs and HMs,
+tm43,TM43,0,TMs and HMs,
+tm44,TM44,100000,TMs and HMs,
+tm45,TM45,0,TMs and HMs,
+tm46,TM46,30000,TMs and HMs,
+tm47,TM47,0,TMs and HMs,
+tm48,TM48,0,TMs and HMs,
+tm49,TM49,0,TMs and HMs,
+tm50,TM50,10000,TMs and HMs,
+tm51,TM51,0,TMs and HMs,
+tm52,TM52,100000,TMs and HMs,
+tm53,TM53,0,TMs and HMs,
+tm54,TM54,0,TMs and HMs,
+tm55,TM55,10000,TMs and HMs,
+tm56,TM56,0,TMs and HMs,
+tm57,TM57,0,TMs and HMs,
+tm58,TM58,0,TMs and HMs,
+tm59,TM59,100000,TMs and HMs,
+tm60,TM60,30000,TMs and HMs,
+tm61,TM61,30000,TMs and HMs,
+tm62,TM62,30000,TMs and HMs,
+tm63,TM63,50000,TMs and HMs,
+tm64,TM64,0,TMs and HMs,
+tm65,TM65,0,TMs and HMs,
+tm66,TM66,30000,TMs and HMs,
+tm67,TM67,30000,TMs and HMs,
+tm68,TM68,30000,TMs and HMs,
+tm69,TM69,0,TMs and HMs,
+tm70,TM70,50000,TMs and HMs,
+tm71,TM71,50000,TMs and HMs,
+tm72,TM72,50000,TMs and HMs,
+tm73,TM73,0,TMs and HMs,
+tm74,TM74,0,TMs and HMs,
+tm75,TM75,0,TMs and HMs,
+tm76,TM76,10000,TMs and HMs,
+tm77,TM77,0,TMs and HMs,
+tm78,TM78,0,TMs and HMs,
+tm79,TM79,0,TMs and HMs,
+tm80,TM80,0,TMs and HMs,
+tm81,TM81,0,TMs and HMs,
+tm82,TM82,0,TMs and HMs,
+tm83,TM83,100000,TMs and HMs,
+tm84,TM84,0,TMs and HMs,
+tm85,TM85,0,TMs and HMs,
+tm86,TM86,0,TMs and HMs,
+tm87,TM87,0,TMs and HMs,
+tm88,TM88,20000,TMs and HMs,
+tm89,TM89,20000,TMs and HMs,
+tm90,TM90,20000,TMs and HMs,
+tm91,TM91,20000,TMs and HMs,
+tm92,TM92,100000,TMs and HMs,
+tm93,TM93,0,TMs and HMs,
+tm94,TM94,10000,TMs and HMs,
+tm95,TM95,0,TMs and HMs,
+tm96,TM96,0,TMs and HMs,
+tm97,TM97,0,TMs and HMs,
+tm98,TM98,0,TMs and HMs,
+tm99,TM99,0,TMs and HMs,
+tr00,TR00,2000,TMs and HMs,
+tr01,TR01,3000,TMs and HMs,
+tr02,TR02,5000,TMs and HMs,
+tr03,TR03,8000,TMs and HMs,
+tr04,TR04,5000,TMs and HMs,
+tr05,TR05,5000,TMs and HMs,
+tr06,TR06,8000,TMs and HMs,
+tr07,TR07,3000,TMs and HMs,
+tr08,TR08,5000,TMs and HMs,
+tr09,TR09,8000,TMs and HMs,
+tr10,TR10,8000,TMs and HMs,
+tr11,TR11,5000,TMs and HMs,
+tr12,TR12,2000,TMs and HMs,
+tr13,TR13,1000,TMs and HMs,
+tr14,TR14,1000,TMs and HMs,
+tr15,TR15,8000,TMs and HMs,
+tr16,TR16,3000,TMs and HMs,
+tr17,TR17,2000,TMs and HMs,
+tr18,TR18,3000,TMs and HMs,
+tr19,TR19,2000,TMs and HMs,
+tr20,TR20,3000,TMs and HMs,
+tr21,TR21,2000,TMs and HMs,
+tr22,TR22,5000,TMs and HMs,
+tr23,TR23,2000,TMs and HMs,
+tr24,TR24,8000,TMs and HMs,
+tr25,TR25,3000,TMs and HMs,
+tr26,TR26,1000,TMs and HMs,
+tr27,TR27,2000,TMs and HMs,
+tr28,TR28,8000,TMs and HMs,
+tr29,TR29,2000,TMs and HMs,
+tr30,TR30,2000,TMs and HMs,
+tr31,TR31,5000,TMs and HMs,
+tr32,TR32,3000,TMs and HMs,
+tr33,TR33,3000,TMs and HMs,
+tr34,TR34,3000,TMs and HMs,
+tr35,TR35,3000,TMs and HMs,
+tr36,TR36,5000,TMs and HMs,
+tr37,TR37,2000,TMs and HMs,
+tr38,TR38,2000,TMs and HMs,
+tr39,TR39,8000,TMs and HMs,
+tr40,TR40,1000,TMs and HMs,
+tr41,TR41,3000,TMs and HMs,
+tr42,TR42,5000,TMs and HMs,
+tr43,TR43,8000,TMs and HMs,
+tr44,TR44,2000,TMs and HMs,
+tr45,TR45,5000,TMs and HMs,
+tr46,TR46,2000,TMs and HMs,
+tr47,TR47,3000,TMs and HMs,
+tr48,TR48,2000,TMs and HMs,
+tr49,TR49,2000,TMs and HMs,
+tr50,TR50,5000,TMs and HMs,
+tr51,TR51,2000,TMs and HMs,
+tr52,TR52,3000,TMs and HMs,
+tr53,TR53,8000,TMs and HMs,
+tr54,TR54,2000,TMs and HMs,
+tr55,TR55,8000,TMs and HMs,
+tr56,TR56,3000,TMs and HMs,
+tr57,TR57,3000,TMs and HMs,
+tr58,TR58,3000,TMs and HMs,
+tr59,TR59,3000,TMs and HMs,
+tr60,TR60,3000,TMs and HMs,
+tr61,TR61,5000,TMs and HMs,
+tr62,TR62,3000,TMs and HMs,
+tr63,TR63,3000,TMs and HMs,
+tr64,TR64,8000,TMs and HMs,
+tr65,TR65,5000,TMs and HMs,
+tr66,TR66,8000,TMs and HMs,
+tr67,TR67,5000,TMs and HMs,
+tr68,TR68,2000,TMs and HMs,
+tr69,TR69,3000,TMs and HMs,
+tr70,TR70,5000,TMs and HMs,
+tr71,TR71,8000,TMs and HMs,
+tr72,TR72,8000,TMs and HMs,
+tr73,TR73,8000,TMs and HMs,
+tr74,TR74,5000,TMs and HMs,
+tr75,TR75,8000,TMs and HMs,
+tr76,TR76,3000,TMs and HMs,
+tr77,TR77,3000,TMs and HMs,
+tr78,TR78,5000,TMs and HMs,
+tr79,TR79,3000,TMs and HMs,
+tr80,TR80,3000,TMs and HMs,
+tr81,TR81,3000,TMs and HMs,
+tr82,TR82,2000,TMs and HMs,
+tr83,TR83,2000,TMs and HMs,
+tr84,TR84,3000,TMs and HMs,
+tr85,TR85,1000,TMs and HMs,
+tr86,TR86,5000,TMs and HMs,
+tr87,TR87,3000,TMs and HMs,
+tr88,TR88,3000,TMs and HMs,
+tr89,TR89,8000,TMs and HMs,
+tr90,TR90,5000,TMs and HMs,
+tr91,TR91,2000,TMs and HMs,
+tr92,TR92,3000,TMs and HMs,
+tr93,TR93,5000,TMs and HMs,
+tr94,TR94,5000,TMs and HMs,
+tr95,TR95,3000,TMs and HMs,
+tr96,TR96,5000,TMs and HMs,
+tr97,TR97,5000,TMs and HMs,
+tr98,TR98,3000,TMs and HMs,
+tr99,TR99,3000,TMs and HMs,
